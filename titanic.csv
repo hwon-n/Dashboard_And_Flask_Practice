@@ -1,0 +1,713 @@
+Pclass,Name,Sex,Age,SibSp,Parch,Fare,Embarked
+3,"Braund, Mr. Owen Harris",male,20s,1,0,less 10,S
+1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,30s,1,0,more 60 and less 80,C
+3,"Heikkinen, Miss. Laina",female,20s,0,0,less 10,S
+1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,30s,1,0,more 40 and less 60,S
+3,"Allen, Mr. William Henry",male,30s,0,0,less 10,S
+1,"McCarthy, Mr. Timothy J",male,50s,0,0,more 40 and less 60,S
+3,"Palsson, Master. Gosta Leonard",male,under 10s,3,1,more 20 and less 40,S
+3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,20s,0,2,more 10 and less 20,S
+2,"Nasser, Mrs. Nicholas (Adele Achem)",female,10s,1,0,more 20 and less 40,C
+3,"Sandstrom, Miss. Marguerite Rut",female,under 10s,1,1,more 10 and less 20,S
+1,"Bonnell, Miss. Elizabeth",female,50s,0,0,more 20 and less 40,S
+3,"Saundercock, Mr. William Henry",male,20s,0,0,less 10,S
+3,"Andersson, Mr. Anders Johan",male,30s,1,5,more 20 and less 40,S
+3,"Vestrom, Miss. Hulda Amanda Adolfina",female,10s,0,0,less 10,S
+2,"Hewlett, Mrs. (Mary D Kingcome) ",female,50s,0,0,more 10 and less 20,S
+3,"Rice, Master. Eugene",male,under 10s,4,1,more 20 and less 40,Q
+3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,30s,1,0,more 10 and less 20,S
+2,"Fynney, Mr. Joseph J",male,30s,0,0,more 20 and less 40,S
+2,"Beesley, Mr. Lawrence",male,30s,0,0,more 10 and less 20,S
+3,"McGowan, Miss. Anna ""Annie""",female,10s,0,0,less 10,Q
+1,"Sloper, Mr. William Thompson",male,20s,0,0,more 20 and less 40,S
+3,"Palsson, Miss. Torborg Danira",female,under 10s,3,1,more 20 and less 40,S
+3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,30s,1,5,more 20 and less 40,S
+1,"Fortune, Mr. Charles Alexander",male,10s,3,2,more 80,S
+1,"Uruchurtu, Don. Manuel E",male,40s,0,0,more 20 and less 40,C
+2,"Wheadon, Mr. Edward H",male,over 50s,0,0,more 10 and less 20,S
+1,"Meyer, Mr. Edgar Joseph",male,20s,1,0,more 80,C
+1,"Holverson, Mr. Alexander Oskar",male,40s,1,0,more 40 and less 60,S
+3,"Cann, Mr. Ernest Charles",male,20s,0,0,less 10,S
+3,"Vander Planke, Miss. Augusta Maria",female,10s,2,0,more 10 and less 20,S
+3,"Nicola-Yarred, Miss. Jamila",female,10s,1,0,more 10 and less 20,C
+3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40s,1,0,less 10,S
+2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,20s,1,0,more 20 and less 40,S
+2,"Laroche, Miss. Simonne Marie Anne Andree",female,under 10s,1,2,more 40 and less 60,C
+3,"Devaney, Miss. Margaret Delia",female,10s,0,0,less 10,Q
+3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,10s,1,0,more 10 and less 20,S
+3,"Panula, Master. Juha Niilo",male,under 10s,4,1,more 20 and less 40,S
+3,"Nosworthy, Mr. Richard Cater",male,20s,0,0,less 10,S
+1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,40s,1,0,more 60 and less 80,C
+2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,20s,1,0,more 20 and less 40,S
+1,"Ostby, Mr. Engelhart Cornelius",male,over 50s,0,1,more 60 and less 80,C
+2,"Rugg, Miss. Emily",female,20s,0,0,more 10 and less 20,S
+3,"Novel, Mr. Mansouer",male,20s,0,0,less 10,C
+2,"West, Miss. Constance Mirium",female,under 10s,1,2,more 20 and less 40,S
+3,"Goodwin, Master. William Frederick",male,10s,5,2,more 40 and less 60,S
+3,"Sirayanian, Mr. Orsen",male,20s,0,0,less 10,C
+1,"Harris, Mr. Henry Birkhardt",male,40s,1,0,more 80,S
+3,"Skoog, Master. Harald",male,under 10s,3,2,more 20 and less 40,S
+2,"Nye, Mrs. (Elizabeth Ramell)",female,20s,0,0,more 10 and less 20,S
+3,"Crease, Mr. Ernest James",male,10s,0,0,less 10,S
+3,"Andersson, Miss. Erna Alexandra",female,10s,4,2,less 10,S
+3,"Kink, Mr. Vincenz",male,20s,2,0,less 10,S
+2,"Jenkin, Mr. Stephen Curnow",male,30s,0,0,more 10 and less 20,S
+3,"Goodwin, Miss. Lillian Amy",female,10s,5,2,more 40 and less 60,S
+2,"Hood, Mr. Ambrose Jr",male,20s,0,0,more 60 and less 80,S
+3,"Chronopoulos, Mr. Apostolos",male,20s,1,0,more 10 and less 20,C
+3,"Bing, Mr. Lee",male,30s,0,0,more 40 and less 60,S
+3,"Moen, Mr. Sigurd Hansen",male,20s,0,0,less 10,S
+2,"Caldwell, Master. Alden Gates",male,under 10s,0,2,more 20 and less 40,S
+3,"Dowdell, Miss. Elizabeth",female,30s,0,0,more 10 and less 20,S
+3,"Waelens, Mr. Achille",male,20s,0,0,less 10,S
+3,"Sheerlinck, Mr. Jan Baptist",male,20s,0,0,less 10,S
+1,"Carrau, Mr. Francisco M",male,20s,0,0,more 40 and less 60,S
+2,"Ilett, Miss. Bertha",female,10s,0,0,more 10 and less 20,S
+3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,30s,3,0,more 10 and less 20,S
+3,"Ford, Mr. William Neal",male,10s,1,3,more 20 and less 40,S
+1,"Fortune, Miss. Mabel Helen",female,20s,3,2,more 80,S
+3,"Celotti, Mr. Francesco",male,20s,0,0,less 10,S
+3,"Christmann, Mr. Emil",male,20s,0,0,less 10,S
+3,"Andreasson, Mr. Paul Edvin",male,20s,0,0,less 10,S
+1,"Chaffee, Mr. Herbert Fuller",male,40s,1,0,more 60 and less 80,S
+3,"Dean, Mr. Bertram Frank",male,20s,1,2,more 20 and less 40,S
+3,"Coxon, Mr. Daniel",male,50s,0,0,less 10,S
+1,"Goldschmidt, Mr. George B",male,over 50s,0,0,more 20 and less 40,C
+1,"Greenfield, Mr. William Bertram",male,20s,0,1,more 60 and less 80,C
+2,"Doling, Mrs. John T (Ada Julia Bone)",female,30s,0,1,more 20 and less 40,S
+2,"Kantor, Mr. Sinai",male,30s,1,0,more 20 and less 40,S
+3,"Petranec, Miss. Matilda",female,20s,0,0,less 10,S
+1,"White, Mr. Richard Frasar",male,20s,0,1,more 60 and less 80,S
+3,"Johansson, Mr. Gustaf Joel",male,30s,0,0,less 10,S
+3,"Gustafsson, Mr. Anders Vilhelm",male,30s,2,0,less 10,S
+3,"Mionoff, Mr. Stoytcho",male,20s,0,0,less 10,S
+3,"Salkjelsvik, Miss. Anna Kristine",female,20s,0,0,less 10,S
+3,"Rekic, Mr. Tido",male,30s,0,0,less 10,S
+1,"Porter, Mr. Walter Chamberlain",male,40s,0,0,more 40 and less 60,S
+3,"Zabour, Miss. Hileni",female,10s,1,0,more 10 and less 20,C
+3,"Barton, Mr. David John",male,20s,0,0,less 10,S
+3,"Jussila, Miss. Katriina",female,20s,1,0,less 10,S
+3,"Attalah, Miss. Malake",female,10s,0,0,more 10 and less 20,C
+3,"Pekoniemi, Mr. Edvard",male,20s,0,0,less 10,S
+3,"Connors, Mr. Patrick",male,over 50s,0,0,less 10,Q
+2,"Turpin, Mr. William John Robert",male,20s,1,0,more 20 and less 40,S
+1,"Baxter, Mr. Quigg Edmond",male,20s,0,1,more 80,C
+3,"Andersson, Miss. Ellis Anna Maria",female,under 10s,4,2,more 20 and less 40,S
+2,"Hickman, Mr. Stanley George",male,20s,2,0,more 60 and less 80,S
+2,"Nasser, Mr. Nicholas",male,30s,1,0,more 20 and less 40,C
+2,"Webber, Miss. Susan",female,30s,0,0,more 10 and less 20,S
+1,"White, Mr. Percival Wayland",male,50s,0,1,more 60 and less 80,S
+3,"Nicola-Yarred, Master. Elias",male,10s,1,0,more 10 and less 20,C
+3,"Madsen, Mr. Fridtjof Arne",male,20s,0,0,less 10,S
+3,"Ekstrom, Mr. Johan",male,40s,0,0,less 10,S
+3,"Drazenoic, Mr. Jozef",male,30s,0,0,less 10,C
+3,"Coelho, Mr. Domingos Fernandeo",male,20s,0,0,less 10,S
+3,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,40s,1,0,more 10 and less 20,S
+2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,20s,1,0,more 20 and less 40,S
+2,"Sobey, Mr. Samuel James Hayden",male,20s,0,0,more 10 and less 20,S
+2,"Richard, Mr. Emile",male,20s,0,0,more 10 and less 20,C
+1,"Newsom, Miss. Helen Monypeny",female,10s,0,2,more 20 and less 40,S
+1,"Futrelle, Mr. Jacques Heath",male,30s,1,0,more 40 and less 60,S
+3,"Osen, Mr. Olaf Elon",male,10s,0,0,less 10,S
+1,"Giglio, Mr. Victor",male,20s,0,0,more 60 and less 80,C
+3,"Nysten, Miss. Anna Sofia",female,20s,0,0,less 10,S
+3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,20s,1,0,more 10 and less 20,S
+3,"Burke, Mr. Jeremiah",male,10s,0,0,less 10,Q
+2,"Andrew, Mr. Edgardo Samuel",male,10s,0,0,more 10 and less 20,S
+2,"Nicholls, Mr. Joseph Charles",male,10s,1,1,more 20 and less 40,S
+3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,20s,0,0,less 10,S
+3,"Ford, Miss. Robina Maggie ""Ruby""",female,under 10s,2,2,more 20 and less 40,S
+2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,30s,0,2,more 20 and less 40,S
+2,"Byles, Rev. Thomas Roussel Davids",male,40s,0,0,more 10 and less 20,S
+2,"Bateman, Rev. Robert James",male,50s,0,0,more 10 and less 20,S
+1,"Pears, Mrs. Thomas (Edith Wearne)",female,20s,1,0,more 60 and less 80,S
+3,"Meo, Mr. Alfonzo",male,50s,0,0,less 10,S
+3,"van Billiard, Mr. Austin Blyler",male,40s,0,2,more 10 and less 20,S
+1,"Williams, Mr. Charles Duane",male,50s,0,1,more 60 and less 80,C
+3,"Gilnagh, Miss. Katherine ""Katie""",female,10s,0,0,less 10,Q
+3,"Corn, Mr. Harry",male,30s,0,0,less 10,S
+3,"Cribb, Mr. John Hatfield",male,40s,0,1,more 10 and less 20,S
+2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40s,0,0,more 10 and less 20,S
+3,"Bengtsson, Mr. John Viktor",male,20s,0,0,less 10,S
+3,"Calic, Mr. Jovo",male,10s,0,0,less 10,S
+3,"Panula, Master. Eino Viljami",male,under 10s,4,1,more 20 and less 40,S
+3,"Goldsmith, Master. Frank John William ""Frankie""",male,under 10s,0,2,more 20 and less 40,S
+3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,40s,1,4,more 20 and less 40,S
+3,"Ling, Mr. Lee",male,20s,0,0,more 40 and less 60,S
+1,"Van der hoef, Mr. Wyckoff",male,over 50s,0,0,more 20 and less 40,S
+3,"Rice, Master. Arthur",male,under 10s,4,1,more 20 and less 40,Q
+3,"Johnson, Miss. Eleanor Ileen",female,under 10s,1,1,more 10 and less 20,S
+3,"Sivola, Mr. Antti Wilhelm",male,20s,0,0,less 10,S
+1,"Smith, Mr. James Clinch",male,50s,0,0,more 20 and less 40,C
+3,"Klasen, Mr. Klas Albin",male,10s,1,1,less 10,S
+1,"Isham, Miss. Ann Elizabeth",female,50s,0,0,more 20 and less 40,C
+2,"Hale, Mr. Reginald",male,30s,0,0,more 10 and less 20,S
+3,"Leonard, Mr. Lionel",male,30s,0,0,less 10,S
+3,"Asplund, Master. Clarence Gustaf Hugo",male,under 10s,4,2,more 20 and less 40,S
+2,"Becker, Master. Richard F",male,under 10s,2,1,more 20 and less 40,S
+3,"Kink-Heilmann, Miss. Luise Gretchen",female,under 10s,0,2,more 20 and less 40,S
+1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,40s,0,0,more 20 and less 40,S
+3,"Bourke, Mr. John",male,40s,1,1,more 10 and less 20,Q
+3,"Turcin, Mr. Stjepan",male,30s,0,0,less 10,S
+2,"Pinsky, Mrs. (Rosa)",female,30s,0,0,more 10 and less 20,S
+2,"Carbines, Mr. William",male,10s,0,0,more 10 and less 20,S
+3,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,10s,1,0,less 10,S
+2,"Navratil, Master. Michel M",male,under 10s,1,1,more 20 and less 40,S
+1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,40s,0,0,more 20 and less 40,C
+1,"Lurette, Miss. Elise",female,50s,0,0,more 80,C
+3,"Olsen, Mr. Karl Siegwart Andreas",male,40s,0,1,less 10,S
+2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,20s,0,0,more 10 and less 20,S
+3,"Vande Walle, Mr. Nestor Cyriel",male,20s,0,0,less 10,S
+3,"Johanson, Mr. Jakob Alfred",male,30s,0,0,less 10,S
+3,"Youseff, Mr. Gerious",male,40s,0,0,less 10,C
+3,"Cohen, Mr. Gurshon ""Gus""",male,10s,0,0,less 10,S
+3,"Strom, Miss. Telma Matilda",female,under 10s,0,1,more 10 and less 20,S
+3,"Backstrom, Mr. Karl Alfred",male,30s,1,0,more 10 and less 20,S
+3,"Albimona, Mr. Nassef Cassem",male,20s,0,0,more 10 and less 20,C
+3,"Carr, Miss. Helen ""Ellen""",female,10s,0,0,less 10,Q
+1,"Blank, Mr. Henry",male,40s,0,0,more 20 and less 40,C
+3,"Ali, Mr. Ahmed",male,20s,0,0,less 10,S
+2,"Cameron, Miss. Clear Annie",female,30s,0,0,more 20 and less 40,S
+3,"Perkin, Mr. John Henry",male,20s,0,0,less 10,S
+2,"Givard, Mr. Hans Kristensen",male,30s,0,0,more 10 and less 20,S
+1,"Newell, Miss. Madeleine",female,30s,1,0,more 80,C
+3,"Honkanen, Miss. Eliina",female,20s,0,0,less 10,S
+2,"Jacobsohn, Mr. Sidney Samuel",male,40s,1,0,more 20 and less 40,S
+1,"Bazzani, Miss. Albina",female,30s,0,0,more 60 and less 80,C
+2,"Harris, Mr. Walter",male,30s,0,0,more 10 and less 20,S
+3,"Sunderland, Mr. Victor Francis",male,10s,0,0,less 10,S
+2,"Bracken, Mr. James H",male,20s,0,0,more 10 and less 20,S
+3,"Green, Mr. George Henry",male,50s,0,0,less 10,S
+1,"Hoyt, Mr. Frederick Maxfield",male,30s,1,0,more 80,S
+3,"Berglund, Mr. Karl Ivar Sven",male,20s,0,0,less 10,S
+2,"Mellors, Mr. William John",male,10s,0,0,more 10 and less 20,S
+3,"Lovell, Mr. John Hall (""Henry"")",male,20s,0,0,less 10,S
+2,"Fahlstrom, Mr. Arne Jonas",male,10s,0,0,more 10 and less 20,S
+1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,30s,1,0,more 80,S
+3,"Larsson, Mr. Bengt Edvin",male,20s,0,0,less 10,S
+2,"Sjostedt, Mr. Ernst Adolf",male,50s,0,0,more 10 and less 20,S
+3,"Asplund, Miss. Lillian Gertrud",female,under 10s,4,2,more 20 and less 40,S
+2,"Leyson, Mr. Robert William Norman",male,20s,0,0,more 10 and less 20,S
+2,"Hold, Mr. Stephen",male,40s,1,0,more 20 and less 40,S
+2,"Collyer, Miss. Marjorie ""Lottie""",female,under 10s,0,2,more 20 and less 40,S
+2,"Pengelly, Mr. Frederick William",male,10s,0,0,more 10 and less 20,S
+2,"Hunt, Mr. George Henry",male,30s,0,0,more 10 and less 20,S
+2,"Coleridge, Mr. Reginald Charles",male,20s,0,0,more 10 and less 20,S
+3,"Maenpaa, Mr. Matti Alexanteri",male,20s,0,0,less 10,S
+3,"Attalah, Mr. Sleiman",male,30s,0,0,less 10,C
+1,"Minahan, Dr. William Edward",male,40s,2,0,more 80,Q
+3,"Lindahl, Miss. Agda Thorilda Viktoria",female,20s,0,0,less 10,S
+2,"Hamalainen, Mrs. William (Anna)",female,20s,0,2,more 10 and less 20,S
+1,"Beckwith, Mr. Richard Leonard",male,30s,1,1,more 40 and less 60,S
+2,"Carter, Rev. Ernest Courtenay",male,50s,1,0,more 20 and less 40,S
+3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,20s,1,1,more 10 and less 20,S
+1,"Stead, Mr. William Thomas",male,over 50s,0,0,more 20 and less 40,S
+3,"Lobb, Mr. William Arthur",male,30s,1,0,more 10 and less 20,S
+3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,40s,0,2,more 20 and less 40,S
+3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,20s,0,2,more 10 and less 20,C
+1,"Cherry, Miss. Gladys",female,30s,0,0,more 80,S
+1,"Ward, Miss. Anna",female,30s,0,0,more 80,C
+2,"Parrish, Mrs. (Lutie Davis)",female,50s,0,1,more 20 and less 40,S
+3,"Asplund, Master. Edvin Rojj Felix",male,under 10s,4,2,more 20 and less 40,S
+1,"Taussig, Mr. Emil",male,50s,1,1,more 60 and less 80,S
+1,"Harrison, Mr. William",male,40s,0,0,less 10,S
+2,"Reeves, Mr. David",male,30s,0,0,more 10 and less 20,S
+3,"Panula, Mr. Ernesti Arvid",male,10s,4,1,more 20 and less 40,S
+3,"Persson, Mr. Ernst Ulrik",male,20s,1,0,less 10,S
+1,"Graham, Mrs. William Thompson (Edith Junkins)",female,50s,0,1,more 80,S
+1,"Bissette, Miss. Amelia",female,30s,0,0,more 80,S
+3,"Tornquist, Mr. William Henry",male,20s,0,0,less 10,S
+2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,40s,0,1,more 10 and less 20,S
+1,"Natsch, Mr. Charles H",male,30s,0,1,more 20 and less 40,C
+1,"Andrews, Miss. Kornelia Theodosia",female,over 50s,1,0,more 60 and less 80,S
+3,"Lindblom, Miss. Augusta Charlotta",female,40s,0,0,less 10,S
+3,"Rice, Master. Eric",male,under 10s,4,1,more 20 and less 40,Q
+3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,30s,1,1,more 20 and less 40,S
+3,"Duane, Mr. Frank",male,over 50s,0,0,less 10,Q
+3,"Olsson, Mr. Nils Johan Goransson",male,20s,0,0,less 10,S
+3,"de Pelsmaeker, Mr. Alfons",male,10s,0,0,less 10,S
+3,"Dorking, Mr. Edward Arthur",male,10s,0,0,less 10,S
+3,"Stankovic, Mr. Ivan",male,30s,0,0,less 10,C
+3,"de Mulder, Mr. Theodore",male,30s,0,0,less 10,S
+3,"Naidenoff, Mr. Penko",male,20s,0,0,less 10,S
+2,"Hosono, Mr. Masabumi",male,40s,0,0,more 10 and less 20,S
+3,"Connolly, Miss. Kate",female,20s,0,0,less 10,Q
+1,"Barber, Miss. Ellen ""Nellie""",female,20s,0,0,more 60 and less 80,S
+1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,10s,1,0,more 80,C
+2,"Levy, Mr. Rene Jacques",male,30s,0,0,more 10 and less 20,C
+3,"Haas, Miss. Aloisia",female,20s,0,0,less 10,S
+3,"Mineff, Mr. Ivan",male,20s,0,0,less 10,S
+3,"Hanna, Mr. Mansour",male,20s,0,0,less 10,C
+1,"Allison, Miss. Helen Loraine",female,under 10s,1,2,more 80,S
+1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50s,0,1,more 80,C
+3,"Johnson, Mr. William Cahoone Jr",male,10s,0,0,less 10,S
+1,"Allison, Master. Hudson Trevor",male,under 10s,1,2,more 80,S
+1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,10s,1,0,more 80,C
+2,"Abelson, Mr. Samuel",male,30s,1,0,more 20 and less 40,C
+1,"Francatelli, Miss. Laura Mabel",female,30s,0,0,more 40 and less 60,C
+1,"Hays, Miss. Margaret Bechstein",female,20s,0,0,more 80,C
+1,"Ryerson, Miss. Emily Borie",female,10s,2,2,more 80,C
+2,"Lahtinen, Mrs. William (Anna Sylfven)",female,20s,1,1,more 20 and less 40,S
+3,"Hendekovic, Mr. Ignjac",male,20s,0,0,less 10,S
+2,"Hart, Mr. Benjamin",male,40s,1,1,more 20 and less 40,S
+3,"Nilsson, Miss. Helmina Josefina",female,20s,0,0,less 10,S
+2,"Kantor, Mrs. Sinai (Miriam Sternin)",female,20s,1,0,more 20 and less 40,S
+2,"Moraweck, Dr. Ernest",male,50s,0,0,more 10 and less 20,S
+1,"Wick, Miss. Mary Natalie",female,30s,0,2,more 80,S
+1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40s,1,1,more 80,C
+3,"Dennis, Mr. Samuel",male,20s,0,0,less 10,S
+3,"Danoff, Mr. Yoto",male,20s,0,0,less 10,S
+2,"Slayter, Miss. Hilda Mary",female,30s,0,0,more 10 and less 20,Q
+2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,20s,1,1,more 20 and less 40,S
+1,"Young, Miss. Marie Grice",female,30s,0,0,more 80,C
+3,"Nysveen, Mr. Johan Hansen",male,over 50s,0,0,less 10,S
+2,"Ball, Mrs. (Ada E Hall)",female,30s,0,0,more 10 and less 20,S
+3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,30s,1,1,more 20 and less 40,S
+1,"Hippach, Miss. Jean Gertrude",female,10s,0,1,more 40 and less 60,C
+1,"Partner, Mr. Austen",male,40s,0,0,more 20 and less 40,S
+1,"Graham, Mr. George Edward",male,30s,0,1,more 80,S
+3,"Vander Planke, Mr. Leo Edmondus",male,10s,2,0,more 10 and less 20,S
+1,"Pears, Mr. Thomas Clinton",male,20s,1,0,more 60 and less 80,S
+1,"Burns, Miss. Elizabeth Margaret",female,40s,0,0,more 80,C
+3,"Dahl, Mr. Karl Edwart",male,40s,0,0,less 10,S
+1,"Blackwell, Mr. Stephen Weart",male,40s,0,0,more 20 and less 40,S
+2,"Navratil, Master. Edmond Roger",male,under 10s,1,1,more 20 and less 40,S
+1,"Fortune, Miss. Alice Elizabeth",female,20s,3,2,more 80,S
+2,"Collander, Mr. Erik Gustaf",male,20s,0,0,more 10 and less 20,S
+2,"Sedgwick, Mr. Charles Frederick Waddington",male,20s,0,0,more 10 and less 20,S
+2,"Fox, Mr. Stanley Hubert",male,30s,0,0,more 10 and less 20,S
+2,"Brown, Miss. Amelia ""Mildred""",female,20s,0,0,more 10 and less 20,S
+2,"Smith, Miss. Marion Elsie",female,40s,0,0,more 10 and less 20,S
+3,"Coutts, Master. William Loch ""William""",male,under 10s,1,1,more 10 and less 20,S
+3,"Dimic, Mr. Jovan",male,40s,0,0,less 10,S
+3,"Odahl, Mr. Nils Martin",male,20s,0,0,less 10,S
+3,"Elias, Mr. Tannous",male,10s,1,1,less 10,C
+3,"Arnold-Franchi, Mr. Josef",male,20s,1,0,more 10 and less 20,S
+3,"Vanden Steen, Mr. Leo Peter",male,20s,0,0,less 10,S
+1,"Bowerman, Miss. Elsie Edith",female,20s,0,1,more 40 and less 60,S
+2,"Funk, Miss. Annie Clemmer",female,30s,0,0,more 10 and less 20,S
+3,"Skoog, Mr. Wilhelm",male,40s,1,4,more 20 and less 40,S
+2,"del Carlo, Mr. Sebastiano",male,20s,1,0,more 20 and less 40,C
+3,"Barbara, Mrs. (Catherine David)",female,40s,0,1,more 10 and less 20,C
+3,"Asim, Mr. Adola",male,30s,0,0,less 10,S
+3,"Adahl, Mr. Mauritz Nils Martin",male,30s,0,0,less 10,S
+1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,over 50s,1,0,more 60 and less 80,C
+1,"Aubart, Mme. Leontine Pauline",female,20s,0,0,more 60 and less 80,C
+1,"Harder, Mr. George Achilles",male,20s,1,0,more 40 and less 60,C
+3,"Wiklund, Mr. Jakob Alfred",male,10s,1,0,less 10,S
+3,"Beavan, Mr. William Thomas",male,10s,0,0,less 10,S
+1,"Ringhini, Mr. Sante",male,20s,0,0,more 80,C
+3,"Palsson, Miss. Stina Viola",female,under 10s,3,1,more 20 and less 40,S
+3,"Landergren, Miss. Aurora Adelia",female,20s,0,0,less 10,S
+1,"Widener, Mr. Harry Elkins",male,20s,0,2,more 80,C
+3,"Betros, Mr. Tannous",male,20s,0,0,less 10,C
+3,"Gustafsson, Mr. Karl Gideon",male,10s,0,0,less 10,S
+1,"Bidois, Miss. Rosalie",female,40s,0,0,more 80,C
+3,"Nakid, Miss. Maria (""Mary"")",female,under 10s,0,2,more 10 and less 20,C
+3,"Tikkanen, Mr. Juho",male,30s,0,0,less 10,S
+1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,30s,1,0,more 40 and less 60,S
+2,"Davies, Mr. Charles Henry",male,10s,0,0,more 60 and less 80,S
+3,"Goodwin, Master. Sidney Leonard",male,under 10s,5,2,more 40 and less 60,S
+2,"Buss, Miss. Kate",female,30s,0,0,more 10 and less 20,S
+2,"Lehmann, Miss. Bertha",female,10s,0,0,more 10 and less 20,C
+1,"Carter, Mr. William Ernest",male,30s,1,2,more 80,S
+3,"Jansson, Mr. Carl Olof",male,20s,0,0,less 10,S
+3,"Gustafsson, Mr. Johan Birger",male,20s,2,0,less 10,S
+1,"Newell, Miss. Marjorie",female,20s,1,0,more 80,C
+3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,20s,0,2,more 10 and less 20,S
+3,"Johansson, Mr. Erik",male,20s,0,0,less 10,S
+3,"Olsson, Miss. Elina",female,30s,0,0,less 10,S
+2,"McKane, Mr. Peter David",male,40s,0,0,more 20 and less 40,S
+2,"Pain, Dr. Alfred",male,20s,0,0,more 10 and less 20,S
+2,"Trout, Mrs. William H (Jessie L)",female,20s,0,0,more 10 and less 20,S
+3,"Niskanen, Mr. Juha",male,30s,0,0,less 10,S
+3,"Adams, Mr. John",male,20s,0,0,less 10,S
+3,"Jussila, Miss. Mari Aina",female,20s,1,0,less 10,S
+3,"Hakkarainen, Mr. Pekka Pietari",male,20s,1,0,more 10 and less 20,S
+3,"Oreskovic, Miss. Marija",female,20s,0,0,less 10,S
+2,"Gale, Mr. Shadrach",male,30s,1,0,more 20 and less 40,S
+3,"Widegren, Mr. Carl/Charles Peter",male,50s,0,0,less 10,S
+2,"Richards, Master. William Rowe",male,under 10s,1,1,more 10 and less 20,S
+3,"Birkeland, Mr. Hans Martin Monsen",male,20s,0,0,less 10,S
+1,"Minahan, Miss. Daisy E",female,30s,1,0,more 80,Q
+3,"Sundman, Mr. Johan Julian",male,40s,0,0,less 10,S
+2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,30s,1,1,more 20 and less 40,S
+2,"Silven, Miss. Lyyli Karoliina",female,10s,0,2,more 10 and less 20,S
+2,"Matthews, Mr. William John",male,30s,0,0,more 10 and less 20,S
+3,"Van Impe, Miss. Catharina",female,10s,0,2,more 20 and less 40,S
+3,"Charters, Mr. David",male,20s,0,0,less 10,Q
+3,"Zimmerman, Mr. Leo",male,20s,0,0,less 10,S
+3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,20s,1,1,more 10 and less 20,S
+3,"Rosblom, Mr. Viktor Richard",male,10s,1,1,more 20 and less 40,S
+2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,20s,1,0,more 20 and less 40,S
+2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,10s,0,0,more 20 and less 40,S
+3,"Pickard, Mr. Berk (Berk Trembisky)",male,30s,0,0,less 10,S
+1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,20s,0,0,more 20 and less 40,S
+2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,40s,1,0,more 20 and less 40,S
+3,"Kallio, Mr. Nikolai Erland",male,10s,0,0,less 10,S
+1,"Silvey, Mr. William Baird",male,50s,1,0,more 40 and less 60,S
+1,"Carter, Miss. Lucile Polk",female,10s,1,2,more 80,S
+3,"Ford, Miss. Doolina Margaret ""Daisy""",female,20s,2,2,more 20 and less 40,S
+2,"Richards, Mrs. Sidney (Emily Hocking)",female,20s,2,3,more 10 and less 20,S
+1,"Fortune, Mr. Mark",male,over 50s,1,4,more 80,S
+2,"Kvillner, Mr. Johan Henrik Johannesson",male,30s,0,0,more 10 and less 20,S
+2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,40s,1,1,more 20 and less 40,S
+3,"Hampe, Mr. Leon",male,20s,0,0,less 10,S
+3,"Petterson, Mr. Johan Emil",male,20s,1,0,less 10,S
+2,"Reynaldo, Ms. Encarnacion",female,20s,0,0,more 10 and less 20,S
+1,"Dodge, Master. Washington",male,under 10s,0,2,more 80,S
+2,"Mellinger, Miss. Madeleine Violet",female,10s,0,1,more 10 and less 20,S
+1,"Seward, Mr. Frederic Kimber",male,30s,0,0,more 20 and less 40,S
+3,"Baclini, Miss. Marie Catherine",female,under 10s,2,1,more 10 and less 20,C
+1,"Peuchen, Major. Arthur Godfrey",male,50s,0,0,more 20 and less 40,S
+2,"West, Mr. Edwy Arthur",male,30s,1,2,more 20 and less 40,S
+1,"Foreman, Mr. Benjamin Laventall",male,30s,0,0,more 20 and less 40,C
+1,"Goldenberg, Mr. Samuel L",male,40s,1,0,more 80,C
+3,"Jalsevac, Mr. Ivan",male,20s,0,0,less 10,C
+1,"Millet, Mr. Francis Davis",male,over 50s,0,0,more 20 and less 40,S
+2,"Toomey, Miss. Ellen",female,50s,0,0,more 10 and less 20,S
+1,"Anderson, Mr. Harry",male,40s,0,0,more 20 and less 40,S
+3,"Morley, Mr. William",male,30s,0,0,less 10,S
+1,"Gee, Mr. Arthur H",male,40s,0,0,more 20 and less 40,S
+2,"Milling, Mr. Jacob Christian",male,40s,0,0,more 10 and less 20,S
+3,"Goncalves, Mr. Manuel Estanslas",male,30s,0,0,less 10,S
+1,"Smart, Mr. John Montgomery",male,50s,0,0,more 20 and less 40,S
+3,"Baclini, Miss. Helene Barbara",female,under 10s,2,1,more 10 and less 20,C
+3,"Cacic, Mr. Luka",male,30s,0,0,less 10,S
+2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,30s,1,2,more 20 and less 40,S
+2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,20s,0,0,more 10 and less 20,C
+3,"Strandberg, Miss. Ida Sofia",female,20s,0,0,less 10,S
+2,"Renouf, Mr. Peter Henry",male,30s,1,0,more 20 and less 40,S
+3,"Braund, Mr. Lewis Richard",male,20s,1,0,less 10,S
+3,"Karlsson, Mr. Nils August",male,20s,0,0,less 10,S
+3,"Hirvonen, Miss. Hildur E",female,under 10s,0,1,more 10 and less 20,S
+3,"Goodwin, Master. Harold Victor",male,under 10s,5,2,more 40 and less 60,S
+3,"Rouse, Mr. Richard Henry",male,50s,0,0,less 10,S
+3,"Turkula, Mrs. (Hedwig)",female,over 50s,0,0,less 10,S
+1,"Bishop, Mr. Dickinson H",male,20s,1,0,more 80,C
+1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,30s,1,0,more 80,S
+1,"Kent, Mr. Edward Austin",male,50s,0,0,more 20 and less 40,C
+3,"Somerton, Mr. Francis William",male,30s,0,0,less 10,S
+3,"Coutts, Master. Eden Leslie ""Neville""",male,under 10s,1,1,more 10 and less 20,S
+3,"Windelov, Mr. Einar",male,20s,0,0,less 10,S
+1,"Molson, Mr. Harry Markland",male,50s,0,0,more 20 and less 40,S
+1,"Artagaveytia, Mr. Ramon",male,over 50s,0,0,more 40 and less 60,C
+3,"Stanley, Mr. Edward Roland",male,20s,0,0,less 10,S
+1,"Eustis, Miss. Elizabeth Mussey",female,50s,1,0,more 60 and less 80,C
+1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,20s,1,2,more 80,S
+3,"Svensson, Mr. Olof",male,20s,0,0,less 10,S
+3,"Calic, Mr. Petar",male,10s,0,0,less 10,S
+3,"Canavan, Miss. Mary",female,20s,0,0,less 10,Q
+3,"Laitinen, Miss. Kristina Sofia",female,30s,0,0,less 10,S
+1,"Maioni, Miss. Roberta",female,10s,0,0,more 80,S
+1,"Penasco y Castellana, Mr. Victor de Satode",male,10s,1,0,more 80,C
+2,"Quick, Mrs. Frederick Charles (Jane Richards)",female,30s,0,2,more 20 and less 40,S
+3,"Olsen, Mr. Henry Margido",male,20s,0,0,more 20 and less 40,S
+3,"Lang, Mr. Fang",male,20s,0,0,more 40 and less 60,S
+3,"Daly, Mr. Eugene Patrick",male,20s,0,0,less 10,Q
+1,"McGough, Mr. James Robert",male,30s,0,0,more 20 and less 40,S
+1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,50s,1,0,more 40 and less 60,C
+3,"Coleff, Mr. Satio",male,20s,0,0,less 10,S
+1,"Walker, Mr. William Anderson",male,40s,0,0,more 20 and less 40,S
+2,"Lemore, Mrs. (Amelia Milley)",female,30s,0,0,more 10 and less 20,S
+2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,30s,1,0,more 20 and less 40,S
+3,"Pavlovic, Mr. Stefo",male,30s,0,0,less 10,S
+1,"Perreault, Miss. Anne",female,30s,0,0,more 80,S
+3,"Vovk, Mr. Janko",male,20s,0,0,less 10,S
+1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,40s,0,1,more 40 and less 60,C
+3,"Farrell, Mr. James",male,40s,0,0,less 10,Q
+2,"Ridsdale, Miss. Lucy",female,50s,0,0,more 10 and less 20,S
+3,"Salonen, Mr. Johan Werner",male,30s,0,0,less 10,S
+2,"Hocking, Mr. Richard George",male,20s,2,1,more 10 and less 20,S
+2,"Quick, Miss. Phyllis May",female,under 10s,1,1,more 20 and less 40,S
+3,"Elias, Mr. Joseph Jr",male,10s,1,1,less 10,C
+3,"Cacic, Miss. Marija",female,30s,0,0,less 10,S
+2,"Hart, Miss. Eva Miriam",female,under 10s,0,2,more 20 and less 40,S
+1,"Butt, Major. Archibald Willingham",male,40s,0,0,more 20 and less 40,S
+1,"LeRoy, Miss. Bertha",female,30s,0,0,more 80,C
+1,"Frolicher, Miss. Hedwig Margaritha",female,20s,0,2,more 40 and less 60,C
+1,"Crosby, Miss. Harriet R",female,30s,0,2,more 60 and less 80,S
+3,"Andersson, Miss. Ingeborg Constanzia",female,under 10s,4,2,more 20 and less 40,S
+3,"Andersson, Miss. Sigrid Elisabeth",female,10s,4,2,more 20 and less 40,S
+2,"Beane, Mr. Edward",male,30s,1,0,more 20 and less 40,S
+1,"Douglas, Mr. Walter Donald",male,50s,1,0,more 80,C
+1,"Nicholson, Mr. Arthur Ernest",male,over 50s,0,0,more 20 and less 40,S
+2,"Beane, Mrs. Edward (Ethel Clarke)",female,10s,1,0,more 20 and less 40,S
+3,"Goldsmith, Mr. Frank John",male,30s,1,1,more 20 and less 40,S
+2,"Davies, Master. John Morgan Jr",male,under 10s,1,1,more 20 and less 40,S
+1,"Thayer, Mr. John Borland Jr",male,10s,0,2,more 80,C
+2,"Sharp, Mr. Percival James R",male,20s,0,0,more 20 and less 40,S
+3,"Leeni, Mr. Fahim (""Philip Zenni"")",male,20s,0,0,less 10,C
+3,"Ohman, Miss. Velin",female,20s,0,0,less 10,S
+1,"Wright, Mr. George",male,over 50s,0,0,more 20 and less 40,S
+1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,40s,1,0,more 20 and less 40,C
+1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,30s,1,1,more 60 and less 80,S
+3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,30s,1,0,more 10 and less 20,S
+3,"Sivic, Mr. Husein",male,40s,0,0,less 10,S
+2,"Norman, Mr. Robert Douglas",male,20s,0,0,more 10 and less 20,S
+3,"Davies, Mr. Alfred J",male,20s,2,0,more 20 and less 40,S
+3,"Stoytcheff, Mr. Ilia",male,10s,0,0,less 10,S
+3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,20s,0,4,more 20 and less 40,S
+3,"Jonsson, Mr. Carl",male,30s,0,0,less 10,S
+2,"Harris, Mr. George",male,over 50s,0,0,more 10 and less 20,S
+1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,50s,2,0,more 40 and less 60,S
+1,"Flynn, Mr. John Irwin (""Irving"")",male,30s,0,0,more 20 and less 40,S
+3,"Rush, Mr. Alfred George John",male,10s,0,0,less 10,S
+3,"Patchett, Mr. George",male,10s,0,0,more 10 and less 20,S
+2,"Garside, Miss. Ethel",female,30s,0,0,more 10 and less 20,S
+1,"Silvey, Mrs. William Baird (Alice Munger)",female,30s,1,0,more 40 and less 60,S
+3,"Jussila, Mr. Eiriik",male,30s,0,0,less 10,S
+2,"Christy, Miss. Julie Rachel",female,20s,1,1,more 20 and less 40,S
+1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,30s,1,1,more 80,C
+2,"Downton, Mr. William James",male,50s,0,0,more 20 and less 40,S
+1,"Ross, Mr. John Hugo",male,30s,0,0,more 40 and less 60,C
+1,"Taussig, Miss. Ruth",female,10s,0,2,more 60 and less 80,S
+2,"Jarvis, Mr. John Denzil",male,40s,0,0,more 10 and less 20,S
+1,"Frolicher-Stehli, Mr. Maxmillian",male,over 50s,1,1,more 60 and less 80,C
+3,"Gilinski, Mr. Eliezer",male,20s,0,0,less 10,S
+3,"Rintamaki, Mr. Matti",male,30s,0,0,less 10,S
+1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,50s,1,0,more 60 and less 80,C
+3,"Elsbury, Mr. William James",male,40s,0,0,less 10,S
+2,"Chapman, Mr. John Henry",male,30s,1,0,more 20 and less 40,S
+3,"Van Impe, Mr. Jean Baptiste",male,30s,1,1,more 20 and less 40,S
+3,"Johnson, Mr. Alfred",male,40s,0,0,less 10,S
+1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,40s,1,0,more 40 and less 60,C
+2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,20s,2,1,more 20 and less 40,S
+3,"Torber, Mr. Ernst William",male,40s,0,0,less 10,S
+1,"Homer, Mr. Harry (""Mr E Haven"")",male,30s,0,0,more 20 and less 40,C
+3,"Lindell, Mr. Edvard Bengtsson",male,30s,1,0,more 10 and less 20,S
+3,"Karaic, Mr. Milan",male,30s,0,0,less 10,S
+1,"Daniel, Mr. Robert Williams",male,20s,0,0,more 20 and less 40,S
+2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,20s,1,2,more 40 and less 60,C
+1,"Shutes, Miss. Elizabeth W",female,40s,0,0,more 80,S
+3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,30s,1,5,more 20 and less 40,S
+3,"Brocklebank, Mr. William Alfred",male,30s,0,0,less 10,S
+2,"Herman, Miss. Alice",female,20s,1,2,more 60 and less 80,S
+3,"Danbom, Mr. Ernst Gilbert",male,30s,1,1,more 10 and less 20,S
+3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,20s,1,0,more 10 and less 20,S
+2,"Becker, Miss. Marion Louise",female,under 10s,2,1,more 20 and less 40,S
+2,"Gavey, Mr. Lawrence",male,20s,0,0,more 10 and less 20,S
+3,"Yasbeck, Mr. Antoni",male,20s,1,0,more 10 and less 20,C
+1,"Kimball, Mr. Edwin Nelson Jr",male,40s,1,0,more 40 and less 60,S
+3,"Nakid, Mr. Sahid",male,20s,1,1,more 10 and less 20,C
+3,"Hansen, Mr. Henry Damsgaard",male,20s,0,0,less 10,S
+3,"Bowen, Mr. David John ""Dai""",male,20s,0,0,more 10 and less 20,S
+1,"Sutton, Mr. Frederick",male,over 50s,0,0,more 20 and less 40,S
+2,"Kirkland, Rev. Charles Leonard",male,50s,0,0,more 10 and less 20,Q
+1,"Longley, Miss. Gretchen Fiske",female,20s,0,0,more 60 and less 80,S
+3,"Bostandyeff, Mr. Guentcho",male,20s,0,0,less 10,S
+1,"Barkworth, Mr. Algernon Henry Wilson",male,over 50s,0,0,more 20 and less 40,S
+3,"Lundahl, Mr. Johan Svensson",male,50s,0,0,less 10,S
+1,"Stahelin-Maeglin, Dr. Max",male,30s,0,0,more 20 and less 40,C
+3,"Skoog, Miss. Mabel",female,under 10s,3,2,more 20 and less 40,S
+2,"Davis, Miss. Mary",female,20s,0,0,more 10 and less 20,S
+3,"Leinonen, Mr. Antti Gustaf",male,30s,0,0,less 10,S
+2,"Collyer, Mr. Harvey",male,30s,1,1,more 20 and less 40,S
+3,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,40s,0,5,more 20 and less 40,S
+3,"Jensen, Mr. Hans Peder",male,20s,0,0,less 10,S
+1,"Sagesser, Mlle. Emma",female,20s,0,0,more 60 and less 80,C
+3,"Skoog, Miss. Margit Elizabeth",female,under 10s,3,2,more 20 and less 40,S
+3,"Baclini, Miss. Eugenie",female,under 10s,2,1,more 10 and less 20,C
+1,"Harper, Mr. Henry Sleeper",male,40s,1,0,more 60 and less 80,C
+3,"Cor, Mr. Liudevit",male,10s,0,0,less 10,S
+1,"Simonius-Blumer, Col. Oberst Alfons",male,50s,0,0,more 20 and less 40,C
+3,"Stanley, Miss. Amy Zillah Elsie",female,20s,0,0,less 10,S
+2,"Doling, Miss. Elsie",female,10s,0,1,more 20 and less 40,S
+3,"Kalvik, Mr. Johannes Halvorsen",male,20s,0,0,less 10,S
+3,"Hegarty, Miss. Hanora ""Nora""",female,10s,0,0,less 10,Q
+2,"Hickman, Mr. Leonard Mark",male,20s,2,0,more 60 and less 80,S
+3,"Bourke, Mrs. John (Catherine)",female,30s,1,1,more 10 and less 20,Q
+2,"Eitemiller, Mr. George Floyd",male,20s,0,0,more 10 and less 20,S
+1,"Newell, Mr. Arthur Webster",male,50s,0,2,more 80,C
+1,"Frauenthal, Dr. Henry William",male,50s,2,0,more 80,S
+3,"Badt, Mr. Mohamed",male,40s,0,0,less 10,C
+1,"Colley, Mr. Edward Pomeroy",male,40s,0,0,more 20 and less 40,S
+3,"Coleff, Mr. Peju",male,30s,0,0,less 10,S
+3,"Lindqvist, Mr. Eino William",male,20s,1,0,less 10,S
+2,"Hickman, Mr. Lewis",male,30s,2,0,more 60 and less 80,S
+2,"Butler, Mr. Reginald Fenton",male,20s,0,0,more 10 and less 20,S
+3,"Cook, Mr. Jacob",male,40s,0,0,less 10,S
+2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40s,1,1,more 20 and less 40,S
+1,"Davidson, Mr. Thornton",male,30s,1,0,more 40 and less 60,S
+2,"Mitchell, Mr. Henry Michael",male,over 50s,0,0,more 10 and less 20,S
+2,"Wilhelms, Mr. Charles",male,30s,0,0,more 10 and less 20,S
+3,"Edvardsson, Mr. Gustaf Hjalmar",male,10s,0,0,less 10,S
+3,"Sawyer, Mr. Frederick Charles",male,20s,0,0,less 10,S
+3,"Turja, Miss. Anna Sofia",female,10s,0,0,less 10,S
+3,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,40s,1,6,more 40 and less 60,S
+1,"Cardeza, Mr. Thomas Drake Martinez",male,30s,0,1,more 80,C
+1,"Hassab, Mr. Hammad",male,20s,0,0,more 60 and less 80,C
+3,"Olsvigen, Mr. Thor Anderson",male,20s,0,0,less 10,S
+3,"Goodwin, Mr. Charles Edward",male,10s,5,2,more 40 and less 60,S
+2,"Brown, Mr. Thomas William Solomon",male,over 50s,1,1,more 20 and less 40,S
+2,"Laroche, Mr. Joseph Philippe Lemercier",male,20s,1,2,more 40 and less 60,C
+3,"Panula, Mr. Jaako Arnold",male,10s,4,1,more 20 and less 40,S
+3,"Dakic, Mr. Branko",male,10s,0,0,more 10 and less 20,S
+3,"Fischer, Mr. Eberhard Thelander",male,10s,0,0,less 10,S
+1,"Madill, Miss. Georgette Alexandra",female,10s,0,1,more 80,S
+1,"Dick, Mr. Albert Adrian",male,30s,1,0,more 40 and less 60,S
+3,"Karun, Miss. Manca",female,under 10s,0,1,more 10 and less 20,C
+3,"Saad, Mr. Khalil",male,20s,0,0,less 10,C
+1,"Weir, Col. John",male,over 50s,0,0,more 20 and less 40,S
+2,"Chapman, Mr. Charles Henry",male,50s,0,0,more 10 and less 20,S
+3,"Kelly, Mr. James",male,40s,0,0,less 10,S
+1,"Thayer, Mr. John Borland",male,40s,1,1,more 80,C
+3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,40s,0,0,less 10,S
+1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,10s,1,0,more 80,C
+1,"Silverthorne, Mr. Spencer Victor",male,30s,0,0,more 20 and less 40,S
+3,"Barbara, Miss. Saiide",female,10s,0,1,more 10 and less 20,C
+3,"Gallagher, Mr. Martin",male,20s,0,0,less 10,Q
+3,"Hansen, Mr. Henrik Juul",male,20s,1,0,less 10,S
+2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,30s,0,0,more 20 and less 40,S
+2,"Kelly, Mrs. Florence ""Fannie""",female,40s,0,0,more 10 and less 20,S
+1,"Calderhead, Mr. Edward Pennington",male,40s,0,0,more 20 and less 40,S
+1,"Cleaver, Miss. Alice",female,20s,0,0,more 80,S
+1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,20s,0,0,more 40 and less 60,C
+1,"Taylor, Mr. Elmer Zebley",male,40s,1,0,more 40 and less 60,S
+3,"Larsson, Mr. August Viktor",male,20s,0,0,less 10,S
+2,"Greenberg, Mr. Samuel",male,50s,0,0,more 10 and less 20,S
+3,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,10s,0,0,less 10,S
+1,"Endres, Miss. Caroline Louise",female,30s,0,0,more 80,C
+2,"Troutt, Miss. Edwina Celia ""Winnie""",female,20s,0,0,more 10 and less 20,S
+3,"Johnson, Mr. Malkolm Joackim",male,30s,0,0,less 10,S
+2,"Harper, Miss. Annie Jessie ""Nina""",female,under 10s,0,1,more 20 and less 40,S
+3,"Jensen, Mr. Svend Lauritz",male,10s,1,0,less 10,S
+2,"Gillespie, Mr. William Henry",male,30s,0,0,more 10 and less 20,S
+2,"Hodges, Mr. Henry Price",male,50s,0,0,more 10 and less 20,S
+1,"Chambers, Mr. Norman Campbell",male,20s,1,0,more 40 and less 60,S
+3,"Oreskovic, Mr. Luka",male,20s,0,0,less 10,S
+2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30s,3,0,more 20 and less 40,S
+2,"Bryhl, Mr. Kurt Arnold Gottfrid",male,20s,1,0,more 20 and less 40,S
+3,"Ilmakangas, Miss. Pieta Sofia",female,20s,1,0,less 10,S
+1,"Allen, Miss. Elisabeth Walton",female,20s,0,0,more 80,S
+3,"Hassan, Mr. Houssein G N",male,10s,0,0,more 10 and less 20,C
+2,"Berriman, Mr. William John",male,20s,0,0,more 10 and less 20,S
+2,"Troupiansky, Mr. Moses Aaron",male,20s,0,0,more 10 and less 20,S
+3,"Williams, Mr. Leslie",male,20s,0,0,more 10 and less 20,S
+3,"Ford, Mrs. Edward (Margaret Ann Watson)",female,40s,1,3,more 20 and less 40,S
+1,"Lesurer, Mr. Gustave J",male,30s,0,0,more 80,C
+1,"Cavendish, Mr. Tyrell William",male,30s,1,0,more 60 and less 80,S
+1,"Ryerson, Miss. Susan Parker ""Suzette""",female,20s,2,2,more 80,C
+3,"McNamee, Mr. Neal",male,20s,1,0,more 10 and less 20,S
+3,"Stranden, Mr. Juho",male,30s,0,0,less 10,S
+1,"Crosby, Capt. Edward Gifford",male,over 50s,1,1,more 60 and less 80,S
+3,"Abbott, Mr. Rossmore Edward",male,10s,1,1,more 20 and less 40,S
+2,"Sinkkonen, Miss. Anna",female,30s,0,0,more 10 and less 20,S
+1,"Marvin, Mr. Daniel Warner",male,10s,1,0,more 40 and less 60,S
+3,"Connaghton, Mr. Michael",male,30s,0,0,less 10,Q
+2,"Wells, Miss. Joan",female,under 10s,1,1,more 20 and less 40,S
+3,"Moor, Master. Meier",male,under 10s,0,1,more 10 and less 20,S
+3,"Vande Velde, Mr. Johannes Joseph",male,30s,0,0,less 10,S
+3,"Jonkoff, Mr. Lalio",male,20s,0,0,less 10,S
+2,"Herman, Mrs. Samuel (Jane Laver)",female,40s,1,2,more 60 and less 80,S
+2,"Hamalainen, Master. Viljo",male,under 10s,1,1,more 10 and less 20,S
+3,"Carlsson, Mr. August Sigfrid",male,20s,0,0,less 10,S
+2,"Bailey, Mr. Percy Andrew",male,10s,0,0,more 10 and less 20,S
+3,"Theobald, Mr. Thomas Leonard",male,30s,0,0,less 10,S
+1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,30s,0,0,more 80,S
+3,"Nirva, Mr. Iisakki Antino Aijo",male,40s,0,0,less 10,S
+3,"Barah, Mr. Hanna Assi",male,20s,0,0,less 10,C
+1,"Carter, Mrs. William Ernest (Lucile Polk)",female,30s,1,2,more 80,S
+3,"Eklund, Mr. Hans Linus",male,10s,0,0,less 10,S
+1,"Hogeboom, Mrs. John C (Anna Andrews)",female,50s,1,0,more 60 and less 80,S
+3,"Mangan, Miss. Mary",female,30s,0,0,less 10,Q
+3,"Gronnestad, Mr. Daniel Danielsen",male,30s,0,0,less 10,S
+3,"Lievens, Mr. Rene Aime",male,20s,0,0,less 10,S
+3,"Jensen, Mr. Niels Peder",male,40s,0,0,less 10,S
+2,"Mack, Mrs. (Mary)",female,50s,0,0,more 10 and less 20,S
+2,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,50s,1,3,more 20 and less 40,S
+3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,10s,0,0,less 10,S
+3,"Emanuel, Miss. Virginia Ethel",female,under 10s,0,0,more 10 and less 20,S
+1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,40s,0,1,more 80,S
+3,"Ayoub, Miss. Banoura",female,10s,0,0,less 10,C
+1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,10s,1,0,more 40 and less 60,S
+1,"Long, Mr. Milton Clyde",male,20s,0,0,more 20 and less 40,S
+3,"Ali, Mr. William",male,20s,0,0,less 10,S
+3,"Harmer, Mr. Abraham (David Lishin)",male,20s,0,0,less 10,S
+3,"Sjoblom, Miss. Anna Sofia",female,10s,0,0,less 10,S
+3,"Rice, Master. George Hugh",male,under 10s,4,1,more 20 and less 40,Q
+3,"Dean, Master. Bertram Vere",male,under 10s,1,2,more 20 and less 40,S
+1,"Guggenheim, Mr. Benjamin",male,40s,0,0,more 60 and less 80,C
+2,"Gaskell, Mr. Alfred",male,10s,0,0,more 20 and less 40,S
+3,"Dantcheff, Mr. Ristiu",male,20s,0,0,less 10,S
+2,"Otter, Mr. Richard",male,30s,0,0,more 10 and less 20,S
+1,"Leader, Dr. Alice (Farnham)",female,40s,0,0,more 20 and less 40,S
+3,"Osman, Mrs. Mara",female,30s,0,0,less 10,S
+3,"Ibrahim Shawah, Mr. Yousseff",male,30s,0,0,less 10,C
+3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30s,1,1,more 20 and less 40,S
+2,"Ponesell, Mr. Martin",male,30s,0,0,more 10 and less 20,S
+2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,30s,1,1,more 20 and less 40,S
+1,"Carter, Master. William Thornton II",male,10s,1,2,more 80,S
+3,"Thomas, Master. Assad Alexander",male,under 10s,0,1,less 10,C
+3,"Hedman, Mr. Oskar Arvid",male,20s,0,0,less 10,S
+3,"Johansson, Mr. Karl Johan",male,30s,0,0,less 10,S
+1,"Andrews, Mr. Thomas Jr",male,30s,0,0,less 10,S
+3,"Pettersson, Miss. Ellen Natalia",female,10s,0,0,less 10,S
+2,"Meyer, Mr. August",male,30s,0,0,more 10 and less 20,S
+1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,30s,1,0,more 40 and less 60,S
+3,"Alexander, Mr. William",male,20s,0,0,less 10,S
+3,"Lester, Mr. James",male,30s,0,0,more 20 and less 40,S
+2,"Slemen, Mr. Richard James",male,30s,0,0,more 10 and less 20,S
+3,"Andersson, Miss. Ebba Iris Alfrida",female,under 10s,4,2,more 20 and less 40,S
+3,"Tomlin, Mr. Ernest Portage",male,30s,0,0,less 10,S
+3,"Heininen, Miss. Wendla Maria",female,20s,0,0,less 10,S
+2,"Mallet, Mr. Albert",male,30s,1,1,more 20 and less 40,C
+3,"Holm, Mr. John Fredrik Alexander",male,40s,0,0,less 10,S
+3,"Skoog, Master. Karl Thorsten",male,10s,3,2,more 20 and less 40,S
+1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,50s,1,1,more 80,S
+3,"Lulic, Mr. Nikola",male,20s,0,0,less 10,S
+1,"Reuchlin, Jonkheer. John George",male,30s,0,0,less 10,S
+3,"Moor, Mrs. (Beila)",female,20s,0,1,more 10 and less 20,S
+3,"Panula, Master. Urho Abraham",male,under 10s,4,1,more 20 and less 40,S
+2,"Mallet, Master. Andre",male,under 10s,0,2,more 20 and less 40,C
+3,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,10s,1,0,more 10 and less 20,C
+2,"Richards, Master. George Sibley",male,under 10s,1,1,more 10 and less 20,S
+3,"Augustsson, Mr. Albert",male,20s,0,0,less 10,S
+3,"Allum, Mr. Owen George",male,10s,0,0,less 10,S
+1,"Compton, Miss. Sara Rebecca",female,30s,1,1,more 80,C
+3,"Pasic, Mr. Jakob",male,20s,0,0,less 10,S
+3,"Chip, Mr. Chang",male,30s,0,0,more 40 and less 60,S
+3,"Alhomaki, Mr. Ilmari Rudolf",male,20s,0,0,less 10,S
+2,"Mudd, Mr. Thomas Charles",male,10s,0,0,more 10 and less 20,S
+1,"Serepeca, Miss. Augusta",female,30s,0,0,more 20 and less 40,C
+3,"Lemberopolous, Mr. Peter L",male,30s,0,0,less 10,C
+3,"Culumovic, Mr. Jeso",male,10s,0,0,less 10,S
+3,"Abbing, Mr. Anthony",male,40s,0,0,less 10,S
+3,"Markoff, Mr. Marin",male,30s,0,0,less 10,C
+2,"Harper, Rev. John",male,20s,0,1,more 20 and less 40,S
+3,"Andersson, Master. Sigvard Harald Elias",male,under 10s,4,2,more 20 and less 40,S
+3,"Svensson, Mr. Johan",male,over 50s,0,0,less 10,S
+3,"Boulos, Miss. Nourelain",female,under 10s,1,1,more 10 and less 20,C
+1,"Lines, Miss. Mary Conover",female,10s,0,1,more 20 and less 40,S
+2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,40s,1,0,more 20 and less 40,S
+3,"Aks, Mrs. Sam (Leah Rosen)",female,10s,0,1,less 10,S
+1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,40s,1,1,more 80,S
+1,"Daly, Mr. Peter Denis ",male,50s,0,0,more 20 and less 40,S
+3,"Baclini, Mrs. Solomon (Latifa Qurban)",female,20s,0,3,more 10 and less 20,C
+3,"Hansen, Mr. Claus Peter",male,40s,2,0,more 10 and less 20,S
+2,"Giles, Mr. Frederick Edward",male,20s,1,0,more 10 and less 20,S
+1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,40s,0,0,more 20 and less 40,S
+2,"Gill, Mr. John William",male,20s,0,0,more 10 and less 20,S
+2,"Bystrom, Mrs. (Karolina)",female,40s,0,0,more 10 and less 20,S
+2,"Duran y More, Miss. Asuncion",female,20s,1,0,more 10 and less 20,C
+1,"Roebling, Mr. Washington Augustus II",male,30s,0,0,more 40 and less 60,S
+3,"Johnson, Master. Harold Theodor",male,under 10s,1,1,more 10 and less 20,S
+3,"Balkic, Mr. Cerin",male,20s,0,0,less 10,S
+1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,40s,1,1,more 40 and less 60,S
+1,"Carlsson, Mr. Frans Olof",male,30s,0,0,less 10,S
+3,"Vander Cruyssen, Mr. Victor",male,40s,0,0,less 10,S
+2,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,20s,1,0,more 20 and less 40,C
+3,"Najib, Miss. Adele Kiamie ""Jane""",female,10s,0,0,less 10,C
+3,"Gustafsson, Mr. Alfred Ossian",male,20s,0,0,less 10,S
+3,"Petroff, Mr. Nedelio",male,10s,0,0,less 10,S
+1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,50s,0,1,more 80,C
+2,"Shelley, Mrs. William (Imanita Parrish Hall)",female,20s,0,1,more 20 and less 40,S
+3,"Markun, Mr. Johann",male,30s,0,0,less 10,S
+3,"Dahlberg, Miss. Gerda Ulrika",female,20s,0,0,more 10 and less 20,S
+2,"Banfield, Mr. Frederick James",male,20s,0,0,more 10 and less 20,S
+3,"Sutehall, Mr. Henry Jr",male,20s,0,0,less 10,S
+3,"Rice, Mrs. William (Margaret Norton)",female,30s,0,5,more 20 and less 40,Q
+2,"Montvila, Rev. Juozas",male,20s,0,0,more 10 and less 20,S
+1,"Graham, Miss. Margaret Edith",female,10s,0,0,more 20 and less 40,S
+1,"Behr, Mr. Karl Howell",male,20s,0,0,more 20 and less 40,C
+3,"Dooley, Mr. Patrick",male,30s,0,0,less 10,Q
