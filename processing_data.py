@@ -7,8 +7,8 @@ CSV_FILEPATH = os.path.join(os.getcwd(), CSV_FILENAME)
 df = pd.read_csv(CSV_FILEPATH)
 
 del_list = ['PassengerId', 'Survived', 'Ticket', 'Cabin']
-df = df.drop(del_list, axis = 1)
-df = df.dropna()
+df.drop(del_list, axis = 1, inplace = True)
+df.dropna(inplace = True)
 
 def age(age):
     if age >= 60:
@@ -40,7 +40,29 @@ def fare(fare):
     else:
         return 'less 10'
 
+
+def firstName(first):
+    if 'Mr.' in first:
+        first = first.replace('Mr.', '')
+    elif 'Mrs.' in first:
+        first =  first.replace('Mrs.', '')
+    elif 'Miss.' in first:
+        first =  first.replace('Miss.', '')
+    elif 'Master.' in first:
+        first =  first.replace('Master.', '')
+    
+    if '"' in first:
+        first = first.replace('"', '').strip()
+    return first
+
+
 df.Age = df.Age.apply(age)
 df.Fare = df.Fare.apply(fare)
 
+df[['Last_Name', 'First_Name']] = df.Name.str.split(',').tolist()
+df.First_Name = df.First_Name.apply(firstName)
+
+df.drop('Name', axis = 1, inplace=True)
+
 df.to_csv(CSV_FILEPATH, index = False)
+print('finish data processing')
