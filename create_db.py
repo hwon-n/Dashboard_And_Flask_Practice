@@ -7,7 +7,12 @@ def init_db(conn = conn):
     CREATE TABLE passenger(
         id PRIMARY KEY AUTOINCREMENT,
         pclass INTEGER,
-        name VARCHAR(30),
-        
+        sex VARCHAR(10),
+        Age VARCHAR(30),
+        SibSp INTEGER,
+        Parch INTEGER,
+        Embarked VARCHAR(10),
+        Last_Name VARCHAR(20),
+        First_Name VARCHAR(40)
     )
     """
