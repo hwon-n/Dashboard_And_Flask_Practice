@@ -23,8 +23,8 @@ CREATE TABLE passenger(
     SibSp INTEGER,
     Parch INTEGER,
     Fare VARCHAR(50),
-    Embarked VARCHAR(10),
-    Last_Name VARCHAR(20),
+    Embarked VARCHAR(5),
+    Last_Name VARCHAR(30),
     First_Name VARCHAR(40)
 );
 """

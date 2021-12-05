@@ -61,6 +61,8 @@ def firstName(first):
 
 
 # 데이터 전처리
+
+# 새 컬럼을 만들 때는 .으로 못 만들고 [] 안에 넣어서 만들어야함. 
 df['Age_Label'] = df.Age.apply(age_label)
 df.Fare = df.Fare.apply(fare)
 
