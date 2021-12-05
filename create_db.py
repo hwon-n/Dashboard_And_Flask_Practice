@@ -18,7 +18,8 @@ CREATE TABLE passenger(
     Id INTEGER PRIMARY KEY AUTOINCREMENT,
     Pclass INTEGER,
     Sex VARCHAR(10),
-    Age VARCHAR(30),
+    Age INTEGER,
+    Age_Label VARCHAR(30),
     SibSp INTEGER,
     Parch INTEGER,
     Fare VARCHAR(50),
@@ -37,8 +38,8 @@ cur.execute(create_table)
 # open csv file and insert value
 
 insert = """
-INSERT INTO passenger(Pclass, Sex, Age, Sibsp, Parch, Fare, Embarked, Last_Name, First_Name) 
-VALUES (?, ?, ?, ? ,?, ?, ?, ?, ?)
+INSERT INTO passenger(Pclass, Sex, Age, Age_Label, Sibsp, Parch, Fare, Embarked, Last_Name, First_Name) 
+VALUES (?, ?, ?, ? ,?, ?, ?, ?, ?, ?)
 """
 
 with open(CSV_FILENAME) as csvfile:
@@ -47,7 +48,7 @@ with open(CSV_FILENAME) as csvfile:
         if 'Pclass' in row[0]:
             pass
         else:
-            values = (row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8])
+            values = (row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9])
             cur.execute(insert, values)
 
 conn.commit()

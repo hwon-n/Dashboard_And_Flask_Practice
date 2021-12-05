@@ -14,7 +14,7 @@ df.dropna(inplace = True)
 
 
 # 데이터 전처리 위한 함수
-def age(age):
+def age_label(age):
     if age >= 60:
         return 'over 50s'
     elif age >= 50:
@@ -61,7 +61,7 @@ def firstName(first):
 
 
 # 데이터 전처리
-df.Age = df.Age.apply(age)
+df['Age_Label'] = df.Age.apply(age_label)
 df.Fare = df.Fare.apply(fare)
 
 
