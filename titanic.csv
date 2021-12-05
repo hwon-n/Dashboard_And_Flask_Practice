@@ -1,713 +1,713 @@
 Pclass,Sex,Age,SibSp,Parch,Fare,Embarked,Last_Name,First_Name
-3,male,20s,1,0,less 10,S,Braund,  Owen Harris
-1,female,30s,1,0,more 60 and less 80,C,Cumings,  John Bradley (Florence Briggs Thayer)
-3,female,20s,0,0,less 10,S,Heikkinen,  Laina
-1,female,30s,1,0,more 40 and less 60,S,Futrelle,  Jacques Heath (Lily May Peel)
-3,male,30s,0,0,less 10,S,Allen,  William Henry
-1,male,50s,0,0,more 40 and less 60,S,McCarthy,  Timothy J
-3,male,under 10s,3,1,more 20 and less 40,S,Palsson,  Gosta Leonard
-3,female,20s,0,2,more 10 and less 20,S,Johnson,  Oscar W (Elisabeth Vilhelmina Berg)
-2,female,10s,1,0,more 20 and less 40,C,Nasser,  Nicholas (Adele Achem)
-3,female,under 10s,1,1,more 10 and less 20,S,Sandstrom,  Marguerite Rut
-1,female,50s,0,0,more 20 and less 40,S,Bonnell,  Elizabeth
-3,male,20s,0,0,less 10,S,Saundercock,  William Henry
-3,male,30s,1,5,more 20 and less 40,S,Andersson,  Anders Johan
-3,female,10s,0,0,less 10,S,Vestrom,  Hulda Amanda Adolfina
-2,female,50s,0,0,more 10 and less 20,S,Hewlett,  (Mary D Kingcome) 
-3,male,under 10s,4,1,more 20 and less 40,Q,Rice,  Eugene
-3,female,30s,1,0,more 10 and less 20,S,Vander Planke,  Julius (Emelia Maria Vandemoortele)
-2,male,30s,0,0,more 20 and less 40,S,Fynney,  Joseph J
-2,male,30s,0,0,more 10 and less 20,S,Beesley,  Lawrence
+3,male,20s,1,0,less 10,S,Braund,Owen Harris
+1,female,30s,1,0,more 60 and less 80,C,Cumings,John Bradley (Florence Briggs Thayer)
+3,female,20s,0,0,less 10,S,Heikkinen,Laina
+1,female,30s,1,0,more 40 and less 60,S,Futrelle,Jacques Heath (Lily May Peel)
+3,male,30s,0,0,less 10,S,Allen,William Henry
+1,male,50s,0,0,more 40 and less 60,S,McCarthy,Timothy J
+3,male,under 10s,3,1,more 20 and less 40,S,Palsson,Gosta Leonard
+3,female,20s,0,2,more 10 and less 20,S,Johnson,Oscar W (Elisabeth Vilhelmina Berg)
+2,female,10s,1,0,more 20 and less 40,C,Nasser,Nicholas (Adele Achem)
+3,female,under 10s,1,1,more 10 and less 20,S,Sandstrom,Marguerite Rut
+1,female,50s,0,0,more 20 and less 40,S,Bonnell,Elizabeth
+3,male,20s,0,0,less 10,S,Saundercock,William Henry
+3,male,30s,1,5,more 20 and less 40,S,Andersson,Anders Johan
+3,female,10s,0,0,less 10,S,Vestrom,Hulda Amanda Adolfina
+2,female,50s,0,0,more 10 and less 20,S,Hewlett,(Mary D Kingcome)
+3,male,under 10s,4,1,more 20 and less 40,Q,Rice,Eugene
+3,female,30s,1,0,more 10 and less 20,S,Vander Planke,Julius (Emelia Maria Vandemoortele)
+2,male,30s,0,0,more 20 and less 40,S,Fynney,Joseph J
+2,male,30s,0,0,more 10 and less 20,S,Beesley,Lawrence
 3,female,10s,0,0,less 10,Q,McGowan,Anna Annie
-1,male,20s,0,0,more 20 and less 40,S,Sloper,  William Thompson
-3,female,under 10s,3,1,more 20 and less 40,S,Palsson,  Torborg Danira
-3,female,30s,1,5,more 20 and less 40,S,Asplund,  Carl Oscar (Selma Augusta Emilia Johansson)
-1,male,10s,3,2,more 80,S,Fortune,  Charles Alexander
-1,male,40s,0,0,more 20 and less 40,C,Uruchurtu, Don. Manuel E
-2,male,over 50s,0,0,more 10 and less 20,S,Wheadon,  Edward H
-1,male,20s,1,0,more 80,C,Meyer,  Edgar Joseph
-1,male,40s,1,0,more 40 and less 60,S,Holverson,  Alexander Oskar
-3,male,20s,0,0,less 10,S,Cann,  Ernest Charles
-3,female,10s,2,0,more 10 and less 20,S,Vander Planke,  Augusta Maria
-3,female,10s,1,0,more 10 and less 20,C,Nicola-Yarred,  Jamila
-3,female,40s,1,0,less 10,S,Ahlin,  Johan (Johanna Persdotter Larsson)
-2,female,20s,1,0,more 20 and less 40,S,Turpin,  William John Robert (Dorothy Ann Wonnacott)
-2,female,under 10s,1,2,more 40 and less 60,C,Laroche,  Simonne Marie Anne Andree
-3,female,10s,0,0,less 10,Q,Devaney,  Margaret Delia
-3,female,10s,1,0,more 10 and less 20,S,Arnold-Franchi,  Josef (Josefine Franchi)
-3,male,under 10s,4,1,more 20 and less 40,S,Panula,  Juha Niilo
-3,male,20s,0,0,less 10,S,Nosworthy,  Richard Cater
-1,female,40s,1,0,more 60 and less 80,C,Harper,  Henry Sleeper (Myna Haxtun)
-2,female,20s,1,0,more 20 and less 40,S,Faunthorpe,  Lizzie (Elizabeth Anne Wilkinson)
-1,male,over 50s,0,1,more 60 and less 80,C,Ostby,  Engelhart Cornelius
-2,female,20s,0,0,more 10 and less 20,S,Rugg,  Emily
-3,male,20s,0,0,less 10,C,Novel,  Mansouer
-2,female,under 10s,1,2,more 20 and less 40,S,West,  Constance Mirium
-3,male,10s,5,2,more 40 and less 60,S,Goodwin,  William Frederick
-3,male,20s,0,0,less 10,C,Sirayanian,  Orsen
-1,male,40s,1,0,more 80,S,Harris,  Henry Birkhardt
-3,male,under 10s,3,2,more 20 and less 40,S,Skoog,  Harald
-2,female,20s,0,0,more 10 and less 20,S,Nye,  (Elizabeth Ramell)
-3,male,10s,0,0,less 10,S,Crease,  Ernest James
-3,female,10s,4,2,less 10,S,Andersson,  Erna Alexandra
-3,male,20s,2,0,less 10,S,Kink,  Vincenz
-2,male,30s,0,0,more 10 and less 20,S,Jenkin,  Stephen Curnow
-3,female,10s,5,2,more 40 and less 60,S,Goodwin,  Lillian Amy
-2,male,20s,0,0,more 60 and less 80,S,Hood,  Ambrose Jr
-3,male,20s,1,0,more 10 and less 20,C,Chronopoulos,  Apostolos
-3,male,30s,0,0,more 40 and less 60,S,Bing,  Lee
-3,male,20s,0,0,less 10,S,Moen,  Sigurd Hansen
-2,male,under 10s,0,2,more 20 and less 40,S,Caldwell,  Alden Gates
-3,female,30s,0,0,more 10 and less 20,S,Dowdell,  Elizabeth
-3,male,20s,0,0,less 10,S,Waelens,  Achille
-3,male,20s,0,0,less 10,S,Sheerlinck,  Jan Baptist
-1,male,20s,0,0,more 40 and less 60,S,Carrau,  Francisco M
-2,female,10s,0,0,more 10 and less 20,S,Ilett,  Bertha
-3,female,30s,3,0,more 10 and less 20,S,Backstrom,  Karl Alfred (Maria Mathilda Gustafsson)
-3,male,10s,1,3,more 20 and less 40,S,Ford,  William Neal
-1,female,20s,3,2,more 80,S,Fortune,  Mabel Helen
-3,male,20s,0,0,less 10,S,Celotti,  Francesco
-3,male,20s,0,0,less 10,S,Christmann,  Emil
-3,male,20s,0,0,less 10,S,Andreasson,  Paul Edvin
-1,male,40s,1,0,more 60 and less 80,S,Chaffee,  Herbert Fuller
-3,male,20s,1,2,more 20 and less 40,S,Dean,  Bertram Frank
-3,male,50s,0,0,less 10,S,Coxon,  Daniel
-1,male,over 50s,0,0,more 20 and less 40,C,Goldschmidt,  George B
-1,male,20s,0,1,more 60 and less 80,C,Greenfield,  William Bertram
-2,female,30s,0,1,more 20 and less 40,S,Doling,  John T (Ada Julia Bone)
-2,male,30s,1,0,more 20 and less 40,S,Kantor,  Sinai
-3,female,20s,0,0,less 10,S,Petranec,  Matilda
-1,male,20s,0,1,more 60 and less 80,S,White,  Richard Frasar
-3,male,30s,0,0,less 10,S,Johansson,  Gustaf Joel
-3,male,30s,2,0,less 10,S,Gustafsson,  Anders Vilhelm
-3,male,20s,0,0,less 10,S,Mionoff,  Stoytcho
-3,female,20s,0,0,less 10,S,Salkjelsvik,  Anna Kristine
-3,male,30s,0,0,less 10,S,Rekic,  Tido
-1,male,40s,0,0,more 40 and less 60,S,Porter,  Walter Chamberlain
-3,female,10s,1,0,more 10 and less 20,C,Zabour,  Hileni
-3,male,20s,0,0,less 10,S,Barton,  David John
-3,female,20s,1,0,less 10,S,Jussila,  Katriina
-3,female,10s,0,0,more 10 and less 20,C,Attalah,  Malake
-3,male,20s,0,0,less 10,S,Pekoniemi,  Edvard
-3,male,over 50s,0,0,less 10,Q,Connors,  Patrick
-2,male,20s,1,0,more 20 and less 40,S,Turpin,  William John Robert
-1,male,20s,0,1,more 80,C,Baxter,  Quigg Edmond
-3,female,under 10s,4,2,more 20 and less 40,S,Andersson,  Ellis Anna Maria
-2,male,20s,2,0,more 60 and less 80,S,Hickman,  Stanley George
-2,male,30s,1,0,more 20 and less 40,C,Nasser,  Nicholas
-2,female,30s,0,0,more 10 and less 20,S,Webber,  Susan
-1,male,50s,0,1,more 60 and less 80,S,White,  Percival Wayland
-3,male,10s,1,0,more 10 and less 20,C,Nicola-Yarred,  Elias
-3,male,20s,0,0,less 10,S,Madsen,  Fridtjof Arne
-3,male,40s,0,0,less 10,S,Ekstrom,  Johan
-3,male,30s,0,0,less 10,C,Drazenoic,  Jozef
-3,male,20s,0,0,less 10,S,Coelho,  Domingos Fernandeo
-3,female,40s,1,0,more 10 and less 20,S,Robins,  Alexander A (Grace Charity Laury)
-2,female,20s,1,0,more 20 and less 40,S,Weisz,  Leopold (Mathilde Francoise Pede)
-2,male,20s,0,0,more 10 and less 20,S,Sobey,  Samuel James Hayden
-2,male,20s,0,0,more 10 and less 20,C,Richard,  Emile
-1,female,10s,0,2,more 20 and less 40,S,Newsom,  Helen Monypeny
-1,male,30s,1,0,more 40 and less 60,S,Futrelle,  Jacques Heath
-3,male,10s,0,0,less 10,S,Osen,  Olaf Elon
-1,male,20s,0,0,more 60 and less 80,C,Giglio,  Victor
-3,female,20s,0,0,less 10,S,Nysten,  Anna Sofia
-3,female,20s,1,0,more 10 and less 20,S,Hakkarainen,  Pekka Pietari (Elin Matilda Dolck)
-3,male,10s,0,0,less 10,Q,Burke,  Jeremiah
-2,male,10s,0,0,more 10 and less 20,S,Andrew,  Edgardo Samuel
-2,male,10s,1,1,more 20 and less 40,S,Nicholls,  Joseph Charles
+1,male,20s,0,0,more 20 and less 40,S,Sloper,William Thompson
+3,female,under 10s,3,1,more 20 and less 40,S,Palsson,Torborg Danira
+3,female,30s,1,5,more 20 and less 40,S,Asplund,Carl Oscar (Selma Augusta Emilia Johansson)
+1,male,10s,3,2,more 80,S,Fortune,Charles Alexander
+1,male,40s,0,0,more 20 and less 40,C,Uruchurtu,Don. Manuel E
+2,male,over 50s,0,0,more 10 and less 20,S,Wheadon,Edward H
+1,male,20s,1,0,more 80,C,Meyer,Edgar Joseph
+1,male,40s,1,0,more 40 and less 60,S,Holverson,Alexander Oskar
+3,male,20s,0,0,less 10,S,Cann,Ernest Charles
+3,female,10s,2,0,more 10 and less 20,S,Vander Planke,Augusta Maria
+3,female,10s,1,0,more 10 and less 20,C,Nicola-Yarred,Jamila
+3,female,40s,1,0,less 10,S,Ahlin,Johan (Johanna Persdotter Larsson)
+2,female,20s,1,0,more 20 and less 40,S,Turpin,William John Robert (Dorothy Ann Wonnacott)
+2,female,under 10s,1,2,more 40 and less 60,C,Laroche,Simonne Marie Anne Andree
+3,female,10s,0,0,less 10,Q,Devaney,Margaret Delia
+3,female,10s,1,0,more 10 and less 20,S,Arnold-Franchi,Josef (Josefine Franchi)
+3,male,under 10s,4,1,more 20 and less 40,S,Panula,Juha Niilo
+3,male,20s,0,0,less 10,S,Nosworthy,Richard Cater
+1,female,40s,1,0,more 60 and less 80,C,Harper,Henry Sleeper (Myna Haxtun)
+2,female,20s,1,0,more 20 and less 40,S,Faunthorpe,Lizzie (Elizabeth Anne Wilkinson)
+1,male,over 50s,0,1,more 60 and less 80,C,Ostby,Engelhart Cornelius
+2,female,20s,0,0,more 10 and less 20,S,Rugg,Emily
+3,male,20s,0,0,less 10,C,Novel,Mansouer
+2,female,under 10s,1,2,more 20 and less 40,S,West,Constance Mirium
+3,male,10s,5,2,more 40 and less 60,S,Goodwin,William Frederick
+3,male,20s,0,0,less 10,C,Sirayanian,Orsen
+1,male,40s,1,0,more 80,S,Harris,Henry Birkhardt
+3,male,under 10s,3,2,more 20 and less 40,S,Skoog,Harald
+2,female,20s,0,0,more 10 and less 20,S,Nye,(Elizabeth Ramell)
+3,male,10s,0,0,less 10,S,Crease,Ernest James
+3,female,10s,4,2,less 10,S,Andersson,Erna Alexandra
+3,male,20s,2,0,less 10,S,Kink,Vincenz
+2,male,30s,0,0,more 10 and less 20,S,Jenkin,Stephen Curnow
+3,female,10s,5,2,more 40 and less 60,S,Goodwin,Lillian Amy
+2,male,20s,0,0,more 60 and less 80,S,Hood,Ambrose Jr
+3,male,20s,1,0,more 10 and less 20,C,Chronopoulos,Apostolos
+3,male,30s,0,0,more 40 and less 60,S,Bing,Lee
+3,male,20s,0,0,less 10,S,Moen,Sigurd Hansen
+2,male,under 10s,0,2,more 20 and less 40,S,Caldwell,Alden Gates
+3,female,30s,0,0,more 10 and less 20,S,Dowdell,Elizabeth
+3,male,20s,0,0,less 10,S,Waelens,Achille
+3,male,20s,0,0,less 10,S,Sheerlinck,Jan Baptist
+1,male,20s,0,0,more 40 and less 60,S,Carrau,Francisco M
+2,female,10s,0,0,more 10 and less 20,S,Ilett,Bertha
+3,female,30s,3,0,more 10 and less 20,S,Backstrom,Karl Alfred (Maria Mathilda Gustafsson)
+3,male,10s,1,3,more 20 and less 40,S,Ford,William Neal
+1,female,20s,3,2,more 80,S,Fortune,Mabel Helen
+3,male,20s,0,0,less 10,S,Celotti,Francesco
+3,male,20s,0,0,less 10,S,Christmann,Emil
+3,male,20s,0,0,less 10,S,Andreasson,Paul Edvin
+1,male,40s,1,0,more 60 and less 80,S,Chaffee,Herbert Fuller
+3,male,20s,1,2,more 20 and less 40,S,Dean,Bertram Frank
+3,male,50s,0,0,less 10,S,Coxon,Daniel
+1,male,over 50s,0,0,more 20 and less 40,C,Goldschmidt,George B
+1,male,20s,0,1,more 60 and less 80,C,Greenfield,William Bertram
+2,female,30s,0,1,more 20 and less 40,S,Doling,John T (Ada Julia Bone)
+2,male,30s,1,0,more 20 and less 40,S,Kantor,Sinai
+3,female,20s,0,0,less 10,S,Petranec,Matilda
+1,male,20s,0,1,more 60 and less 80,S,White,Richard Frasar
+3,male,30s,0,0,less 10,S,Johansson,Gustaf Joel
+3,male,30s,2,0,less 10,S,Gustafsson,Anders Vilhelm
+3,male,20s,0,0,less 10,S,Mionoff,Stoytcho
+3,female,20s,0,0,less 10,S,Salkjelsvik,Anna Kristine
+3,male,30s,0,0,less 10,S,Rekic,Tido
+1,male,40s,0,0,more 40 and less 60,S,Porter,Walter Chamberlain
+3,female,10s,1,0,more 10 and less 20,C,Zabour,Hileni
+3,male,20s,0,0,less 10,S,Barton,David John
+3,female,20s,1,0,less 10,S,Jussila,Katriina
+3,female,10s,0,0,more 10 and less 20,C,Attalah,Malake
+3,male,20s,0,0,less 10,S,Pekoniemi,Edvard
+3,male,over 50s,0,0,less 10,Q,Connors,Patrick
+2,male,20s,1,0,more 20 and less 40,S,Turpin,William John Robert
+1,male,20s,0,1,more 80,C,Baxter,Quigg Edmond
+3,female,under 10s,4,2,more 20 and less 40,S,Andersson,Ellis Anna Maria
+2,male,20s,2,0,more 60 and less 80,S,Hickman,Stanley George
+2,male,30s,1,0,more 20 and less 40,C,Nasser,Nicholas
+2,female,30s,0,0,more 10 and less 20,S,Webber,Susan
+1,male,50s,0,1,more 60 and less 80,S,White,Percival Wayland
+3,male,10s,1,0,more 10 and less 20,C,Nicola-Yarred,Elias
+3,male,20s,0,0,less 10,S,Madsen,Fridtjof Arne
+3,male,40s,0,0,less 10,S,Ekstrom,Johan
+3,male,30s,0,0,less 10,C,Drazenoic,Jozef
+3,male,20s,0,0,less 10,S,Coelho,Domingos Fernandeo
+3,female,40s,1,0,more 10 and less 20,S,Robins,Alexander A (Grace Charity Laury)
+2,female,20s,1,0,more 20 and less 40,S,Weisz,Leopold (Mathilde Francoise Pede)
+2,male,20s,0,0,more 10 and less 20,S,Sobey,Samuel James Hayden
+2,male,20s,0,0,more 10 and less 20,C,Richard,Emile
+1,female,10s,0,2,more 20 and less 40,S,Newsom,Helen Monypeny
+1,male,30s,1,0,more 40 and less 60,S,Futrelle,Jacques Heath
+3,male,10s,0,0,less 10,S,Osen,Olaf Elon
+1,male,20s,0,0,more 60 and less 80,C,Giglio,Victor
+3,female,20s,0,0,less 10,S,Nysten,Anna Sofia
+3,female,20s,1,0,more 10 and less 20,S,Hakkarainen,Pekka Pietari (Elin Matilda Dolck)
+3,male,10s,0,0,less 10,Q,Burke,Jeremiah
+2,male,10s,0,0,more 10 and less 20,S,Andrew,Edgardo Samuel
+2,male,10s,1,1,more 20 and less 40,S,Nicholls,Joseph Charles
 3,male,20s,0,0,less 10,S,Andersson,August Edvard (Wennerstrom)
 3,female,under 10s,2,2,more 20 and less 40,S,Ford,Robina Maggie Ruby
 2,male,30s,0,2,more 20 and less 40,S,Navratil,Michel (Louis M Hoffman)
-2,male,40s,0,0,more 10 and less 20,S,Byles, Rev. Thomas Roussel Davids
-2,male,50s,0,0,more 10 and less 20,S,Bateman, Rev. Robert James
-1,female,20s,1,0,more 60 and less 80,S,Pears,  Thomas (Edith Wearne)
-3,male,50s,0,0,less 10,S,Meo,  Alfonzo
-3,male,40s,0,2,more 10 and less 20,S,van Billiard,  Austin Blyler
-1,male,50s,0,1,more 60 and less 80,C,Williams,  Charles Duane
+2,male,40s,0,0,more 10 and less 20,S,Byles,Rev. Thomas Roussel Davids
+2,male,50s,0,0,more 10 and less 20,S,Bateman,Rev. Robert James
+1,female,20s,1,0,more 60 and less 80,S,Pears,Thomas (Edith Wearne)
+3,male,50s,0,0,less 10,S,Meo,Alfonzo
+3,male,40s,0,2,more 10 and less 20,S,van Billiard,Austin Blyler
+1,male,50s,0,1,more 60 and less 80,C,Williams,Charles Duane
 3,female,10s,0,0,less 10,Q,Gilnagh,Katherine Katie
-3,male,30s,0,0,less 10,S,Corn,  Harry
-3,male,40s,0,1,more 10 and less 20,S,Cribb,  John Hatfield
+3,male,30s,0,0,less 10,S,Corn,Harry
+3,male,40s,0,1,more 10 and less 20,S,Cribb,John Hatfield
 2,female,40s,0,0,more 10 and less 20,S,Watt,James (Elizabeth Bessie Inglis Milne)
-3,male,20s,0,0,less 10,S,Bengtsson,  John Viktor
-3,male,10s,0,0,less 10,S,Calic,  Jovo
-3,male,under 10s,4,1,more 20 and less 40,S,Panula,  Eino Viljami
+3,male,20s,0,0,less 10,S,Bengtsson,John Viktor
+3,male,10s,0,0,less 10,S,Calic,Jovo
+3,male,under 10s,4,1,more 20 and less 40,S,Panula,Eino Viljami
 3,male,under 10s,0,2,more 20 and less 40,S,Goldsmith,Frank John William Frankie
-3,female,40s,1,4,more 20 and less 40,S,Skoog,  William (Anna Bernhardina Karlsson)
-3,male,20s,0,0,more 40 and less 60,S,Ling,  Lee
-1,male,over 50s,0,0,more 20 and less 40,S,Van der hoef,  Wyckoff
-3,male,under 10s,4,1,more 20 and less 40,Q,Rice,  Arthur
-3,female,under 10s,1,1,more 10 and less 20,S,Johnson,  Eleanor Ileen
-3,male,20s,0,0,less 10,S,Sivola,  Antti Wilhelm
-1,male,50s,0,0,more 20 and less 40,C,Smith,  James Clinch
-3,male,10s,1,1,less 10,S,Klasen,  Klas Albin
-1,female,50s,0,0,more 20 and less 40,C,Isham,  Ann Elizabeth
-2,male,30s,0,0,more 10 and less 20,S,Hale,  Reginald
-3,male,30s,0,0,less 10,S,Leonard,  Lionel
-3,male,under 10s,4,2,more 20 and less 40,S,Asplund,  Clarence Gustaf Hugo
-2,male,under 10s,2,1,more 20 and less 40,S,Becker,  Richard F
-3,female,under 10s,0,2,more 20 and less 40,S,Kink-Heilmann,  Luise Gretchen
+3,female,40s,1,4,more 20 and less 40,S,Skoog,William (Anna Bernhardina Karlsson)
+3,male,20s,0,0,more 40 and less 60,S,Ling,Lee
+1,male,over 50s,0,0,more 20 and less 40,S,Van der hoef,Wyckoff
+3,male,under 10s,4,1,more 20 and less 40,Q,Rice,Arthur
+3,female,under 10s,1,1,more 10 and less 20,S,Johnson,Eleanor Ileen
+3,male,20s,0,0,less 10,S,Sivola,Antti Wilhelm
+1,male,50s,0,0,more 20 and less 40,C,Smith,James Clinch
+3,male,10s,1,1,less 10,S,Klasen,Klas Albin
+1,female,50s,0,0,more 20 and less 40,C,Isham,Ann Elizabeth
+2,male,30s,0,0,more 10 and less 20,S,Hale,Reginald
+3,male,30s,0,0,less 10,S,Leonard,Lionel
+3,male,under 10s,4,2,more 20 and less 40,S,Asplund,Clarence Gustaf Hugo
+2,male,under 10s,2,1,more 20 and less 40,S,Becker,Richard F
+3,female,under 10s,0,2,more 20 and less 40,S,Kink-Heilmann,Luise Gretchen
 1,male,40s,0,0,more 20 and less 40,S,Romaine,Charles Hallace (Mr C Rolmane)
-3,male,40s,1,1,more 10 and less 20,Q,Bourke,  John
-3,male,30s,0,0,less 10,S,Turcin,  Stjepan
-2,female,30s,0,0,more 10 and less 20,S,Pinsky,  (Rosa)
-2,male,10s,0,0,more 10 and less 20,S,Carbines,  William
-3,female,10s,1,0,less 10,S,Andersen-Jensen,  Carla Christine Nielsine
-2,male,under 10s,1,1,more 20 and less 40,S,Navratil,  Michel M
-1,female,40s,0,0,more 20 and less 40,C,Brown,  James Joseph (Margaret Tobin)
-1,female,50s,0,0,more 80,C,Lurette,  Elise
-3,male,40s,0,1,less 10,S,Olsen,  Karl Siegwart Andreas
+3,male,40s,1,1,more 10 and less 20,Q,Bourke,John
+3,male,30s,0,0,less 10,S,Turcin,Stjepan
+2,female,30s,0,0,more 10 and less 20,S,Pinsky,(Rosa)
+2,male,10s,0,0,more 10 and less 20,S,Carbines,William
+3,female,10s,1,0,less 10,S,Andersen-Jensen,Carla Christine Nielsine
+2,male,under 10s,1,1,more 20 and less 40,S,Navratil,Michel M
+1,female,40s,0,0,more 20 and less 40,C,Brown,James Joseph (Margaret Tobin)
+1,female,50s,0,0,more 80,C,Lurette,Elise
+3,male,40s,0,1,less 10,S,Olsen,Karl Siegwart Andreas
 2,female,20s,0,0,more 10 and less 20,S,Yrois,Henriette (Mrs Harbeck)
-3,male,20s,0,0,less 10,S,Vande Walle,  Nestor Cyriel
-3,male,30s,0,0,less 10,S,Johanson,  Jakob Alfred
-3,male,40s,0,0,less 10,C,Youseff,  Gerious
+3,male,20s,0,0,less 10,S,Vande Walle,Nestor Cyriel
+3,male,30s,0,0,less 10,S,Johanson,Jakob Alfred
+3,male,40s,0,0,less 10,C,Youseff,Gerious
 3,male,10s,0,0,less 10,S,Cohen,Gurshon Gus
-3,female,under 10s,0,1,more 10 and less 20,S,Strom,  Telma Matilda
-3,male,30s,1,0,more 10 and less 20,S,Backstrom,  Karl Alfred
-3,male,20s,0,0,more 10 and less 20,C,Albimona,  Nassef Cassem
+3,female,under 10s,0,1,more 10 and less 20,S,Strom,Telma Matilda
+3,male,30s,1,0,more 10 and less 20,S,Backstrom,Karl Alfred
+3,male,20s,0,0,more 10 and less 20,C,Albimona,Nassef Cassem
 3,female,10s,0,0,less 10,Q,Carr,Helen Ellen
-1,male,40s,0,0,more 20 and less 40,C,Blank,  Henry
-3,male,20s,0,0,less 10,S,Ali,  Ahmed
-2,female,30s,0,0,more 20 and less 40,S,Cameron,  Clear Annie
-3,male,20s,0,0,less 10,S,Perkin,  John Henry
-2,male,30s,0,0,more 10 and less 20,S,Givard,  Hans Kristensen
-1,female,30s,1,0,more 80,C,Newell,  Madeleine
-3,female,20s,0,0,less 10,S,Honkanen,  Eliina
-2,male,40s,1,0,more 20 and less 40,S,Jacobsohn,  Sidney Samuel
-1,female,30s,0,0,more 60 and less 80,C,Bazzani,  Albina
-2,male,30s,0,0,more 10 and less 20,S,Harris,  Walter
-3,male,10s,0,0,less 10,S,Sunderland,  Victor Francis
-2,male,20s,0,0,more 10 and less 20,S,Bracken,  James H
-3,male,50s,0,0,less 10,S,Green,  George Henry
-1,male,30s,1,0,more 80,S,Hoyt,  Frederick Maxfield
-3,male,20s,0,0,less 10,S,Berglund,  Karl Ivar Sven
-2,male,10s,0,0,more 10 and less 20,S,Mellors,  William John
+1,male,40s,0,0,more 20 and less 40,C,Blank,Henry
+3,male,20s,0,0,less 10,S,Ali,Ahmed
+2,female,30s,0,0,more 20 and less 40,S,Cameron,Clear Annie
+3,male,20s,0,0,less 10,S,Perkin,John Henry
+2,male,30s,0,0,more 10 and less 20,S,Givard,Hans Kristensen
+1,female,30s,1,0,more 80,C,Newell,Madeleine
+3,female,20s,0,0,less 10,S,Honkanen,Eliina
+2,male,40s,1,0,more 20 and less 40,S,Jacobsohn,Sidney Samuel
+1,female,30s,0,0,more 60 and less 80,C,Bazzani,Albina
+2,male,30s,0,0,more 10 and less 20,S,Harris,Walter
+3,male,10s,0,0,less 10,S,Sunderland,Victor Francis
+2,male,20s,0,0,more 10 and less 20,S,Bracken,James H
+3,male,50s,0,0,less 10,S,Green,George Henry
+1,male,30s,1,0,more 80,S,Hoyt,Frederick Maxfield
+3,male,20s,0,0,less 10,S,Berglund,Karl Ivar Sven
+2,male,10s,0,0,more 10 and less 20,S,Mellors,William John
 3,male,20s,0,0,less 10,S,Lovell,John Hall (Henry)
-2,male,10s,0,0,more 10 and less 20,S,Fahlstrom,  Arne Jonas
-1,female,30s,1,0,more 80,S,Harris,  Henry Birkhardt (Irene Wallach)
-3,male,20s,0,0,less 10,S,Larsson,  Bengt Edvin
-2,male,50s,0,0,more 10 and less 20,S,Sjostedt,  Ernst Adolf
-3,female,under 10s,4,2,more 20 and less 40,S,Asplund,  Lillian Gertrud
-2,male,20s,0,0,more 10 and less 20,S,Leyson,  Robert William Norman
-2,male,40s,1,0,more 20 and less 40,S,Hold,  Stephen
+2,male,10s,0,0,more 10 and less 20,S,Fahlstrom,Arne Jonas
+1,female,30s,1,0,more 80,S,Harris,Henry Birkhardt (Irene Wallach)
+3,male,20s,0,0,less 10,S,Larsson,Bengt Edvin
+2,male,50s,0,0,more 10 and less 20,S,Sjostedt,Ernst Adolf
+3,female,under 10s,4,2,more 20 and less 40,S,Asplund,Lillian Gertrud
+2,male,20s,0,0,more 10 and less 20,S,Leyson,Robert William Norman
+2,male,40s,1,0,more 20 and less 40,S,Hold,Stephen
 2,female,under 10s,0,2,more 20 and less 40,S,Collyer,Marjorie Lottie
-2,male,10s,0,0,more 10 and less 20,S,Pengelly,  Frederick William
-2,male,30s,0,0,more 10 and less 20,S,Hunt,  George Henry
-2,male,20s,0,0,more 10 and less 20,S,Coleridge,  Reginald Charles
-3,male,20s,0,0,less 10,S,Maenpaa,  Matti Alexanteri
-3,male,30s,0,0,less 10,C,Attalah,  Sleiman
-1,male,40s,2,0,more 80,Q,Minahan, Dr. William Edward
-3,female,20s,0,0,less 10,S,Lindahl,  Agda Thorilda Viktoria
-2,female,20s,0,2,more 10 and less 20,S,Hamalainen,  William (Anna)
-1,male,30s,1,1,more 40 and less 60,S,Beckwith,  Richard Leonard
-2,male,50s,1,0,more 20 and less 40,S,Carter, Rev. Ernest Courtenay
-3,female,20s,1,1,more 10 and less 20,S,Strom,  Wilhelm (Elna Matilda Persson)
-1,male,over 50s,0,0,more 20 and less 40,S,Stead,  William Thomas
-3,male,30s,1,0,more 10 and less 20,S,Lobb,  William Arthur
-3,female,40s,0,2,more 20 and less 40,S,Rosblom,  Viktor (Helena Wilhelmina)
-3,female,20s,0,2,more 10 and less 20,C,Touma,  Darwis (Hanne Youssef Razi)
-1,female,30s,0,0,more 80,S,Cherry,  Gladys
-1,female,30s,0,0,more 80,C,Ward,  Anna
-2,female,50s,0,1,more 20 and less 40,S,Parrish,  (Lutie Davis)
-3,male,under 10s,4,2,more 20 and less 40,S,Asplund,  Edvin Rojj Felix
-1,male,50s,1,1,more 60 and less 80,S,Taussig,  Emil
-1,male,40s,0,0,less 10,S,Harrison,  William
-2,male,30s,0,0,more 10 and less 20,S,Reeves,  David
-3,male,10s,4,1,more 20 and less 40,S,Panula,  Ernesti Arvid
-3,male,20s,1,0,less 10,S,Persson,  Ernst Ulrik
-1,female,50s,0,1,more 80,S,Graham,  William Thompson (Edith Junkins)
-1,female,30s,0,0,more 80,S,Bissette,  Amelia
-3,male,20s,0,0,less 10,S,Tornquist,  William Henry
-2,female,40s,0,1,more 10 and less 20,S,Mellinger,  (Elizabeth Anne Maidment)
-1,male,30s,0,1,more 20 and less 40,C,Natsch,  Charles H
-1,female,over 50s,1,0,more 60 and less 80,S,Andrews,  Kornelia Theodosia
-3,female,40s,0,0,less 10,S,Lindblom,  Augusta Charlotta
-3,male,under 10s,4,1,more 20 and less 40,Q,Rice,  Eric
-3,female,30s,1,1,more 20 and less 40,S,Abbott,  Stanton (Rosa Hunt)
-3,male,over 50s,0,0,less 10,Q,Duane,  Frank
-3,male,20s,0,0,less 10,S,Olsson,  Nils Johan Goransson
-3,male,10s,0,0,less 10,S,de Pelsmaeker,  Alfons
-3,male,10s,0,0,less 10,S,Dorking,  Edward Arthur
-3,male,30s,0,0,less 10,C,Stankovic,  Ivan
-3,male,30s,0,0,less 10,S,de Mulder,  Theodore
-3,male,20s,0,0,less 10,S,Naidenoff,  Penko
-2,male,40s,0,0,more 10 and less 20,S,Hosono,  Masabumi
-3,female,20s,0,0,less 10,Q,Connolly,  Kate
+2,male,10s,0,0,more 10 and less 20,S,Pengelly,Frederick William
+2,male,30s,0,0,more 10 and less 20,S,Hunt,George Henry
+2,male,20s,0,0,more 10 and less 20,S,Coleridge,Reginald Charles
+3,male,20s,0,0,less 10,S,Maenpaa,Matti Alexanteri
+3,male,30s,0,0,less 10,C,Attalah,Sleiman
+1,male,40s,2,0,more 80,Q,Minahan,Dr. William Edward
+3,female,20s,0,0,less 10,S,Lindahl,Agda Thorilda Viktoria
+2,female,20s,0,2,more 10 and less 20,S,Hamalainen,William (Anna)
+1,male,30s,1,1,more 40 and less 60,S,Beckwith,Richard Leonard
+2,male,50s,1,0,more 20 and less 40,S,Carter,Rev. Ernest Courtenay
+3,female,20s,1,1,more 10 and less 20,S,Strom,Wilhelm (Elna Matilda Persson)
+1,male,over 50s,0,0,more 20 and less 40,S,Stead,William Thomas
+3,male,30s,1,0,more 10 and less 20,S,Lobb,William Arthur
+3,female,40s,0,2,more 20 and less 40,S,Rosblom,Viktor (Helena Wilhelmina)
+3,female,20s,0,2,more 10 and less 20,C,Touma,Darwis (Hanne Youssef Razi)
+1,female,30s,0,0,more 80,S,Cherry,Gladys
+1,female,30s,0,0,more 80,C,Ward,Anna
+2,female,50s,0,1,more 20 and less 40,S,Parrish,(Lutie Davis)
+3,male,under 10s,4,2,more 20 and less 40,S,Asplund,Edvin Rojj Felix
+1,male,50s,1,1,more 60 and less 80,S,Taussig,Emil
+1,male,40s,0,0,less 10,S,Harrison,William
+2,male,30s,0,0,more 10 and less 20,S,Reeves,David
+3,male,10s,4,1,more 20 and less 40,S,Panula,Ernesti Arvid
+3,male,20s,1,0,less 10,S,Persson,Ernst Ulrik
+1,female,50s,0,1,more 80,S,Graham,William Thompson (Edith Junkins)
+1,female,30s,0,0,more 80,S,Bissette,Amelia
+3,male,20s,0,0,less 10,S,Tornquist,William Henry
+2,female,40s,0,1,more 10 and less 20,S,Mellinger,(Elizabeth Anne Maidment)
+1,male,30s,0,1,more 20 and less 40,C,Natsch,Charles H
+1,female,over 50s,1,0,more 60 and less 80,S,Andrews,Kornelia Theodosia
+3,female,40s,0,0,less 10,S,Lindblom,Augusta Charlotta
+3,male,under 10s,4,1,more 20 and less 40,Q,Rice,Eric
+3,female,30s,1,1,more 20 and less 40,S,Abbott,Stanton (Rosa Hunt)
+3,male,over 50s,0,0,less 10,Q,Duane,Frank
+3,male,20s,0,0,less 10,S,Olsson,Nils Johan Goransson
+3,male,10s,0,0,less 10,S,de Pelsmaeker,Alfons
+3,male,10s,0,0,less 10,S,Dorking,Edward Arthur
+3,male,30s,0,0,less 10,C,Stankovic,Ivan
+3,male,30s,0,0,less 10,S,de Mulder,Theodore
+3,male,20s,0,0,less 10,S,Naidenoff,Penko
+2,male,40s,0,0,more 10 and less 20,S,Hosono,Masabumi
+3,female,20s,0,0,less 10,Q,Connolly,Kate
 1,female,20s,0,0,more 60 and less 80,S,Barber,Ellen Nellie
-1,female,10s,1,0,more 80,C,Bishop,  Dickinson H (Helen Walton)
-2,male,30s,0,0,more 10 and less 20,C,Levy,  Rene Jacques
-3,female,20s,0,0,less 10,S,Haas,  Aloisia
-3,male,20s,0,0,less 10,S,Mineff,  Ivan
-3,male,20s,0,0,less 10,C,Hanna,  Mansour
-1,female,under 10s,1,2,more 80,S,Allison,  Helen Loraine
-1,female,50s,0,1,more 80,C,Baxter,  James (Helene DeLaudeniere Chaput)
-3,male,10s,0,0,less 10,S,Johnson,  William Cahoone Jr
-1,male,under 10s,1,2,more 80,S,Allison,  Hudson Trevor
-1,female,10s,1,0,more 80,C,Penasco y Castellana,  Victor de Satode (Maria Josefa Perez de Soto y Vallejo)
-2,male,30s,1,0,more 20 and less 40,C,Abelson,  Samuel
-1,female,30s,0,0,more 40 and less 60,C,Francatelli,  Laura Mabel
-1,female,20s,0,0,more 80,C,Hays,  Margaret Bechstein
-1,female,10s,2,2,more 80,C,Ryerson,  Emily Borie
-2,female,20s,1,1,more 20 and less 40,S,Lahtinen,  William (Anna Sylfven)
-3,male,20s,0,0,less 10,S,Hendekovic,  Ignjac
-2,male,40s,1,1,more 20 and less 40,S,Hart,  Benjamin
-3,female,20s,0,0,less 10,S,Nilsson,  Helmina Josefina
-2,female,20s,1,0,more 20 and less 40,S,Kantor,  Sinai (Miriam Sternin)
-2,male,50s,0,0,more 10 and less 20,S,Moraweck, Dr. Ernest
-1,female,30s,0,2,more 80,S,Wick,  Mary Natalie
-1,female,40s,1,1,more 80,C,Spedden,  Frederic Oakley (Margaretta Corning Stone)
-3,male,20s,0,0,less 10,S,Dennis,  Samuel
-3,male,20s,0,0,less 10,S,Danoff,  Yoto
-2,female,30s,0,0,more 10 and less 20,Q,Slayter,  Hilda Mary
-2,female,20s,1,1,more 20 and less 40,S,Caldwell,  Albert Francis (Sylvia Mae Harbaugh)
-1,female,30s,0,0,more 80,C,Young,  Marie Grice
-3,male,over 50s,0,0,less 10,S,Nysveen,  Johan Hansen
-2,female,30s,0,0,more 10 and less 20,S,Ball,  (Ada E Hall)
-3,female,30s,1,1,more 20 and less 40,S,Goldsmith,  Frank John (Emily Alice Brown)
-1,female,10s,0,1,more 40 and less 60,C,Hippach,  Jean Gertrude
-1,male,40s,0,0,more 20 and less 40,S,Partner,  Austen
-1,male,30s,0,1,more 80,S,Graham,  George Edward
-3,male,10s,2,0,more 10 and less 20,S,Vander Planke,  Leo Edmondus
-1,male,20s,1,0,more 60 and less 80,S,Pears,  Thomas Clinton
-1,female,40s,0,0,more 80,C,Burns,  Elizabeth Margaret
-3,male,40s,0,0,less 10,S,Dahl,  Karl Edwart
-1,male,40s,0,0,more 20 and less 40,S,Blackwell,  Stephen Weart
-2,male,under 10s,1,1,more 20 and less 40,S,Navratil,  Edmond Roger
-1,female,20s,3,2,more 80,S,Fortune,  Alice Elizabeth
-2,male,20s,0,0,more 10 and less 20,S,Collander,  Erik Gustaf
-2,male,20s,0,0,more 10 and less 20,S,Sedgwick,  Charles Frederick Waddington
-2,male,30s,0,0,more 10 and less 20,S,Fox,  Stanley Hubert
+1,female,10s,1,0,more 80,C,Bishop,Dickinson H (Helen Walton)
+2,male,30s,0,0,more 10 and less 20,C,Levy,Rene Jacques
+3,female,20s,0,0,less 10,S,Haas,Aloisia
+3,male,20s,0,0,less 10,S,Mineff,Ivan
+3,male,20s,0,0,less 10,C,Hanna,Mansour
+1,female,under 10s,1,2,more 80,S,Allison,Helen Loraine
+1,female,50s,0,1,more 80,C,Baxter,James (Helene DeLaudeniere Chaput)
+3,male,10s,0,0,less 10,S,Johnson,William Cahoone Jr
+1,male,under 10s,1,2,more 80,S,Allison,Hudson Trevor
+1,female,10s,1,0,more 80,C,Penasco y Castellana,Victor de Satode (Maria Josefa Perez de Soto y Vallejo)
+2,male,30s,1,0,more 20 and less 40,C,Abelson,Samuel
+1,female,30s,0,0,more 40 and less 60,C,Francatelli,Laura Mabel
+1,female,20s,0,0,more 80,C,Hays,Margaret Bechstein
+1,female,10s,2,2,more 80,C,Ryerson,Emily Borie
+2,female,20s,1,1,more 20 and less 40,S,Lahtinen,William (Anna Sylfven)
+3,male,20s,0,0,less 10,S,Hendekovic,Ignjac
+2,male,40s,1,1,more 20 and less 40,S,Hart,Benjamin
+3,female,20s,0,0,less 10,S,Nilsson,Helmina Josefina
+2,female,20s,1,0,more 20 and less 40,S,Kantor,Sinai (Miriam Sternin)
+2,male,50s,0,0,more 10 and less 20,S,Moraweck,Dr. Ernest
+1,female,30s,0,2,more 80,S,Wick,Mary Natalie
+1,female,40s,1,1,more 80,C,Spedden,Frederic Oakley (Margaretta Corning Stone)
+3,male,20s,0,0,less 10,S,Dennis,Samuel
+3,male,20s,0,0,less 10,S,Danoff,Yoto
+2,female,30s,0,0,more 10 and less 20,Q,Slayter,Hilda Mary
+2,female,20s,1,1,more 20 and less 40,S,Caldwell,Albert Francis (Sylvia Mae Harbaugh)
+1,female,30s,0,0,more 80,C,Young,Marie Grice
+3,male,over 50s,0,0,less 10,S,Nysveen,Johan Hansen
+2,female,30s,0,0,more 10 and less 20,S,Ball,(Ada E Hall)
+3,female,30s,1,1,more 20 and less 40,S,Goldsmith,Frank John (Emily Alice Brown)
+1,female,10s,0,1,more 40 and less 60,C,Hippach,Jean Gertrude
+1,male,40s,0,0,more 20 and less 40,S,Partner,Austen
+1,male,30s,0,1,more 80,S,Graham,George Edward
+3,male,10s,2,0,more 10 and less 20,S,Vander Planke,Leo Edmondus
+1,male,20s,1,0,more 60 and less 80,S,Pears,Thomas Clinton
+1,female,40s,0,0,more 80,C,Burns,Elizabeth Margaret
+3,male,40s,0,0,less 10,S,Dahl,Karl Edwart
+1,male,40s,0,0,more 20 and less 40,S,Blackwell,Stephen Weart
+2,male,under 10s,1,1,more 20 and less 40,S,Navratil,Edmond Roger
+1,female,20s,3,2,more 80,S,Fortune,Alice Elizabeth
+2,male,20s,0,0,more 10 and less 20,S,Collander,Erik Gustaf
+2,male,20s,0,0,more 10 and less 20,S,Sedgwick,Charles Frederick Waddington
+2,male,30s,0,0,more 10 and less 20,S,Fox,Stanley Hubert
 2,female,20s,0,0,more 10 and less 20,S,Brown,Amelia Mildred
-2,female,40s,0,0,more 10 and less 20,S,Smith,  Marion Elsie
+2,female,40s,0,0,more 10 and less 20,S,Smith,Marion Elsie
 3,male,under 10s,1,1,more 10 and less 20,S,Coutts,William Loch William
-3,male,40s,0,0,less 10,S,Dimic,  Jovan
-3,male,20s,0,0,less 10,S,Odahl,  Nils Martin
-3,male,10s,1,1,less 10,C,Elias,  Tannous
-3,male,20s,1,0,more 10 and less 20,S,Arnold-Franchi,  Josef
-3,male,20s,0,0,less 10,S,Vanden Steen,  Leo Peter
-1,female,20s,0,1,more 40 and less 60,S,Bowerman,  Elsie Edith
-2,female,30s,0,0,more 10 and less 20,S,Funk,  Annie Clemmer
-3,male,40s,1,4,more 20 and less 40,S,Skoog,  Wilhelm
-2,male,20s,1,0,more 20 and less 40,C,del Carlo,  Sebastiano
-3,female,40s,0,1,more 10 and less 20,C,Barbara,  (Catherine David)
-3,male,30s,0,0,less 10,S,Asim,  Adola
-3,male,30s,0,0,less 10,S,Adahl,  Mauritz Nils Martin
-1,female,over 50s,1,0,more 60 and less 80,C,Warren,  Frank Manley (Anna Sophia Atkinson)
-1,female,20s,0,0,more 60 and less 80,C,Aubart, Mme. Leontine Pauline
-1,male,20s,1,0,more 40 and less 60,C,Harder,  George Achilles
-3,male,10s,1,0,less 10,S,Wiklund,  Jakob Alfred
-3,male,10s,0,0,less 10,S,Beavan,  William Thomas
-1,male,20s,0,0,more 80,C,Ringhini,  Sante
-3,female,under 10s,3,1,more 20 and less 40,S,Palsson,  Stina Viola
-3,female,20s,0,0,less 10,S,Landergren,  Aurora Adelia
-1,male,20s,0,2,more 80,C,Widener,  Harry Elkins
-3,male,20s,0,0,less 10,C,Betros,  Tannous
-3,male,10s,0,0,less 10,S,Gustafsson,  Karl Gideon
-1,female,40s,0,0,more 80,C,Bidois,  Rosalie
+3,male,40s,0,0,less 10,S,Dimic,Jovan
+3,male,20s,0,0,less 10,S,Odahl,Nils Martin
+3,male,10s,1,1,less 10,C,Elias,Tannous
+3,male,20s,1,0,more 10 and less 20,S,Arnold-Franchi,Josef
+3,male,20s,0,0,less 10,S,Vanden Steen,Leo Peter
+1,female,20s,0,1,more 40 and less 60,S,Bowerman,Elsie Edith
+2,female,30s,0,0,more 10 and less 20,S,Funk,Annie Clemmer
+3,male,40s,1,4,more 20 and less 40,S,Skoog,Wilhelm
+2,male,20s,1,0,more 20 and less 40,C,del Carlo,Sebastiano
+3,female,40s,0,1,more 10 and less 20,C,Barbara,(Catherine David)
+3,male,30s,0,0,less 10,S,Asim,Adola
+3,male,30s,0,0,less 10,S,Adahl,Mauritz Nils Martin
+1,female,over 50s,1,0,more 60 and less 80,C,Warren,Frank Manley (Anna Sophia Atkinson)
+1,female,20s,0,0,more 60 and less 80,C,Aubart,Mme. Leontine Pauline
+1,male,20s,1,0,more 40 and less 60,C,Harder,George Achilles
+3,male,10s,1,0,less 10,S,Wiklund,Jakob Alfred
+3,male,10s,0,0,less 10,S,Beavan,William Thomas
+1,male,20s,0,0,more 80,C,Ringhini,Sante
+3,female,under 10s,3,1,more 20 and less 40,S,Palsson,Stina Viola
+3,female,20s,0,0,less 10,S,Landergren,Aurora Adelia
+1,male,20s,0,2,more 80,C,Widener,Harry Elkins
+3,male,20s,0,0,less 10,C,Betros,Tannous
+3,male,10s,0,0,less 10,S,Gustafsson,Karl Gideon
+1,female,40s,0,0,more 80,C,Bidois,Rosalie
 3,female,under 10s,0,2,more 10 and less 20,C,Nakid,Maria (Mary)
-3,male,30s,0,0,less 10,S,Tikkanen,  Juho
-1,female,30s,1,0,more 40 and less 60,S,Holverson,  Alexander Oskar (Mary Aline Towner)
-2,male,10s,0,0,more 60 and less 80,S,Davies,  Charles Henry
-3,male,under 10s,5,2,more 40 and less 60,S,Goodwin,  Sidney Leonard
-2,female,30s,0,0,more 10 and less 20,S,Buss,  Kate
-2,female,10s,0,0,more 10 and less 20,C,Lehmann,  Bertha
-1,male,30s,1,2,more 80,S,Carter,  William Ernest
-3,male,20s,0,0,less 10,S,Jansson,  Carl Olof
-3,male,20s,2,0,less 10,S,Gustafsson,  Johan Birger
-1,female,20s,1,0,more 80,C,Newell,  Marjorie
-3,female,20s,0,2,more 10 and less 20,S,Sandstrom,  Hjalmar (Agnes Charlotta Bengtsson)
-3,male,20s,0,0,less 10,S,Johansson,  Erik
-3,female,30s,0,0,less 10,S,Olsson,  Elina
-2,male,40s,0,0,more 20 and less 40,S,McKane,  Peter David
-2,male,20s,0,0,more 10 and less 20,S,Pain, Dr. Alfred
-2,female,20s,0,0,more 10 and less 20,S,Trout,  William H (Jessie L)
-3,male,30s,0,0,less 10,S,Niskanen,  Juha
-3,male,20s,0,0,less 10,S,Adams,  John
-3,female,20s,1,0,less 10,S,Jussila,  Mari Aina
-3,male,20s,1,0,more 10 and less 20,S,Hakkarainen,  Pekka Pietari
-3,female,20s,0,0,less 10,S,Oreskovic,  Marija
-2,male,30s,1,0,more 20 and less 40,S,Gale,  Shadrach
-3,male,50s,0,0,less 10,S,Widegren,  Carl/Charles Peter
-2,male,under 10s,1,1,more 10 and less 20,S,Richards,  William Rowe
-3,male,20s,0,0,less 10,S,Birkeland,  Hans Martin Monsen
-1,female,30s,1,0,more 80,Q,Minahan,  Daisy E
-3,male,40s,0,0,less 10,S,Sundman,  Johan Julian
-2,female,30s,1,1,more 20 and less 40,S,Drew,  James Vivian (Lulu Thorne Christian)
-2,female,10s,0,2,more 10 and less 20,S,Silven,  Lyyli Karoliina
-2,male,30s,0,0,more 10 and less 20,S,Matthews,  William John
-3,female,10s,0,2,more 20 and less 40,S,Van Impe,  Catharina
-3,male,20s,0,0,less 10,Q,Charters,  David
-3,male,20s,0,0,less 10,S,Zimmerman,  Leo
-3,female,20s,1,1,more 10 and less 20,S,Danbom,  Ernst Gilbert (Anna Sigrid Maria Brogren)
-3,male,10s,1,1,more 20 and less 40,S,Rosblom,  Viktor Richard
-2,female,20s,1,0,more 20 and less 40,S,Clarke,  Charles V (Ada Maria Winfield)
+3,male,30s,0,0,less 10,S,Tikkanen,Juho
+1,female,30s,1,0,more 40 and less 60,S,Holverson,Alexander Oskar (Mary Aline Towner)
+2,male,10s,0,0,more 60 and less 80,S,Davies,Charles Henry
+3,male,under 10s,5,2,more 40 and less 60,S,Goodwin,Sidney Leonard
+2,female,30s,0,0,more 10 and less 20,S,Buss,Kate
+2,female,10s,0,0,more 10 and less 20,C,Lehmann,Bertha
+1,male,30s,1,2,more 80,S,Carter,William Ernest
+3,male,20s,0,0,less 10,S,Jansson,Carl Olof
+3,male,20s,2,0,less 10,S,Gustafsson,Johan Birger
+1,female,20s,1,0,more 80,C,Newell,Marjorie
+3,female,20s,0,2,more 10 and less 20,S,Sandstrom,Hjalmar (Agnes Charlotta Bengtsson)
+3,male,20s,0,0,less 10,S,Johansson,Erik
+3,female,30s,0,0,less 10,S,Olsson,Elina
+2,male,40s,0,0,more 20 and less 40,S,McKane,Peter David
+2,male,20s,0,0,more 10 and less 20,S,Pain,Dr. Alfred
+2,female,20s,0,0,more 10 and less 20,S,Trout,William H (Jessie L)
+3,male,30s,0,0,less 10,S,Niskanen,Juha
+3,male,20s,0,0,less 10,S,Adams,John
+3,female,20s,1,0,less 10,S,Jussila,Mari Aina
+3,male,20s,1,0,more 10 and less 20,S,Hakkarainen,Pekka Pietari
+3,female,20s,0,0,less 10,S,Oreskovic,Marija
+2,male,30s,1,0,more 20 and less 40,S,Gale,Shadrach
+3,male,50s,0,0,less 10,S,Widegren,Carl/Charles Peter
+2,male,under 10s,1,1,more 10 and less 20,S,Richards,William Rowe
+3,male,20s,0,0,less 10,S,Birkeland,Hans Martin Monsen
+1,female,30s,1,0,more 80,Q,Minahan,Daisy E
+3,male,40s,0,0,less 10,S,Sundman,Johan Julian
+2,female,30s,1,1,more 20 and less 40,S,Drew,James Vivian (Lulu Thorne Christian)
+2,female,10s,0,2,more 10 and less 20,S,Silven,Lyyli Karoliina
+2,male,30s,0,0,more 10 and less 20,S,Matthews,William John
+3,female,10s,0,2,more 20 and less 40,S,Van Impe,Catharina
+3,male,20s,0,0,less 10,Q,Charters,David
+3,male,20s,0,0,less 10,S,Zimmerman,Leo
+3,female,20s,1,1,more 10 and less 20,S,Danbom,Ernst Gilbert (Anna Sigrid Maria Brogren)
+3,male,10s,1,1,more 20 and less 40,S,Rosblom,Viktor Richard
+2,female,20s,1,0,more 20 and less 40,S,Clarke,Charles V (Ada Maria Winfield)
 2,female,10s,0,0,more 20 and less 40,S,Phillips,Kate Florence (Mrs Kate Louise Phillips Marshall)
-3,male,30s,0,0,less 10,S,Pickard,  Berk (Berk Trembisky)
-1,male,20s,0,0,more 20 and less 40,S,Bjornstrom-Steffansson,  Mauritz Hakan
-2,female,40s,1,0,more 20 and less 40,S,Louch,  Charles Alexander (Alice Adelaide Slow)
-3,male,10s,0,0,less 10,S,Kallio,  Nikolai Erland
-1,male,50s,1,0,more 40 and less 60,S,Silvey,  William Baird
-1,female,10s,1,2,more 80,S,Carter,  Lucile Polk
+3,male,30s,0,0,less 10,S,Pickard,Berk (Berk Trembisky)
+1,male,20s,0,0,more 20 and less 40,S,Bjornstrom-Steffansson,Mauritz Hakan
+2,female,40s,1,0,more 20 and less 40,S,Louch,Charles Alexander (Alice Adelaide Slow)
+3,male,10s,0,0,less 10,S,Kallio,Nikolai Erland
+1,male,50s,1,0,more 40 and less 60,S,Silvey,William Baird
+1,female,10s,1,2,more 80,S,Carter,Lucile Polk
 3,female,20s,2,2,more 20 and less 40,S,Ford,Doolina Margaret Daisy
-2,female,20s,2,3,more 10 and less 20,S,Richards,  Sidney (Emily Hocking)
-1,male,over 50s,1,4,more 80,S,Fortune,  Mark
-2,male,30s,0,0,more 10 and less 20,S,Kvillner,  Johan Henrik Johannesson
-2,female,40s,1,1,more 20 and less 40,S,Hart,  Benjamin (Esther Ada Bloomfield)
-3,male,20s,0,0,less 10,S,Hampe,  Leon
-3,male,20s,1,0,less 10,S,Petterson,  Johan Emil
-2,female,20s,0,0,more 10 and less 20,S,Reynaldo, Ms. Encarnacion
-1,male,under 10s,0,2,more 80,S,Dodge,  Washington
-2,female,10s,0,1,more 10 and less 20,S,Mellinger,  Madeleine Violet
-1,male,30s,0,0,more 20 and less 40,S,Seward,  Frederic Kimber
-3,female,under 10s,2,1,more 10 and less 20,C,Baclini,  Marie Catherine
-1,male,50s,0,0,more 20 and less 40,S,Peuchen, Major. Arthur Godfrey
-2,male,30s,1,2,more 20 and less 40,S,West,  Edwy Arthur
-1,male,30s,0,0,more 20 and less 40,C,Foreman,  Benjamin Laventall
-1,male,40s,1,0,more 80,C,Goldenberg,  Samuel L
-3,male,20s,0,0,less 10,C,Jalsevac,  Ivan
-1,male,over 50s,0,0,more 20 and less 40,S,Millet,  Francis Davis
-2,female,50s,0,0,more 10 and less 20,S,Toomey,  Ellen
-1,male,40s,0,0,more 20 and less 40,S,Anderson,  Harry
-3,male,30s,0,0,less 10,S,Morley,  William
-1,male,40s,0,0,more 20 and less 40,S,Gee,  Arthur H
-2,male,40s,0,0,more 10 and less 20,S,Milling,  Jacob Christian
-3,male,30s,0,0,less 10,S,Goncalves,  Manuel Estanslas
-1,male,50s,0,0,more 20 and less 40,S,Smart,  John Montgomery
-3,female,under 10s,2,1,more 10 and less 20,C,Baclini,  Helene Barbara
-3,male,30s,0,0,less 10,S,Cacic,  Luka
-2,female,30s,1,2,more 20 and less 40,S,West,  Edwy Arthur (Ada Mary Worth)
-2,female,20s,0,0,more 10 and less 20,C,Jerwan,  Amin S (Marie Marthe Thuillard)
-3,female,20s,0,0,less 10,S,Strandberg,  Ida Sofia
-2,male,30s,1,0,more 20 and less 40,S,Renouf,  Peter Henry
-3,male,20s,1,0,less 10,S,Braund,  Lewis Richard
-3,male,20s,0,0,less 10,S,Karlsson,  Nils August
-3,female,under 10s,0,1,more 10 and less 20,S,Hirvonen,  Hildur E
-3,male,under 10s,5,2,more 40 and less 60,S,Goodwin,  Harold Victor
-3,male,50s,0,0,less 10,S,Rouse,  Richard Henry
-3,female,over 50s,0,0,less 10,S,Turkula,  (Hedwig)
-1,male,20s,1,0,more 80,C,Bishop,  Dickinson H
-1,female,30s,1,0,more 80,S,Hoyt,  Frederick Maxfield (Jane Anne Forby)
-1,male,50s,0,0,more 20 and less 40,C,Kent,  Edward Austin
-3,male,30s,0,0,less 10,S,Somerton,  Francis William
+2,female,20s,2,3,more 10 and less 20,S,Richards,Sidney (Emily Hocking)
+1,male,over 50s,1,4,more 80,S,Fortune,Mark
+2,male,30s,0,0,more 10 and less 20,S,Kvillner,Johan Henrik Johannesson
+2,female,40s,1,1,more 20 and less 40,S,Hart,Benjamin (Esther Ada Bloomfield)
+3,male,20s,0,0,less 10,S,Hampe,Leon
+3,male,20s,1,0,less 10,S,Petterson,Johan Emil
+2,female,20s,0,0,more 10 and less 20,S,Reynaldo,Ms. Encarnacion
+1,male,under 10s,0,2,more 80,S,Dodge,Washington
+2,female,10s,0,1,more 10 and less 20,S,Mellinger,Madeleine Violet
+1,male,30s,0,0,more 20 and less 40,S,Seward,Frederic Kimber
+3,female,under 10s,2,1,more 10 and less 20,C,Baclini,Marie Catherine
+1,male,50s,0,0,more 20 and less 40,S,Peuchen,Major. Arthur Godfrey
+2,male,30s,1,2,more 20 and less 40,S,West,Edwy Arthur
+1,male,30s,0,0,more 20 and less 40,C,Foreman,Benjamin Laventall
+1,male,40s,1,0,more 80,C,Goldenberg,Samuel L
+3,male,20s,0,0,less 10,C,Jalsevac,Ivan
+1,male,over 50s,0,0,more 20 and less 40,S,Millet,Francis Davis
+2,female,50s,0,0,more 10 and less 20,S,Toomey,Ellen
+1,male,40s,0,0,more 20 and less 40,S,Anderson,Harry
+3,male,30s,0,0,less 10,S,Morley,William
+1,male,40s,0,0,more 20 and less 40,S,Gee,Arthur H
+2,male,40s,0,0,more 10 and less 20,S,Milling,Jacob Christian
+3,male,30s,0,0,less 10,S,Goncalves,Manuel Estanslas
+1,male,50s,0,0,more 20 and less 40,S,Smart,John Montgomery
+3,female,under 10s,2,1,more 10 and less 20,C,Baclini,Helene Barbara
+3,male,30s,0,0,less 10,S,Cacic,Luka
+2,female,30s,1,2,more 20 and less 40,S,West,Edwy Arthur (Ada Mary Worth)
+2,female,20s,0,0,more 10 and less 20,C,Jerwan,Amin S (Marie Marthe Thuillard)
+3,female,20s,0,0,less 10,S,Strandberg,Ida Sofia
+2,male,30s,1,0,more 20 and less 40,S,Renouf,Peter Henry
+3,male,20s,1,0,less 10,S,Braund,Lewis Richard
+3,male,20s,0,0,less 10,S,Karlsson,Nils August
+3,female,under 10s,0,1,more 10 and less 20,S,Hirvonen,Hildur E
+3,male,under 10s,5,2,more 40 and less 60,S,Goodwin,Harold Victor
+3,male,50s,0,0,less 10,S,Rouse,Richard Henry
+3,female,over 50s,0,0,less 10,S,Turkula,(Hedwig)
+1,male,20s,1,0,more 80,C,Bishop,Dickinson H
+1,female,30s,1,0,more 80,S,Hoyt,Frederick Maxfield (Jane Anne Forby)
+1,male,50s,0,0,more 20 and less 40,C,Kent,Edward Austin
+3,male,30s,0,0,less 10,S,Somerton,Francis William
 3,male,under 10s,1,1,more 10 and less 20,S,Coutts,Eden Leslie Neville
-3,male,20s,0,0,less 10,S,Windelov,  Einar
-1,male,50s,0,0,more 20 and less 40,S,Molson,  Harry Markland
-1,male,over 50s,0,0,more 40 and less 60,C,Artagaveytia,  Ramon
-3,male,20s,0,0,less 10,S,Stanley,  Edward Roland
-1,female,50s,1,0,more 60 and less 80,C,Eustis,  Elizabeth Mussey
-1,female,20s,1,2,more 80,S,Allison,  Hudson J C (Bessie Waldo Daniels)
-3,male,20s,0,0,less 10,S,Svensson,  Olof
-3,male,10s,0,0,less 10,S,Calic,  Petar
-3,female,20s,0,0,less 10,Q,Canavan,  Mary
-3,female,30s,0,0,less 10,S,Laitinen,  Kristina Sofia
-1,female,10s,0,0,more 80,S,Maioni,  Roberta
-1,male,10s,1,0,more 80,C,Penasco y Castellana,  Victor de Satode
-2,female,30s,0,2,more 20 and less 40,S,Quick,  Frederick Charles (Jane Richards)
-3,male,20s,0,0,more 20 and less 40,S,Olsen,  Henry Margido
-3,male,20s,0,0,more 40 and less 60,S,Lang,  Fang
-3,male,20s,0,0,less 10,Q,Daly,  Eugene Patrick
-1,male,30s,0,0,more 20 and less 40,S,McGough,  James Robert
-1,female,50s,1,0,more 40 and less 60,C,Rothschild,  Martin (Elizabeth L. Barrett)
-3,male,20s,0,0,less 10,S,Coleff,  Satio
-1,male,40s,0,0,more 20 and less 40,S,Walker,  William Anderson
-2,female,30s,0,0,more 10 and less 20,S,Lemore,  (Amelia Milley)
+3,male,20s,0,0,less 10,S,Windelov,Einar
+1,male,50s,0,0,more 20 and less 40,S,Molson,Harry Markland
+1,male,over 50s,0,0,more 40 and less 60,C,Artagaveytia,Ramon
+3,male,20s,0,0,less 10,S,Stanley,Edward Roland
+1,female,50s,1,0,more 60 and less 80,C,Eustis,Elizabeth Mussey
+1,female,20s,1,2,more 80,S,Allison,Hudson J C (Bessie Waldo Daniels)
+3,male,20s,0,0,less 10,S,Svensson,Olof
+3,male,10s,0,0,less 10,S,Calic,Petar
+3,female,20s,0,0,less 10,Q,Canavan,Mary
+3,female,30s,0,0,less 10,S,Laitinen,Kristina Sofia
+1,female,10s,0,0,more 80,S,Maioni,Roberta
+1,male,10s,1,0,more 80,C,Penasco y Castellana,Victor de Satode
+2,female,30s,0,2,more 20 and less 40,S,Quick,Frederick Charles (Jane Richards)
+3,male,20s,0,0,more 20 and less 40,S,Olsen,Henry Margido
+3,male,20s,0,0,more 40 and less 60,S,Lang,Fang
+3,male,20s,0,0,less 10,Q,Daly,Eugene Patrick
+1,male,30s,0,0,more 20 and less 40,S,McGough,James Robert
+1,female,50s,1,0,more 40 and less 60,C,Rothschild,Martin (Elizabeth L. Barrett)
+3,male,20s,0,0,less 10,S,Coleff,Satio
+1,male,40s,0,0,more 20 and less 40,S,Walker,William Anderson
+2,female,30s,0,0,more 10 and less 20,S,Lemore,(Amelia Milley)
 2,female,30s,1,0,more 20 and less 40,S,Angle,William A (Florence Mary Agnes Hughes)
-3,male,30s,0,0,less 10,S,Pavlovic,  Stefo
-1,female,30s,0,0,more 80,S,Perreault,  Anne
-3,male,20s,0,0,less 10,S,Vovk,  Janko
-1,female,40s,0,1,more 40 and less 60,C,Hippach,  Louis Albert (Ida Sophia Fischer)
-3,male,40s,0,0,less 10,Q,Farrell,  James
-2,female,50s,0,0,more 10 and less 20,S,Ridsdale,  Lucy
-3,male,30s,0,0,less 10,S,Salonen,  Johan Werner
-2,male,20s,2,1,more 10 and less 20,S,Hocking,  Richard George
-2,female,under 10s,1,1,more 20 and less 40,S,Quick,  Phyllis May
-3,male,10s,1,1,less 10,C,Elias,  Joseph Jr
-3,female,30s,0,0,less 10,S,Cacic,  Marija
-2,female,under 10s,0,2,more 20 and less 40,S,Hart,  Eva Miriam
-1,male,40s,0,0,more 20 and less 40,S,Butt, Major. Archibald Willingham
-1,female,30s,0,0,more 80,C,LeRoy,  Bertha
-1,female,20s,0,2,more 40 and less 60,C,Frolicher,  Hedwig Margaritha
-1,female,30s,0,2,more 60 and less 80,S,Crosby,  Harriet R
-3,female,under 10s,4,2,more 20 and less 40,S,Andersson,  Ingeborg Constanzia
-3,female,10s,4,2,more 20 and less 40,S,Andersson,  Sigrid Elisabeth
-2,male,30s,1,0,more 20 and less 40,S,Beane,  Edward
-1,male,50s,1,0,more 80,C,Douglas,  Walter Donald
-1,male,over 50s,0,0,more 20 and less 40,S,Nicholson,  Arthur Ernest
-2,female,10s,1,0,more 20 and less 40,S,Beane,  Edward (Ethel Clarke)
-3,male,30s,1,1,more 20 and less 40,S,Goldsmith,  Frank John
-2,male,under 10s,1,1,more 20 and less 40,S,Davies,  John Morgan Jr
-1,male,10s,0,2,more 80,C,Thayer,  John Borland Jr
-2,male,20s,0,0,more 20 and less 40,S,Sharp,  Percival James R
+3,male,30s,0,0,less 10,S,Pavlovic,Stefo
+1,female,30s,0,0,more 80,S,Perreault,Anne
+3,male,20s,0,0,less 10,S,Vovk,Janko
+1,female,40s,0,1,more 40 and less 60,C,Hippach,Louis Albert (Ida Sophia Fischer)
+3,male,40s,0,0,less 10,Q,Farrell,James
+2,female,50s,0,0,more 10 and less 20,S,Ridsdale,Lucy
+3,male,30s,0,0,less 10,S,Salonen,Johan Werner
+2,male,20s,2,1,more 10 and less 20,S,Hocking,Richard George
+2,female,under 10s,1,1,more 20 and less 40,S,Quick,Phyllis May
+3,male,10s,1,1,less 10,C,Elias,Joseph Jr
+3,female,30s,0,0,less 10,S,Cacic,Marija
+2,female,under 10s,0,2,more 20 and less 40,S,Hart,Eva Miriam
+1,male,40s,0,0,more 20 and less 40,S,Butt,Major. Archibald Willingham
+1,female,30s,0,0,more 80,C,LeRoy,Bertha
+1,female,20s,0,2,more 40 and less 60,C,Frolicher,Hedwig Margaritha
+1,female,30s,0,2,more 60 and less 80,S,Crosby,Harriet R
+3,female,under 10s,4,2,more 20 and less 40,S,Andersson,Ingeborg Constanzia
+3,female,10s,4,2,more 20 and less 40,S,Andersson,Sigrid Elisabeth
+2,male,30s,1,0,more 20 and less 40,S,Beane,Edward
+1,male,50s,1,0,more 80,C,Douglas,Walter Donald
+1,male,over 50s,0,0,more 20 and less 40,S,Nicholson,Arthur Ernest
+2,female,10s,1,0,more 20 and less 40,S,Beane,Edward (Ethel Clarke)
+3,male,30s,1,1,more 20 and less 40,S,Goldsmith,Frank John
+2,male,under 10s,1,1,more 20 and less 40,S,Davies,John Morgan Jr
+1,male,10s,0,2,more 80,C,Thayer,John Borland Jr
+2,male,20s,0,0,more 20 and less 40,S,Sharp,Percival James R
 3,male,20s,0,0,less 10,C,Leeni,Fahim (Philip Zenni)
-3,female,20s,0,0,less 10,S,Ohman,  Velin
-1,male,over 50s,0,0,more 20 and less 40,S,Wright,  George
+3,female,20s,0,0,less 10,S,Ohman,Velin
+1,male,over 50s,0,0,more 20 and less 40,S,Wright,George
 1,female,40s,1,0,more 20 and less 40,C,Duff Gordon,Lady. (Lucille Christiana Sutherland) (Mrs Morgan)
-1,female,30s,1,1,more 60 and less 80,S,Taussig,  Emil (Tillie Mandelbaum)
-3,female,30s,1,0,more 10 and less 20,S,de Messemaeker,  Guillaume Joseph (Emma)
-3,male,40s,0,0,less 10,S,Sivic,  Husein
-2,male,20s,0,0,more 10 and less 20,S,Norman,  Robert Douglas
-3,male,20s,2,0,more 20 and less 40,S,Davies,  Alfred J
-3,male,10s,0,0,less 10,S,Stoytcheff,  Ilia
-3,female,20s,0,4,more 20 and less 40,S,Palsson,  Nils (Alma Cornelia Berglund)
-3,male,30s,0,0,less 10,S,Jonsson,  Carl
-2,male,over 50s,0,0,more 10 and less 20,S,Harris,  George
-1,female,50s,2,0,more 40 and less 60,S,Appleton,  Edward Dale (Charlotte Lamson)
+1,female,30s,1,1,more 60 and less 80,S,Taussig,Emil (Tillie Mandelbaum)
+3,female,30s,1,0,more 10 and less 20,S,de Messemaeker,Guillaume Joseph (Emma)
+3,male,40s,0,0,less 10,S,Sivic,Husein
+2,male,20s,0,0,more 10 and less 20,S,Norman,Robert Douglas
+3,male,20s,2,0,more 20 and less 40,S,Davies,Alfred J
+3,male,10s,0,0,less 10,S,Stoytcheff,Ilia
+3,female,20s,0,4,more 20 and less 40,S,Palsson,Nils (Alma Cornelia Berglund)
+3,male,30s,0,0,less 10,S,Jonsson,Carl
+2,male,over 50s,0,0,more 10 and less 20,S,Harris,George
+1,female,50s,2,0,more 40 and less 60,S,Appleton,Edward Dale (Charlotte Lamson)
 1,male,30s,0,0,more 20 and less 40,S,Flynn,John Irwin (Irving)
-3,male,10s,0,0,less 10,S,Rush,  Alfred George John
-3,male,10s,0,0,more 10 and less 20,S,Patchett,  George
-2,female,30s,0,0,more 10 and less 20,S,Garside,  Ethel
-1,female,30s,1,0,more 40 and less 60,S,Silvey,  William Baird (Alice Munger)
-3,male,30s,0,0,less 10,S,Jussila,  Eiriik
-2,female,20s,1,1,more 20 and less 40,S,Christy,  Julie Rachel
-1,female,30s,1,1,more 80,C,Thayer,  John Borland (Marian Longstreth Morris)
-2,male,50s,0,0,more 20 and less 40,S,Downton,  William James
-1,male,30s,0,0,more 40 and less 60,C,Ross,  John Hugo
-1,female,10s,0,2,more 60 and less 80,S,Taussig,  Ruth
-2,male,40s,0,0,more 10 and less 20,S,Jarvis,  John Denzil
-1,male,over 50s,1,1,more 60 and less 80,C,Frolicher-Stehli,  Maxmillian
-3,male,20s,0,0,less 10,S,Gilinski,  Eliezer
-3,male,30s,0,0,less 10,S,Rintamaki,  Matti
-1,female,50s,1,0,more 60 and less 80,C,Stephenson,  Walter Bertram (Martha Eustis)
-3,male,40s,0,0,less 10,S,Elsbury,  William James
-2,male,30s,1,0,more 20 and less 40,S,Chapman,  John Henry
-3,male,30s,1,1,more 20 and less 40,S,Van Impe,  Jean Baptiste
-3,male,40s,0,0,less 10,S,Johnson,  Alfred
+3,male,10s,0,0,less 10,S,Rush,Alfred George John
+3,male,10s,0,0,more 10 and less 20,S,Patchett,George
+2,female,30s,0,0,more 10 and less 20,S,Garside,Ethel
+1,female,30s,1,0,more 40 and less 60,S,Silvey,William Baird (Alice Munger)
+3,male,30s,0,0,less 10,S,Jussila,Eiriik
+2,female,20s,1,1,more 20 and less 40,S,Christy,Julie Rachel
+1,female,30s,1,1,more 80,C,Thayer,John Borland (Marian Longstreth Morris)
+2,male,50s,0,0,more 20 and less 40,S,Downton,William James
+1,male,30s,0,0,more 40 and less 60,C,Ross,John Hugo
+1,female,10s,0,2,more 60 and less 80,S,Taussig,Ruth
+2,male,40s,0,0,more 10 and less 20,S,Jarvis,John Denzil
+1,male,over 50s,1,1,more 60 and less 80,C,Frolicher-Stehli,Maxmillian
+3,male,20s,0,0,less 10,S,Gilinski,Eliezer
+3,male,30s,0,0,less 10,S,Rintamaki,Matti
+1,female,50s,1,0,more 60 and less 80,C,Stephenson,Walter Bertram (Martha Eustis)
+3,male,40s,0,0,less 10,S,Elsbury,William James
+2,male,30s,1,0,more 20 and less 40,S,Chapman,John Henry
+3,male,30s,1,1,more 20 and less 40,S,Van Impe,Jean Baptiste
+3,male,40s,0,0,less 10,S,Johnson,Alfred
 1,male,40s,1,0,more 40 and less 60,C,Duff Gordon,Sir. Cosmo Edmund (Mr Morgan)
-2,female,20s,2,1,more 20 and less 40,S,Jacobsohn,  Sidney Samuel (Amy Frances Christy)
-3,male,40s,0,0,less 10,S,Torber,  Ernst William
+2,female,20s,2,1,more 20 and less 40,S,Jacobsohn,Sidney Samuel (Amy Frances Christy)
+3,male,40s,0,0,less 10,S,Torber,Ernst William
 1,male,30s,0,0,more 20 and less 40,C,Homer,Harry (Mr E Haven)
-3,male,30s,1,0,more 10 and less 20,S,Lindell,  Edvard Bengtsson
-3,male,30s,0,0,less 10,S,Karaic,  Milan
-1,male,20s,0,0,more 20 and less 40,S,Daniel,  Robert Williams
-2,female,20s,1,2,more 40 and less 60,C,Laroche,  Joseph (Juliette Marie Louise Lafargue)
-1,female,40s,0,0,more 80,S,Shutes,  Elizabeth W
-3,female,30s,1,5,more 20 and less 40,S,Andersson,  Anders Johan (Alfrida Konstantia Brogren)
-3,male,30s,0,0,less 10,S,Brocklebank,  William Alfred
-2,female,20s,1,2,more 60 and less 80,S,Herman,  Alice
-3,male,30s,1,1,more 10 and less 20,S,Danbom,  Ernst Gilbert
-3,female,20s,1,0,more 10 and less 20,S,Lobb,  William Arthur (Cordelia K Stanlick)
-2,female,under 10s,2,1,more 20 and less 40,S,Becker,  Marion Louise
-2,male,20s,0,0,more 10 and less 20,S,Gavey,  Lawrence
-3,male,20s,1,0,more 10 and less 20,C,Yasbeck,  Antoni
-1,male,40s,1,0,more 40 and less 60,S,Kimball,  Edwin Nelson Jr
-3,male,20s,1,1,more 10 and less 20,C,Nakid,  Sahid
-3,male,20s,0,0,less 10,S,Hansen,  Henry Damsgaard
+3,male,30s,1,0,more 10 and less 20,S,Lindell,Edvard Bengtsson
+3,male,30s,0,0,less 10,S,Karaic,Milan
+1,male,20s,0,0,more 20 and less 40,S,Daniel,Robert Williams
+2,female,20s,1,2,more 40 and less 60,C,Laroche,Joseph (Juliette Marie Louise Lafargue)
+1,female,40s,0,0,more 80,S,Shutes,Elizabeth W
+3,female,30s,1,5,more 20 and less 40,S,Andersson,Anders Johan (Alfrida Konstantia Brogren)
+3,male,30s,0,0,less 10,S,Brocklebank,William Alfred
+2,female,20s,1,2,more 60 and less 80,S,Herman,Alice
+3,male,30s,1,1,more 10 and less 20,S,Danbom,Ernst Gilbert
+3,female,20s,1,0,more 10 and less 20,S,Lobb,William Arthur (Cordelia K Stanlick)
+2,female,under 10s,2,1,more 20 and less 40,S,Becker,Marion Louise
+2,male,20s,0,0,more 10 and less 20,S,Gavey,Lawrence
+3,male,20s,1,0,more 10 and less 20,C,Yasbeck,Antoni
+1,male,40s,1,0,more 40 and less 60,S,Kimball,Edwin Nelson Jr
+3,male,20s,1,1,more 10 and less 20,C,Nakid,Sahid
+3,male,20s,0,0,less 10,S,Hansen,Henry Damsgaard
 3,male,20s,0,0,more 10 and less 20,S,Bowen,David John Dai
-1,male,over 50s,0,0,more 20 and less 40,S,Sutton,  Frederick
-2,male,50s,0,0,more 10 and less 20,Q,Kirkland, Rev. Charles Leonard
-1,female,20s,0,0,more 60 and less 80,S,Longley,  Gretchen Fiske
-3,male,20s,0,0,less 10,S,Bostandyeff,  Guentcho
-1,male,over 50s,0,0,more 20 and less 40,S,Barkworth,  Algernon Henry Wilson
-3,male,50s,0,0,less 10,S,Lundahl,  Johan Svensson
-1,male,30s,0,0,more 20 and less 40,C,Stahelin-Maeglin, Dr. Max
-3,female,under 10s,3,2,more 20 and less 40,S,Skoog,  Mabel
-2,female,20s,0,0,more 10 and less 20,S,Davis,  Mary
-3,male,30s,0,0,less 10,S,Leinonen,  Antti Gustaf
-2,male,30s,1,1,more 20 and less 40,S,Collyer,  Harvey
-3,female,40s,0,5,more 20 and less 40,S,Panula,  Juha (Maria Emilia Ojala)
-3,male,20s,0,0,less 10,S,Jensen,  Hans Peder
-1,female,20s,0,0,more 60 and less 80,C,Sagesser, Mlle. Emma
-3,female,under 10s,3,2,more 20 and less 40,S,Skoog,  Margit Elizabeth
-3,female,under 10s,2,1,more 10 and less 20,C,Baclini,  Eugenie
-1,male,40s,1,0,more 60 and less 80,C,Harper,  Henry Sleeper
-3,male,10s,0,0,less 10,S,Cor,  Liudevit
-1,male,50s,0,0,more 20 and less 40,C,Simonius-Blumer, Col. Oberst Alfons
-3,female,20s,0,0,less 10,S,Stanley,  Amy Zillah Elsie
-2,female,10s,0,1,more 20 and less 40,S,Doling,  Elsie
-3,male,20s,0,0,less 10,S,Kalvik,  Johannes Halvorsen
+1,male,over 50s,0,0,more 20 and less 40,S,Sutton,Frederick
+2,male,50s,0,0,more 10 and less 20,Q,Kirkland,Rev. Charles Leonard
+1,female,20s,0,0,more 60 and less 80,S,Longley,Gretchen Fiske
+3,male,20s,0,0,less 10,S,Bostandyeff,Guentcho
+1,male,over 50s,0,0,more 20 and less 40,S,Barkworth,Algernon Henry Wilson
+3,male,50s,0,0,less 10,S,Lundahl,Johan Svensson
+1,male,30s,0,0,more 20 and less 40,C,Stahelin-Maeglin,Dr. Max
+3,female,under 10s,3,2,more 20 and less 40,S,Skoog,Mabel
+2,female,20s,0,0,more 10 and less 20,S,Davis,Mary
+3,male,30s,0,0,less 10,S,Leinonen,Antti Gustaf
+2,male,30s,1,1,more 20 and less 40,S,Collyer,Harvey
+3,female,40s,0,5,more 20 and less 40,S,Panula,Juha (Maria Emilia Ojala)
+3,male,20s,0,0,less 10,S,Jensen,Hans Peder
+1,female,20s,0,0,more 60 and less 80,C,Sagesser,Mlle. Emma
+3,female,under 10s,3,2,more 20 and less 40,S,Skoog,Margit Elizabeth
+3,female,under 10s,2,1,more 10 and less 20,C,Baclini,Eugenie
+1,male,40s,1,0,more 60 and less 80,C,Harper,Henry Sleeper
+3,male,10s,0,0,less 10,S,Cor,Liudevit
+1,male,50s,0,0,more 20 and less 40,C,Simonius-Blumer,Col. Oberst Alfons
+3,female,20s,0,0,less 10,S,Stanley,Amy Zillah Elsie
+2,female,10s,0,1,more 20 and less 40,S,Doling,Elsie
+3,male,20s,0,0,less 10,S,Kalvik,Johannes Halvorsen
 3,female,10s,0,0,less 10,Q,Hegarty,Hanora Nora
-2,male,20s,2,0,more 60 and less 80,S,Hickman,  Leonard Mark
-3,female,30s,1,1,more 10 and less 20,Q,Bourke,  John (Catherine)
-2,male,20s,0,0,more 10 and less 20,S,Eitemiller,  George Floyd
-1,male,50s,0,2,more 80,C,Newell,  Arthur Webster
-1,male,50s,2,0,more 80,S,Frauenthal, Dr. Henry William
-3,male,40s,0,0,less 10,C,Badt,  Mohamed
-1,male,40s,0,0,more 20 and less 40,S,Colley,  Edward Pomeroy
-3,male,30s,0,0,less 10,S,Coleff,  Peju
-3,male,20s,1,0,less 10,S,Lindqvist,  Eino William
-2,male,30s,2,0,more 60 and less 80,S,Hickman,  Lewis
-2,male,20s,0,0,more 10 and less 20,S,Butler,  Reginald Fenton
-3,male,40s,0,0,less 10,S,Cook,  Jacob
-2,female,40s,1,1,more 20 and less 40,S,Brown,  Thomas William Solomon (Elizabeth Catherine Ford)
-1,male,30s,1,0,more 40 and less 60,S,Davidson,  Thornton
-2,male,over 50s,0,0,more 10 and less 20,S,Mitchell,  Henry Michael
-2,male,30s,0,0,more 10 and less 20,S,Wilhelms,  Charles
-3,male,10s,0,0,less 10,S,Edvardsson,  Gustaf Hjalmar
-3,male,20s,0,0,less 10,S,Sawyer,  Frederick Charles
-3,female,10s,0,0,less 10,S,Turja,  Anna Sofia
-3,female,40s,1,6,more 40 and less 60,S,Goodwin,  Frederick (Augusta Tyler)
-1,male,30s,0,1,more 80,C,Cardeza,  Thomas Drake Martinez
-1,male,20s,0,0,more 60 and less 80,C,Hassab,  Hammad
-3,male,20s,0,0,less 10,S,Olsvigen,  Thor Anderson
-3,male,10s,5,2,more 40 and less 60,S,Goodwin,  Charles Edward
-2,male,over 50s,1,1,more 20 and less 40,S,Brown,  Thomas William Solomon
-2,male,20s,1,2,more 40 and less 60,C,Laroche,  Joseph Philippe Lemercier
-3,male,10s,4,1,more 20 and less 40,S,Panula,  Jaako Arnold
-3,male,10s,0,0,more 10 and less 20,S,Dakic,  Branko
-3,male,10s,0,0,less 10,S,Fischer,  Eberhard Thelander
-1,female,10s,0,1,more 80,S,Madill,  Georgette Alexandra
-1,male,30s,1,0,more 40 and less 60,S,Dick,  Albert Adrian
-3,female,under 10s,0,1,more 10 and less 20,C,Karun,  Manca
-3,male,20s,0,0,less 10,C,Saad,  Khalil
-1,male,over 50s,0,0,more 20 and less 40,S,Weir, Col. John
-2,male,50s,0,0,more 10 and less 20,S,Chapman,  Charles Henry
-3,male,40s,0,0,less 10,S,Kelly,  James
-1,male,40s,1,1,more 80,C,Thayer,  John Borland
-3,male,40s,0,0,less 10,S,Humblen,  Adolf Mathias Nicolai Olsen
-1,female,10s,1,0,more 80,C,Astor,  John Jacob (Madeleine Talmadge Force)
-1,male,30s,0,0,more 20 and less 40,S,Silverthorne,  Spencer Victor
-3,female,10s,0,1,more 10 and less 20,C,Barbara,  Saiide
-3,male,20s,0,0,less 10,Q,Gallagher,  Martin
-3,male,20s,1,0,less 10,S,Hansen,  Henrik Juul
+2,male,20s,2,0,more 60 and less 80,S,Hickman,Leonard Mark
+3,female,30s,1,1,more 10 and less 20,Q,Bourke,John (Catherine)
+2,male,20s,0,0,more 10 and less 20,S,Eitemiller,George Floyd
+1,male,50s,0,2,more 80,C,Newell,Arthur Webster
+1,male,50s,2,0,more 80,S,Frauenthal,Dr. Henry William
+3,male,40s,0,0,less 10,C,Badt,Mohamed
+1,male,40s,0,0,more 20 and less 40,S,Colley,Edward Pomeroy
+3,male,30s,0,0,less 10,S,Coleff,Peju
+3,male,20s,1,0,less 10,S,Lindqvist,Eino William
+2,male,30s,2,0,more 60 and less 80,S,Hickman,Lewis
+2,male,20s,0,0,more 10 and less 20,S,Butler,Reginald Fenton
+3,male,40s,0,0,less 10,S,Cook,Jacob
+2,female,40s,1,1,more 20 and less 40,S,Brown,Thomas William Solomon (Elizabeth Catherine Ford)
+1,male,30s,1,0,more 40 and less 60,S,Davidson,Thornton
+2,male,over 50s,0,0,more 10 and less 20,S,Mitchell,Henry Michael
+2,male,30s,0,0,more 10 and less 20,S,Wilhelms,Charles
+3,male,10s,0,0,less 10,S,Edvardsson,Gustaf Hjalmar
+3,male,20s,0,0,less 10,S,Sawyer,Frederick Charles
+3,female,10s,0,0,less 10,S,Turja,Anna Sofia
+3,female,40s,1,6,more 40 and less 60,S,Goodwin,Frederick (Augusta Tyler)
+1,male,30s,0,1,more 80,C,Cardeza,Thomas Drake Martinez
+1,male,20s,0,0,more 60 and less 80,C,Hassab,Hammad
+3,male,20s,0,0,less 10,S,Olsvigen,Thor Anderson
+3,male,10s,5,2,more 40 and less 60,S,Goodwin,Charles Edward
+2,male,over 50s,1,1,more 20 and less 40,S,Brown,Thomas William Solomon
+2,male,20s,1,2,more 40 and less 60,C,Laroche,Joseph Philippe Lemercier
+3,male,10s,4,1,more 20 and less 40,S,Panula,Jaako Arnold
+3,male,10s,0,0,more 10 and less 20,S,Dakic,Branko
+3,male,10s,0,0,less 10,S,Fischer,Eberhard Thelander
+1,female,10s,0,1,more 80,S,Madill,Georgette Alexandra
+1,male,30s,1,0,more 40 and less 60,S,Dick,Albert Adrian
+3,female,under 10s,0,1,more 10 and less 20,C,Karun,Manca
+3,male,20s,0,0,less 10,C,Saad,Khalil
+1,male,over 50s,0,0,more 20 and less 40,S,Weir,Col. John
+2,male,50s,0,0,more 10 and less 20,S,Chapman,Charles Henry
+3,male,40s,0,0,less 10,S,Kelly,James
+1,male,40s,1,1,more 80,C,Thayer,John Borland
+3,male,40s,0,0,less 10,S,Humblen,Adolf Mathias Nicolai Olsen
+1,female,10s,1,0,more 80,C,Astor,John Jacob (Madeleine Talmadge Force)
+1,male,30s,0,0,more 20 and less 40,S,Silverthorne,Spencer Victor
+3,female,10s,0,1,more 10 and less 20,C,Barbara,Saiide
+3,male,20s,0,0,less 10,Q,Gallagher,Martin
+3,male,20s,1,0,less 10,S,Hansen,Henrik Juul
 2,male,30s,0,0,more 20 and less 40,S,Morley,Henry Samuel (Mr Henry Marshall)
 2,female,40s,0,0,more 10 and less 20,S,Kelly,Florence Fannie
-1,male,40s,0,0,more 20 and less 40,S,Calderhead,  Edward Pennington
-1,female,20s,0,0,more 80,S,Cleaver,  Alice
+1,male,40s,0,0,more 20 and less 40,S,Calderhead,Edward Pennington
+1,female,20s,0,0,more 80,S,Cleaver,Alice
 1,female,20s,0,0,more 40 and less 60,C,Mayne,Mlle. Berthe Antonine (Mrs de Villiers)
-1,male,40s,1,0,more 40 and less 60,S,Taylor,  Elmer Zebley
-3,male,20s,0,0,less 10,S,Larsson,  August Viktor
-2,male,50s,0,0,more 10 and less 20,S,Greenberg,  Samuel
-3,male,10s,0,0,less 10,S,Soholt,  Peter Andreas Lauritz Andersen
-1,female,30s,0,0,more 80,C,Endres,  Caroline Louise
+1,male,40s,1,0,more 40 and less 60,S,Taylor,Elmer Zebley
+3,male,20s,0,0,less 10,S,Larsson,August Viktor
+2,male,50s,0,0,more 10 and less 20,S,Greenberg,Samuel
+3,male,10s,0,0,less 10,S,Soholt,Peter Andreas Lauritz Andersen
+1,female,30s,0,0,more 80,C,Endres,Caroline Louise
 2,female,20s,0,0,more 10 and less 20,S,Troutt,Edwina Celia Winnie
-3,male,30s,0,0,less 10,S,Johnson,  Malkolm Joackim
+3,male,30s,0,0,less 10,S,Johnson,Malkolm Joackim
 2,female,under 10s,0,1,more 20 and less 40,S,Harper,Annie Jessie Nina
-3,male,10s,1,0,less 10,S,Jensen,  Svend Lauritz
-2,male,30s,0,0,more 10 and less 20,S,Gillespie,  William Henry
-2,male,50s,0,0,more 10 and less 20,S,Hodges,  Henry Price
-1,male,20s,1,0,more 40 and less 60,S,Chambers,  Norman Campbell
-3,male,20s,0,0,less 10,S,Oreskovic,  Luka
-2,female,30s,3,0,more 20 and less 40,S,Renouf,  Peter Henry (Lillian Jefferys)
-2,male,20s,1,0,more 20 and less 40,S,Bryhl,  Kurt Arnold Gottfrid
-3,female,20s,1,0,less 10,S,Ilmakangas,  Pieta Sofia
-1,female,20s,0,0,more 80,S,Allen,  Elisabeth Walton
-3,male,10s,0,0,more 10 and less 20,C,Hassan,  Houssein G N
-2,male,20s,0,0,more 10 and less 20,S,Berriman,  William John
-2,male,20s,0,0,more 10 and less 20,S,Troupiansky,  Moses Aaron
-3,male,20s,0,0,more 10 and less 20,S,Williams,  Leslie
-3,female,40s,1,3,more 20 and less 40,S,Ford,  Edward (Margaret Ann Watson)
-1,male,30s,0,0,more 80,C,Lesurer,  Gustave J
-1,male,30s,1,0,more 60 and less 80,S,Cavendish,  Tyrell William
+3,male,10s,1,0,less 10,S,Jensen,Svend Lauritz
+2,male,30s,0,0,more 10 and less 20,S,Gillespie,William Henry
+2,male,50s,0,0,more 10 and less 20,S,Hodges,Henry Price
+1,male,20s,1,0,more 40 and less 60,S,Chambers,Norman Campbell
+3,male,20s,0,0,less 10,S,Oreskovic,Luka
+2,female,30s,3,0,more 20 and less 40,S,Renouf,Peter Henry (Lillian Jefferys)
+2,male,20s,1,0,more 20 and less 40,S,Bryhl,Kurt Arnold Gottfrid
+3,female,20s,1,0,less 10,S,Ilmakangas,Pieta Sofia
+1,female,20s,0,0,more 80,S,Allen,Elisabeth Walton
+3,male,10s,0,0,more 10 and less 20,C,Hassan,Houssein G N
+2,male,20s,0,0,more 10 and less 20,S,Berriman,William John
+2,male,20s,0,0,more 10 and less 20,S,Troupiansky,Moses Aaron
+3,male,20s,0,0,more 10 and less 20,S,Williams,Leslie
+3,female,40s,1,3,more 20 and less 40,S,Ford,Edward (Margaret Ann Watson)
+1,male,30s,0,0,more 80,C,Lesurer,Gustave J
+1,male,30s,1,0,more 60 and less 80,S,Cavendish,Tyrell William
 1,female,20s,2,2,more 80,C,Ryerson,Susan Parker Suzette
-3,male,20s,1,0,more 10 and less 20,S,McNamee,  Neal
-3,male,30s,0,0,less 10,S,Stranden,  Juho
-1,male,over 50s,1,1,more 60 and less 80,S,Crosby, Capt. Edward Gifford
-3,male,10s,1,1,more 20 and less 40,S,Abbott,  Rossmore Edward
-2,female,30s,0,0,more 10 and less 20,S,Sinkkonen,  Anna
-1,male,10s,1,0,more 40 and less 60,S,Marvin,  Daniel Warner
-3,male,30s,0,0,less 10,Q,Connaghton,  Michael
-2,female,under 10s,1,1,more 20 and less 40,S,Wells,  Joan
-3,male,under 10s,0,1,more 10 and less 20,S,Moor,  Meier
-3,male,30s,0,0,less 10,S,Vande Velde,  Johannes Joseph
-3,male,20s,0,0,less 10,S,Jonkoff,  Lalio
-2,female,40s,1,2,more 60 and less 80,S,Herman,  Samuel (Jane Laver)
-2,male,under 10s,1,1,more 10 and less 20,S,Hamalainen,  Viljo
-3,male,20s,0,0,less 10,S,Carlsson,  August Sigfrid
-2,male,10s,0,0,more 10 and less 20,S,Bailey,  Percy Andrew
-3,male,30s,0,0,less 10,S,Theobald,  Thomas Leonard
-1,female,30s,0,0,more 80,S,Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)
-3,male,40s,0,0,less 10,S,Nirva,  Iisakki Antino Aijo
-3,male,20s,0,0,less 10,C,Barah,  Hanna Assi
-1,female,30s,1,2,more 80,S,Carter,  William Ernest (Lucile Polk)
-3,male,10s,0,0,less 10,S,Eklund,  Hans Linus
-1,female,50s,1,0,more 60 and less 80,S,Hogeboom,  John C (Anna Andrews)
-3,female,30s,0,0,less 10,Q,Mangan,  Mary
-3,male,30s,0,0,less 10,S,Gronnestad,  Daniel Danielsen
-3,male,20s,0,0,less 10,S,Lievens,  Rene Aime
-3,male,40s,0,0,less 10,S,Jensen,  Niels Peder
-2,female,50s,0,0,more 10 and less 20,S,Mack,  (Mary)
-2,female,50s,1,3,more 20 and less 40,S,Hocking,  Elizabeth (Eliza Needs)
-3,male,10s,0,0,less 10,S,Myhrman,  Pehr Fabian Oliver Malkolm
-3,female,under 10s,0,0,more 10 and less 20,S,Emanuel,  Virginia Ethel
-1,female,40s,0,1,more 80,S,Robert,  Edward Scott (Elisabeth Walton McMillan)
-3,female,10s,0,0,less 10,C,Ayoub,  Banoura
-1,female,10s,1,0,more 40 and less 60,S,Dick,  Albert Adrian (Vera Gillespie)
-1,male,20s,0,0,more 20 and less 40,S,Long,  Milton Clyde
-3,male,20s,0,0,less 10,S,Ali,  William
-3,male,20s,0,0,less 10,S,Harmer,  Abraham (David Lishin)
-3,female,10s,0,0,less 10,S,Sjoblom,  Anna Sofia
-3,male,under 10s,4,1,more 20 and less 40,Q,Rice,  George Hugh
-3,male,under 10s,1,2,more 20 and less 40,S,Dean,  Bertram Vere
-1,male,40s,0,0,more 60 and less 80,C,Guggenheim,  Benjamin
-2,male,10s,0,0,more 20 and less 40,S,Gaskell,  Alfred
-3,male,20s,0,0,less 10,S,Dantcheff,  Ristiu
-2,male,30s,0,0,more 10 and less 20,S,Otter,  Richard
-1,female,40s,0,0,more 20 and less 40,S,Leader, Dr. Alice (Farnham)
-3,female,30s,0,0,less 10,S,Osman,  Mara
-3,male,30s,0,0,less 10,C,Ibrahim Shawah,  Yousseff
-3,female,30s,1,1,more 20 and less 40,S,Van Impe,  Jean Baptiste (Rosalie Paula Govaert)
-2,male,30s,0,0,more 10 and less 20,S,Ponesell,  Martin
-2,female,30s,1,1,more 20 and less 40,S,Collyer,  Harvey (Charlotte Annie Tate)
-1,male,10s,1,2,more 80,S,Carter,  William Thornton II
-3,male,under 10s,0,1,less 10,C,Thomas,  Assad Alexander
-3,male,20s,0,0,less 10,S,Hedman,  Oskar Arvid
-3,male,30s,0,0,less 10,S,Johansson,  Karl Johan
-1,male,30s,0,0,less 10,S,Andrews,  Thomas Jr
-3,female,10s,0,0,less 10,S,Pettersson,  Ellen Natalia
-2,male,30s,0,0,more 10 and less 20,S,Meyer,  August
-1,female,30s,1,0,more 40 and less 60,S,Chambers,  Norman Campbell (Bertha Griggs)
-3,male,20s,0,0,less 10,S,Alexander,  William
-3,male,30s,0,0,more 20 and less 40,S,Lester,  James
-2,male,30s,0,0,more 10 and less 20,S,Slemen,  Richard James
-3,female,under 10s,4,2,more 20 and less 40,S,Andersson,  Ebba Iris Alfrida
-3,male,30s,0,0,less 10,S,Tomlin,  Ernest Portage
-3,female,20s,0,0,less 10,S,Heininen,  Wendla Maria
-2,male,30s,1,1,more 20 and less 40,C,Mallet,  Albert
-3,male,40s,0,0,less 10,S,Holm,  John Fredrik Alexander
-3,male,10s,3,2,more 20 and less 40,S,Skoog,  Karl Thorsten
-1,female,50s,1,1,more 80,S,Hays,  Charles Melville (Clara Jennings Gregg)
-3,male,20s,0,0,less 10,S,Lulic,  Nikola
-1,male,30s,0,0,less 10,S,Reuchlin, Jonkheer. John George
-3,female,20s,0,1,more 10 and less 20,S,Moor,  (Beila)
-3,male,under 10s,4,1,more 20 and less 40,S,Panula,  Urho Abraham
-2,male,under 10s,0,2,more 20 and less 40,C,Mallet,  Andre
-3,female,10s,1,0,more 10 and less 20,C,Yasbeck,  Antoni (Selini Alexander)
-2,male,under 10s,1,1,more 10 and less 20,S,Richards,  George Sibley
-3,male,20s,0,0,less 10,S,Augustsson,  Albert
-3,male,10s,0,0,less 10,S,Allum,  Owen George
-1,female,30s,1,1,more 80,C,Compton,  Sara Rebecca
-3,male,20s,0,0,less 10,S,Pasic,  Jakob
-3,male,30s,0,0,more 40 and less 60,S,Chip,  Chang
-3,male,20s,0,0,less 10,S,Alhomaki,  Ilmari Rudolf
-2,male,10s,0,0,more 10 and less 20,S,Mudd,  Thomas Charles
-1,female,30s,0,0,more 20 and less 40,C,Serepeca,  Augusta
-3,male,30s,0,0,less 10,C,Lemberopolous,  Peter L
-3,male,10s,0,0,less 10,S,Culumovic,  Jeso
-3,male,40s,0,0,less 10,S,Abbing,  Anthony
-3,male,30s,0,0,less 10,C,Markoff,  Marin
-2,male,20s,0,1,more 20 and less 40,S,Harper, Rev. John
-3,male,under 10s,4,2,more 20 and less 40,S,Andersson,  Sigvard Harald Elias
-3,male,over 50s,0,0,less 10,S,Svensson,  Johan
-3,female,under 10s,1,1,more 10 and less 20,C,Boulos,  Nourelain
-1,female,10s,0,1,more 20 and less 40,S,Lines,  Mary Conover
-2,female,40s,1,0,more 20 and less 40,S,Carter,  Ernest Courtenay (Lilian Hughes)
-3,female,10s,0,1,less 10,S,Aks,  Sam (Leah Rosen)
-1,female,40s,1,1,more 80,S,Wick,  George Dennick (Mary Hitchcock)
-1,male,50s,0,0,more 20 and less 40,S,Daly,  Peter Denis 
-3,female,20s,0,3,more 10 and less 20,C,Baclini,  Solomon (Latifa Qurban)
-3,male,40s,2,0,more 10 and less 20,S,Hansen,  Claus Peter
-2,male,20s,1,0,more 10 and less 20,S,Giles,  Frederick Edward
-1,female,40s,0,0,more 20 and less 40,S,Swift,  Frederick Joel (Margaret Welles Barron)
-2,male,20s,0,0,more 10 and less 20,S,Gill,  John William
-2,female,40s,0,0,more 10 and less 20,S,Bystrom,  (Karolina)
-2,female,20s,1,0,more 10 and less 20,C,Duran y More,  Asuncion
-1,male,30s,0,0,more 40 and less 60,S,Roebling,  Washington Augustus II
-3,male,under 10s,1,1,more 10 and less 20,S,Johnson,  Harold Theodor
-3,male,20s,0,0,less 10,S,Balkic,  Cerin
-1,female,40s,1,1,more 40 and less 60,S,Beckwith,  Richard Leonard (Sallie Monypeny)
-1,male,30s,0,0,less 10,S,Carlsson,  Frans Olof
-3,male,40s,0,0,less 10,S,Vander Cruyssen,  Victor
-2,female,20s,1,0,more 20 and less 40,C,Abelson,  Samuel (Hannah Wizosky)
+3,male,20s,1,0,more 10 and less 20,S,McNamee,Neal
+3,male,30s,0,0,less 10,S,Stranden,Juho
+1,male,over 50s,1,1,more 60 and less 80,S,Crosby,Capt. Edward Gifford
+3,male,10s,1,1,more 20 and less 40,S,Abbott,Rossmore Edward
+2,female,30s,0,0,more 10 and less 20,S,Sinkkonen,Anna
+1,male,10s,1,0,more 40 and less 60,S,Marvin,Daniel Warner
+3,male,30s,0,0,less 10,Q,Connaghton,Michael
+2,female,under 10s,1,1,more 20 and less 40,S,Wells,Joan
+3,male,under 10s,0,1,more 10 and less 20,S,Moor,Meier
+3,male,30s,0,0,less 10,S,Vande Velde,Johannes Joseph
+3,male,20s,0,0,less 10,S,Jonkoff,Lalio
+2,female,40s,1,2,more 60 and less 80,S,Herman,Samuel (Jane Laver)
+2,male,under 10s,1,1,more 10 and less 20,S,Hamalainen,Viljo
+3,male,20s,0,0,less 10,S,Carlsson,August Sigfrid
+2,male,10s,0,0,more 10 and less 20,S,Bailey,Percy Andrew
+3,male,30s,0,0,less 10,S,Theobald,Thomas Leonard
+1,female,30s,0,0,more 80,S,Rothes,the Countess. of (Lucy Noel Martha Dyer-Edwards)
+3,male,40s,0,0,less 10,S,Nirva,Iisakki Antino Aijo
+3,male,20s,0,0,less 10,C,Barah,Hanna Assi
+1,female,30s,1,2,more 80,S,Carter,William Ernest (Lucile Polk)
+3,male,10s,0,0,less 10,S,Eklund,Hans Linus
+1,female,50s,1,0,more 60 and less 80,S,Hogeboom,John C (Anna Andrews)
+3,female,30s,0,0,less 10,Q,Mangan,Mary
+3,male,30s,0,0,less 10,S,Gronnestad,Daniel Danielsen
+3,male,20s,0,0,less 10,S,Lievens,Rene Aime
+3,male,40s,0,0,less 10,S,Jensen,Niels Peder
+2,female,50s,0,0,more 10 and less 20,S,Mack,(Mary)
+2,female,50s,1,3,more 20 and less 40,S,Hocking,Elizabeth (Eliza Needs)
+3,male,10s,0,0,less 10,S,Myhrman,Pehr Fabian Oliver Malkolm
+3,female,under 10s,0,0,more 10 and less 20,S,Emanuel,Virginia Ethel
+1,female,40s,0,1,more 80,S,Robert,Edward Scott (Elisabeth Walton McMillan)
+3,female,10s,0,0,less 10,C,Ayoub,Banoura
+1,female,10s,1,0,more 40 and less 60,S,Dick,Albert Adrian (Vera Gillespie)
+1,male,20s,0,0,more 20 and less 40,S,Long,Milton Clyde
+3,male,20s,0,0,less 10,S,Ali,William
+3,male,20s,0,0,less 10,S,Harmer,Abraham (David Lishin)
+3,female,10s,0,0,less 10,S,Sjoblom,Anna Sofia
+3,male,under 10s,4,1,more 20 and less 40,Q,Rice,George Hugh
+3,male,under 10s,1,2,more 20 and less 40,S,Dean,Bertram Vere
+1,male,40s,0,0,more 60 and less 80,C,Guggenheim,Benjamin
+2,male,10s,0,0,more 20 and less 40,S,Gaskell,Alfred
+3,male,20s,0,0,less 10,S,Dantcheff,Ristiu
+2,male,30s,0,0,more 10 and less 20,S,Otter,Richard
+1,female,40s,0,0,more 20 and less 40,S,Leader,Dr. Alice (Farnham)
+3,female,30s,0,0,less 10,S,Osman,Mara
+3,male,30s,0,0,less 10,C,Ibrahim Shawah,Yousseff
+3,female,30s,1,1,more 20 and less 40,S,Van Impe,Jean Baptiste (Rosalie Paula Govaert)
+2,male,30s,0,0,more 10 and less 20,S,Ponesell,Martin
+2,female,30s,1,1,more 20 and less 40,S,Collyer,Harvey (Charlotte Annie Tate)
+1,male,10s,1,2,more 80,S,Carter,William Thornton II
+3,male,under 10s,0,1,less 10,C,Thomas,Assad Alexander
+3,male,20s,0,0,less 10,S,Hedman,Oskar Arvid
+3,male,30s,0,0,less 10,S,Johansson,Karl Johan
+1,male,30s,0,0,less 10,S,Andrews,Thomas Jr
+3,female,10s,0,0,less 10,S,Pettersson,Ellen Natalia
+2,male,30s,0,0,more 10 and less 20,S,Meyer,August
+1,female,30s,1,0,more 40 and less 60,S,Chambers,Norman Campbell (Bertha Griggs)
+3,male,20s,0,0,less 10,S,Alexander,William
+3,male,30s,0,0,more 20 and less 40,S,Lester,James
+2,male,30s,0,0,more 10 and less 20,S,Slemen,Richard James
+3,female,under 10s,4,2,more 20 and less 40,S,Andersson,Ebba Iris Alfrida
+3,male,30s,0,0,less 10,S,Tomlin,Ernest Portage
+3,female,20s,0,0,less 10,S,Heininen,Wendla Maria
+2,male,30s,1,1,more 20 and less 40,C,Mallet,Albert
+3,male,40s,0,0,less 10,S,Holm,John Fredrik Alexander
+3,male,10s,3,2,more 20 and less 40,S,Skoog,Karl Thorsten
+1,female,50s,1,1,more 80,S,Hays,Charles Melville (Clara Jennings Gregg)
+3,male,20s,0,0,less 10,S,Lulic,Nikola
+1,male,30s,0,0,less 10,S,Reuchlin,Jonkheer. John George
+3,female,20s,0,1,more 10 and less 20,S,Moor,(Beila)
+3,male,under 10s,4,1,more 20 and less 40,S,Panula,Urho Abraham
+2,male,under 10s,0,2,more 20 and less 40,C,Mallet,Andre
+3,female,10s,1,0,more 10 and less 20,C,Yasbeck,Antoni (Selini Alexander)
+2,male,under 10s,1,1,more 10 and less 20,S,Richards,George Sibley
+3,male,20s,0,0,less 10,S,Augustsson,Albert
+3,male,10s,0,0,less 10,S,Allum,Owen George
+1,female,30s,1,1,more 80,C,Compton,Sara Rebecca
+3,male,20s,0,0,less 10,S,Pasic,Jakob
+3,male,30s,0,0,more 40 and less 60,S,Chip,Chang
+3,male,20s,0,0,less 10,S,Alhomaki,Ilmari Rudolf
+2,male,10s,0,0,more 10 and less 20,S,Mudd,Thomas Charles
+1,female,30s,0,0,more 20 and less 40,C,Serepeca,Augusta
+3,male,30s,0,0,less 10,C,Lemberopolous,Peter L
+3,male,10s,0,0,less 10,S,Culumovic,Jeso
+3,male,40s,0,0,less 10,S,Abbing,Anthony
+3,male,30s,0,0,less 10,C,Markoff,Marin
+2,male,20s,0,1,more 20 and less 40,S,Harper,Rev. John
+3,male,under 10s,4,2,more 20 and less 40,S,Andersson,Sigvard Harald Elias
+3,male,over 50s,0,0,less 10,S,Svensson,Johan
+3,female,under 10s,1,1,more 10 and less 20,C,Boulos,Nourelain
+1,female,10s,0,1,more 20 and less 40,S,Lines,Mary Conover
+2,female,40s,1,0,more 20 and less 40,S,Carter,Ernest Courtenay (Lilian Hughes)
+3,female,10s,0,1,less 10,S,Aks,Sam (Leah Rosen)
+1,female,40s,1,1,more 80,S,Wick,George Dennick (Mary Hitchcock)
+1,male,50s,0,0,more 20 and less 40,S,Daly,Peter Denis
+3,female,20s,0,3,more 10 and less 20,C,Baclini,Solomon (Latifa Qurban)
+3,male,40s,2,0,more 10 and less 20,S,Hansen,Claus Peter
+2,male,20s,1,0,more 10 and less 20,S,Giles,Frederick Edward
+1,female,40s,0,0,more 20 and less 40,S,Swift,Frederick Joel (Margaret Welles Barron)
+2,male,20s,0,0,more 10 and less 20,S,Gill,John William
+2,female,40s,0,0,more 10 and less 20,S,Bystrom,(Karolina)
+2,female,20s,1,0,more 10 and less 20,C,Duran y More,Asuncion
+1,male,30s,0,0,more 40 and less 60,S,Roebling,Washington Augustus II
+3,male,under 10s,1,1,more 10 and less 20,S,Johnson,Harold Theodor
+3,male,20s,0,0,less 10,S,Balkic,Cerin
+1,female,40s,1,1,more 40 and less 60,S,Beckwith,Richard Leonard (Sallie Monypeny)
+1,male,30s,0,0,less 10,S,Carlsson,Frans Olof
+3,male,40s,0,0,less 10,S,Vander Cruyssen,Victor
+2,female,20s,1,0,more 20 and less 40,C,Abelson,Samuel (Hannah Wizosky)
 3,female,10s,0,0,less 10,C,Najib,Adele Kiamie Jane
-3,male,20s,0,0,less 10,S,Gustafsson,  Alfred Ossian
-3,male,10s,0,0,less 10,S,Petroff,  Nedelio
-1,female,50s,0,1,more 80,C,Potter,  Thomas Jr (Lily Alexenia Wilson)
-2,female,20s,0,1,more 20 and less 40,S,Shelley,  William (Imanita Parrish Hall)
-3,male,30s,0,0,less 10,S,Markun,  Johann
-3,female,20s,0,0,more 10 and less 20,S,Dahlberg,  Gerda Ulrika
-2,male,20s,0,0,more 10 and less 20,S,Banfield,  Frederick James
-3,male,20s,0,0,less 10,S,Sutehall,  Henry Jr
-3,female,30s,0,5,more 20 and less 40,Q,Rice,  William (Margaret Norton)
-2,male,20s,0,0,more 10 and less 20,S,Montvila, Rev. Juozas
-1,female,10s,0,0,more 20 and less 40,S,Graham,  Margaret Edith
-1,male,20s,0,0,more 20 and less 40,C,Behr,  Karl Howell
-3,male,30s,0,0,less 10,Q,Dooley,  Patrick
+3,male,20s,0,0,less 10,S,Gustafsson,Alfred Ossian
+3,male,10s,0,0,less 10,S,Petroff,Nedelio
+1,female,50s,0,1,more 80,C,Potter,Thomas Jr (Lily Alexenia Wilson)
+2,female,20s,0,1,more 20 and less 40,S,Shelley,William (Imanita Parrish Hall)
+3,male,30s,0,0,less 10,S,Markun,Johann
+3,female,20s,0,0,more 10 and less 20,S,Dahlberg,Gerda Ulrika
+2,male,20s,0,0,more 10 and less 20,S,Banfield,Frederick James
+3,male,20s,0,0,less 10,S,Sutehall,Henry Jr
+3,female,30s,0,5,more 20 and less 40,Q,Rice,William (Margaret Norton)
+2,male,20s,0,0,more 10 and less 20,S,Montvila,Rev. Juozas
+1,female,10s,0,0,more 20 and less 40,S,Graham,Margaret Edith
+1,male,20s,0,0,more 20 and less 40,C,Behr,Karl Howell
+3,male,30s,0,0,less 10,Q,Dooley,Patrick

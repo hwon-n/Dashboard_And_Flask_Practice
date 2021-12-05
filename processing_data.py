@@ -56,8 +56,8 @@ def firstName(first):
         first =  first.replace('Master.', '')
     
     if '"' in first:
-        first = first.replace('"', '').strip()
-    return first
+        first = first.replace('"', '')
+    return first.strip()
 
 
 # 데이터 전처리
