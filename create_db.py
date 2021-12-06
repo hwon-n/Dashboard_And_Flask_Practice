@@ -22,7 +22,7 @@ CREATE TABLE passenger(
     Age_Label VARCHAR(30),
     SibSp INTEGER,
     Parch INTEGER,
-    Fare VARCHAR(50),
+    Fare INTEGER,
     Embarked VARCHAR(5),
     Last_Name VARCHAR(30),
     First_Name VARCHAR(40)

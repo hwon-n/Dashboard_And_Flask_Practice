@@ -1,713 +1,713 @@
 Pclass,Sex,Age,SibSp,Parch,Fare,Embarked,Age_Label,Last_Name,First_Name
-3,male,22.0,1,0,less 10,S,20s,Braund,Owen Harris
-1,female,38.0,1,0,more 60 and less 80,C,30s,Cumings,John Bradley (Florence Briggs Thayer)
-3,female,26.0,0,0,less 10,S,20s,Heikkinen,Laina
-1,female,35.0,1,0,more 40 and less 60,S,30s,Futrelle,Jacques Heath (Lily May Peel)
-3,male,35.0,0,0,less 10,S,30s,Allen,William Henry
-1,male,54.0,0,0,more 40 and less 60,S,50s,McCarthy,Timothy J
-3,male,2.0,3,1,more 20 and less 40,S,under 10s,Palsson,Gosta Leonard
-3,female,27.0,0,2,more 10 and less 20,S,20s,Johnson,Oscar W (Elisabeth Vilhelmina Berg)
-2,female,14.0,1,0,more 20 and less 40,C,10s,Nasser,Nicholas (Adele Achem)
-3,female,4.0,1,1,more 10 and less 20,S,under 10s,Sandstrom,Marguerite Rut
-1,female,58.0,0,0,more 20 and less 40,S,50s,Bonnell,Elizabeth
-3,male,20.0,0,0,less 10,S,20s,Saundercock,William Henry
-3,male,39.0,1,5,more 20 and less 40,S,30s,Andersson,Anders Johan
-3,female,14.0,0,0,less 10,S,10s,Vestrom,Hulda Amanda Adolfina
-2,female,55.0,0,0,more 10 and less 20,S,50s,Hewlett,(Mary D Kingcome)
-3,male,2.0,4,1,more 20 and less 40,Q,under 10s,Rice,Eugene
-3,female,31.0,1,0,more 10 and less 20,S,30s,Vander Planke,Julius (Emelia Maria Vandemoortele)
-2,male,35.0,0,0,more 20 and less 40,S,30s,Fynney,Joseph J
-2,male,34.0,0,0,more 10 and less 20,S,30s,Beesley,Lawrence
-3,female,15.0,0,0,less 10,Q,10s,McGowan,Anna Annie
-1,male,28.0,0,0,more 20 and less 40,S,20s,Sloper,William Thompson
-3,female,8.0,3,1,more 20 and less 40,S,under 10s,Palsson,Torborg Danira
-3,female,38.0,1,5,more 20 and less 40,S,30s,Asplund,Carl Oscar (Selma Augusta Emilia Johansson)
-1,male,19.0,3,2,more 80,S,10s,Fortune,Charles Alexander
-1,male,40.0,0,0,more 20 and less 40,C,40s,Uruchurtu,Don. Manuel E
-2,male,66.0,0,0,more 10 and less 20,S,over 50s,Wheadon,Edward H
-1,male,28.0,1,0,more 80,C,20s,Meyer,Edgar Joseph
-1,male,42.0,1,0,more 40 and less 60,S,40s,Holverson,Alexander Oskar
-3,male,21.0,0,0,less 10,S,20s,Cann,Ernest Charles
-3,female,18.0,2,0,more 10 and less 20,S,10s,Vander Planke,Augusta Maria
-3,female,14.0,1,0,more 10 and less 20,C,10s,Nicola-Yarred,Jamila
-3,female,40.0,1,0,less 10,S,40s,Ahlin,Johan (Johanna Persdotter Larsson)
-2,female,27.0,1,0,more 20 and less 40,S,20s,Turpin,William John Robert (Dorothy Ann Wonnacott)
-2,female,3.0,1,2,more 40 and less 60,C,under 10s,Laroche,Simonne Marie Anne Andree
-3,female,19.0,0,0,less 10,Q,10s,Devaney,Margaret Delia
-3,female,18.0,1,0,more 10 and less 20,S,10s,Arnold-Franchi,Josef (Josefine Franchi)
-3,male,7.0,4,1,more 20 and less 40,S,under 10s,Panula,Juha Niilo
-3,male,21.0,0,0,less 10,S,20s,Nosworthy,Richard Cater
-1,female,49.0,1,0,more 60 and less 80,C,40s,Harper,Henry Sleeper (Myna Haxtun)
-2,female,29.0,1,0,more 20 and less 40,S,20s,Faunthorpe,Lizzie (Elizabeth Anne Wilkinson)
-1,male,65.0,0,1,more 60 and less 80,C,over 50s,Ostby,Engelhart Cornelius
-2,female,21.0,0,0,more 10 and less 20,S,20s,Rugg,Emily
-3,male,28.5,0,0,less 10,C,20s,Novel,Mansouer
-2,female,5.0,1,2,more 20 and less 40,S,under 10s,West,Constance Mirium
-3,male,11.0,5,2,more 40 and less 60,S,10s,Goodwin,William Frederick
-3,male,22.0,0,0,less 10,C,20s,Sirayanian,Orsen
-1,male,45.0,1,0,more 80,S,40s,Harris,Henry Birkhardt
-3,male,4.0,3,2,more 20 and less 40,S,under 10s,Skoog,Harald
-2,female,29.0,0,0,more 10 and less 20,S,20s,Nye,(Elizabeth Ramell)
-3,male,19.0,0,0,less 10,S,10s,Crease,Ernest James
-3,female,17.0,4,2,less 10,S,10s,Andersson,Erna Alexandra
-3,male,26.0,2,0,less 10,S,20s,Kink,Vincenz
-2,male,32.0,0,0,more 10 and less 20,S,30s,Jenkin,Stephen Curnow
-3,female,16.0,5,2,more 40 and less 60,S,10s,Goodwin,Lillian Amy
-2,male,21.0,0,0,more 60 and less 80,S,20s,Hood,Ambrose Jr
-3,male,26.0,1,0,more 10 and less 20,C,20s,Chronopoulos,Apostolos
-3,male,32.0,0,0,more 40 and less 60,S,30s,Bing,Lee
-3,male,25.0,0,0,less 10,S,20s,Moen,Sigurd Hansen
-2,male,0.83,0,2,more 20 and less 40,S,under 10s,Caldwell,Alden Gates
-3,female,30.0,0,0,more 10 and less 20,S,30s,Dowdell,Elizabeth
-3,male,22.0,0,0,less 10,S,20s,Waelens,Achille
-3,male,29.0,0,0,less 10,S,20s,Sheerlinck,Jan Baptist
-1,male,28.0,0,0,more 40 and less 60,S,20s,Carrau,Francisco M
-2,female,17.0,0,0,more 10 and less 20,S,10s,Ilett,Bertha
-3,female,33.0,3,0,more 10 and less 20,S,30s,Backstrom,Karl Alfred (Maria Mathilda Gustafsson)
-3,male,16.0,1,3,more 20 and less 40,S,10s,Ford,William Neal
-1,female,23.0,3,2,more 80,S,20s,Fortune,Mabel Helen
-3,male,24.0,0,0,less 10,S,20s,Celotti,Francesco
-3,male,29.0,0,0,less 10,S,20s,Christmann,Emil
-3,male,20.0,0,0,less 10,S,20s,Andreasson,Paul Edvin
-1,male,46.0,1,0,more 60 and less 80,S,40s,Chaffee,Herbert Fuller
-3,male,26.0,1,2,more 20 and less 40,S,20s,Dean,Bertram Frank
-3,male,59.0,0,0,less 10,S,50s,Coxon,Daniel
-1,male,71.0,0,0,more 20 and less 40,C,over 50s,Goldschmidt,George B
-1,male,23.0,0,1,more 60 and less 80,C,20s,Greenfield,William Bertram
-2,female,34.0,0,1,more 20 and less 40,S,30s,Doling,John T (Ada Julia Bone)
-2,male,34.0,1,0,more 20 and less 40,S,30s,Kantor,Sinai
-3,female,28.0,0,0,less 10,S,20s,Petranec,Matilda
-1,male,21.0,0,1,more 60 and less 80,S,20s,White,Richard Frasar
-3,male,33.0,0,0,less 10,S,30s,Johansson,Gustaf Joel
-3,male,37.0,2,0,less 10,S,30s,Gustafsson,Anders Vilhelm
-3,male,28.0,0,0,less 10,S,20s,Mionoff,Stoytcho
-3,female,21.0,0,0,less 10,S,20s,Salkjelsvik,Anna Kristine
-3,male,38.0,0,0,less 10,S,30s,Rekic,Tido
-1,male,47.0,0,0,more 40 and less 60,S,40s,Porter,Walter Chamberlain
-3,female,14.5,1,0,more 10 and less 20,C,10s,Zabour,Hileni
-3,male,22.0,0,0,less 10,S,20s,Barton,David John
-3,female,20.0,1,0,less 10,S,20s,Jussila,Katriina
-3,female,17.0,0,0,more 10 and less 20,C,10s,Attalah,Malake
-3,male,21.0,0,0,less 10,S,20s,Pekoniemi,Edvard
-3,male,70.5,0,0,less 10,Q,over 50s,Connors,Patrick
-2,male,29.0,1,0,more 20 and less 40,S,20s,Turpin,William John Robert
-1,male,24.0,0,1,more 80,C,20s,Baxter,Quigg Edmond
-3,female,2.0,4,2,more 20 and less 40,S,under 10s,Andersson,Ellis Anna Maria
-2,male,21.0,2,0,more 60 and less 80,S,20s,Hickman,Stanley George
-2,male,32.5,1,0,more 20 and less 40,C,30s,Nasser,Nicholas
-2,female,32.5,0,0,more 10 and less 20,S,30s,Webber,Susan
-1,male,54.0,0,1,more 60 and less 80,S,50s,White,Percival Wayland
-3,male,12.0,1,0,more 10 and less 20,C,10s,Nicola-Yarred,Elias
-3,male,24.0,0,0,less 10,S,20s,Madsen,Fridtjof Arne
-3,male,45.0,0,0,less 10,S,40s,Ekstrom,Johan
-3,male,33.0,0,0,less 10,C,30s,Drazenoic,Jozef
-3,male,20.0,0,0,less 10,S,20s,Coelho,Domingos Fernandeo
-3,female,47.0,1,0,more 10 and less 20,S,40s,Robins,Alexander A (Grace Charity Laury)
-2,female,29.0,1,0,more 20 and less 40,S,20s,Weisz,Leopold (Mathilde Francoise Pede)
-2,male,25.0,0,0,more 10 and less 20,S,20s,Sobey,Samuel James Hayden
-2,male,23.0,0,0,more 10 and less 20,C,20s,Richard,Emile
-1,female,19.0,0,2,more 20 and less 40,S,10s,Newsom,Helen Monypeny
-1,male,37.0,1,0,more 40 and less 60,S,30s,Futrelle,Jacques Heath
-3,male,16.0,0,0,less 10,S,10s,Osen,Olaf Elon
-1,male,24.0,0,0,more 60 and less 80,C,20s,Giglio,Victor
-3,female,22.0,0,0,less 10,S,20s,Nysten,Anna Sofia
-3,female,24.0,1,0,more 10 and less 20,S,20s,Hakkarainen,Pekka Pietari (Elin Matilda Dolck)
-3,male,19.0,0,0,less 10,Q,10s,Burke,Jeremiah
-2,male,18.0,0,0,more 10 and less 20,S,10s,Andrew,Edgardo Samuel
-2,male,19.0,1,1,more 20 and less 40,S,10s,Nicholls,Joseph Charles
-3,male,27.0,0,0,less 10,S,20s,Andersson,August Edvard (Wennerstrom)
-3,female,9.0,2,2,more 20 and less 40,S,under 10s,Ford,Robina Maggie Ruby
-2,male,36.5,0,2,more 20 and less 40,S,30s,Navratil,Michel (Louis M Hoffman)
-2,male,42.0,0,0,more 10 and less 20,S,40s,Byles,Rev. Thomas Roussel Davids
-2,male,51.0,0,0,more 10 and less 20,S,50s,Bateman,Rev. Robert James
-1,female,22.0,1,0,more 60 and less 80,S,20s,Pears,Thomas (Edith Wearne)
-3,male,55.5,0,0,less 10,S,50s,Meo,Alfonzo
-3,male,40.5,0,2,more 10 and less 20,S,40s,van Billiard,Austin Blyler
-1,male,51.0,0,1,more 60 and less 80,C,50s,Williams,Charles Duane
-3,female,16.0,0,0,less 10,Q,10s,Gilnagh,Katherine Katie
-3,male,30.0,0,0,less 10,S,30s,Corn,Harry
-3,male,44.0,0,1,more 10 and less 20,S,40s,Cribb,John Hatfield
-2,female,40.0,0,0,more 10 and less 20,S,40s,Watt,James (Elizabeth Bessie Inglis Milne)
-3,male,26.0,0,0,less 10,S,20s,Bengtsson,John Viktor
-3,male,17.0,0,0,less 10,S,10s,Calic,Jovo
-3,male,1.0,4,1,more 20 and less 40,S,under 10s,Panula,Eino Viljami
-3,male,9.0,0,2,more 20 and less 40,S,under 10s,Goldsmith,Frank John William Frankie
-3,female,45.0,1,4,more 20 and less 40,S,40s,Skoog,William (Anna Bernhardina Karlsson)
-3,male,28.0,0,0,more 40 and less 60,S,20s,Ling,Lee
-1,male,61.0,0,0,more 20 and less 40,S,over 50s,Van der hoef,Wyckoff
-3,male,4.0,4,1,more 20 and less 40,Q,under 10s,Rice,Arthur
-3,female,1.0,1,1,more 10 and less 20,S,under 10s,Johnson,Eleanor Ileen
-3,male,21.0,0,0,less 10,S,20s,Sivola,Antti Wilhelm
-1,male,56.0,0,0,more 20 and less 40,C,50s,Smith,James Clinch
-3,male,18.0,1,1,less 10,S,10s,Klasen,Klas Albin
-1,female,50.0,0,0,more 20 and less 40,C,50s,Isham,Ann Elizabeth
-2,male,30.0,0,0,more 10 and less 20,S,30s,Hale,Reginald
-3,male,36.0,0,0,less 10,S,30s,Leonard,Lionel
-3,male,9.0,4,2,more 20 and less 40,S,under 10s,Asplund,Clarence Gustaf Hugo
-2,male,1.0,2,1,more 20 and less 40,S,under 10s,Becker,Richard F
-3,female,4.0,0,2,more 20 and less 40,S,under 10s,Kink-Heilmann,Luise Gretchen
-1,male,45.0,0,0,more 20 and less 40,S,40s,Romaine,Charles Hallace (Mr C Rolmane)
-3,male,40.0,1,1,more 10 and less 20,Q,40s,Bourke,John
-3,male,36.0,0,0,less 10,S,30s,Turcin,Stjepan
-2,female,32.0,0,0,more 10 and less 20,S,30s,Pinsky,(Rosa)
-2,male,19.0,0,0,more 10 and less 20,S,10s,Carbines,William
-3,female,19.0,1,0,less 10,S,10s,Andersen-Jensen,Carla Christine Nielsine
-2,male,3.0,1,1,more 20 and less 40,S,under 10s,Navratil,Michel M
-1,female,44.0,0,0,more 20 and less 40,C,40s,Brown,James Joseph (Margaret Tobin)
-1,female,58.0,0,0,more 80,C,50s,Lurette,Elise
-3,male,42.0,0,1,less 10,S,40s,Olsen,Karl Siegwart Andreas
-2,female,24.0,0,0,more 10 and less 20,S,20s,Yrois,Henriette (Mrs Harbeck)
-3,male,28.0,0,0,less 10,S,20s,Vande Walle,Nestor Cyriel
-3,male,34.0,0,0,less 10,S,30s,Johanson,Jakob Alfred
-3,male,45.5,0,0,less 10,C,40s,Youseff,Gerious
-3,male,18.0,0,0,less 10,S,10s,Cohen,Gurshon Gus
-3,female,2.0,0,1,more 10 and less 20,S,under 10s,Strom,Telma Matilda
-3,male,32.0,1,0,more 10 and less 20,S,30s,Backstrom,Karl Alfred
-3,male,26.0,0,0,more 10 and less 20,C,20s,Albimona,Nassef Cassem
-3,female,16.0,0,0,less 10,Q,10s,Carr,Helen Ellen
-1,male,40.0,0,0,more 20 and less 40,C,40s,Blank,Henry
-3,male,24.0,0,0,less 10,S,20s,Ali,Ahmed
-2,female,35.0,0,0,more 20 and less 40,S,30s,Cameron,Clear Annie
-3,male,22.0,0,0,less 10,S,20s,Perkin,John Henry
-2,male,30.0,0,0,more 10 and less 20,S,30s,Givard,Hans Kristensen
-1,female,31.0,1,0,more 80,C,30s,Newell,Madeleine
-3,female,27.0,0,0,less 10,S,20s,Honkanen,Eliina
-2,male,42.0,1,0,more 20 and less 40,S,40s,Jacobsohn,Sidney Samuel
-1,female,32.0,0,0,more 60 and less 80,C,30s,Bazzani,Albina
-2,male,30.0,0,0,more 10 and less 20,S,30s,Harris,Walter
-3,male,16.0,0,0,less 10,S,10s,Sunderland,Victor Francis
-2,male,27.0,0,0,more 10 and less 20,S,20s,Bracken,James H
-3,male,51.0,0,0,less 10,S,50s,Green,George Henry
-1,male,38.0,1,0,more 80,S,30s,Hoyt,Frederick Maxfield
-3,male,22.0,0,0,less 10,S,20s,Berglund,Karl Ivar Sven
-2,male,19.0,0,0,more 10 and less 20,S,10s,Mellors,William John
-3,male,20.5,0,0,less 10,S,20s,Lovell,John Hall (Henry)
-2,male,18.0,0,0,more 10 and less 20,S,10s,Fahlstrom,Arne Jonas
-1,female,35.0,1,0,more 80,S,30s,Harris,Henry Birkhardt (Irene Wallach)
-3,male,29.0,0,0,less 10,S,20s,Larsson,Bengt Edvin
-2,male,59.0,0,0,more 10 and less 20,S,50s,Sjostedt,Ernst Adolf
-3,female,5.0,4,2,more 20 and less 40,S,under 10s,Asplund,Lillian Gertrud
-2,male,24.0,0,0,more 10 and less 20,S,20s,Leyson,Robert William Norman
-2,male,44.0,1,0,more 20 and less 40,S,40s,Hold,Stephen
-2,female,8.0,0,2,more 20 and less 40,S,under 10s,Collyer,Marjorie Lottie
-2,male,19.0,0,0,more 10 and less 20,S,10s,Pengelly,Frederick William
-2,male,33.0,0,0,more 10 and less 20,S,30s,Hunt,George Henry
-2,male,29.0,0,0,more 10 and less 20,S,20s,Coleridge,Reginald Charles
-3,male,22.0,0,0,less 10,S,20s,Maenpaa,Matti Alexanteri
-3,male,30.0,0,0,less 10,C,30s,Attalah,Sleiman
-1,male,44.0,2,0,more 80,Q,40s,Minahan,Dr. William Edward
-3,female,25.0,0,0,less 10,S,20s,Lindahl,Agda Thorilda Viktoria
-2,female,24.0,0,2,more 10 and less 20,S,20s,Hamalainen,William (Anna)
-1,male,37.0,1,1,more 40 and less 60,S,30s,Beckwith,Richard Leonard
-2,male,54.0,1,0,more 20 and less 40,S,50s,Carter,Rev. Ernest Courtenay
-3,female,29.0,1,1,more 10 and less 20,S,20s,Strom,Wilhelm (Elna Matilda Persson)
-1,male,62.0,0,0,more 20 and less 40,S,over 50s,Stead,William Thomas
-3,male,30.0,1,0,more 10 and less 20,S,30s,Lobb,William Arthur
-3,female,41.0,0,2,more 20 and less 40,S,40s,Rosblom,Viktor (Helena Wilhelmina)
-3,female,29.0,0,2,more 10 and less 20,C,20s,Touma,Darwis (Hanne Youssef Razi)
-1,female,30.0,0,0,more 80,S,30s,Cherry,Gladys
-1,female,35.0,0,0,more 80,C,30s,Ward,Anna
-2,female,50.0,0,1,more 20 and less 40,S,50s,Parrish,(Lutie Davis)
-3,male,3.0,4,2,more 20 and less 40,S,under 10s,Asplund,Edvin Rojj Felix
-1,male,52.0,1,1,more 60 and less 80,S,50s,Taussig,Emil
-1,male,40.0,0,0,less 10,S,40s,Harrison,William
-2,male,36.0,0,0,more 10 and less 20,S,30s,Reeves,David
-3,male,16.0,4,1,more 20 and less 40,S,10s,Panula,Ernesti Arvid
-3,male,25.0,1,0,less 10,S,20s,Persson,Ernst Ulrik
-1,female,58.0,0,1,more 80,S,50s,Graham,William Thompson (Edith Junkins)
-1,female,35.0,0,0,more 80,S,30s,Bissette,Amelia
-3,male,25.0,0,0,less 10,S,20s,Tornquist,William Henry
-2,female,41.0,0,1,more 10 and less 20,S,40s,Mellinger,(Elizabeth Anne Maidment)
-1,male,37.0,0,1,more 20 and less 40,C,30s,Natsch,Charles H
-1,female,63.0,1,0,more 60 and less 80,S,over 50s,Andrews,Kornelia Theodosia
-3,female,45.0,0,0,less 10,S,40s,Lindblom,Augusta Charlotta
-3,male,7.0,4,1,more 20 and less 40,Q,under 10s,Rice,Eric
-3,female,35.0,1,1,more 20 and less 40,S,30s,Abbott,Stanton (Rosa Hunt)
-3,male,65.0,0,0,less 10,Q,over 50s,Duane,Frank
-3,male,28.0,0,0,less 10,S,20s,Olsson,Nils Johan Goransson
-3,male,16.0,0,0,less 10,S,10s,de Pelsmaeker,Alfons
-3,male,19.0,0,0,less 10,S,10s,Dorking,Edward Arthur
-3,male,33.0,0,0,less 10,C,30s,Stankovic,Ivan
-3,male,30.0,0,0,less 10,S,30s,de Mulder,Theodore
-3,male,22.0,0,0,less 10,S,20s,Naidenoff,Penko
-2,male,42.0,0,0,more 10 and less 20,S,40s,Hosono,Masabumi
-3,female,22.0,0,0,less 10,Q,20s,Connolly,Kate
-1,female,26.0,0,0,more 60 and less 80,S,20s,Barber,Ellen Nellie
-1,female,19.0,1,0,more 80,C,10s,Bishop,Dickinson H (Helen Walton)
-2,male,36.0,0,0,more 10 and less 20,C,30s,Levy,Rene Jacques
-3,female,24.0,0,0,less 10,S,20s,Haas,Aloisia
-3,male,24.0,0,0,less 10,S,20s,Mineff,Ivan
-3,male,23.5,0,0,less 10,C,20s,Hanna,Mansour
-1,female,2.0,1,2,more 80,S,under 10s,Allison,Helen Loraine
-1,female,50.0,0,1,more 80,C,50s,Baxter,James (Helene DeLaudeniere Chaput)
-3,male,19.0,0,0,less 10,S,10s,Johnson,William Cahoone Jr
-1,male,0.92,1,2,more 80,S,under 10s,Allison,Hudson Trevor
-1,female,17.0,1,0,more 80,C,10s,Penasco y Castellana,Victor de Satode (Maria Josefa Perez de Soto y Vallejo)
-2,male,30.0,1,0,more 20 and less 40,C,30s,Abelson,Samuel
-1,female,30.0,0,0,more 40 and less 60,C,30s,Francatelli,Laura Mabel
-1,female,24.0,0,0,more 80,C,20s,Hays,Margaret Bechstein
-1,female,18.0,2,2,more 80,C,10s,Ryerson,Emily Borie
-2,female,26.0,1,1,more 20 and less 40,S,20s,Lahtinen,William (Anna Sylfven)
-3,male,28.0,0,0,less 10,S,20s,Hendekovic,Ignjac
-2,male,43.0,1,1,more 20 and less 40,S,40s,Hart,Benjamin
-3,female,26.0,0,0,less 10,S,20s,Nilsson,Helmina Josefina
-2,female,24.0,1,0,more 20 and less 40,S,20s,Kantor,Sinai (Miriam Sternin)
-2,male,54.0,0,0,more 10 and less 20,S,50s,Moraweck,Dr. Ernest
-1,female,31.0,0,2,more 80,S,30s,Wick,Mary Natalie
-1,female,40.0,1,1,more 80,C,40s,Spedden,Frederic Oakley (Margaretta Corning Stone)
-3,male,22.0,0,0,less 10,S,20s,Dennis,Samuel
-3,male,27.0,0,0,less 10,S,20s,Danoff,Yoto
-2,female,30.0,0,0,more 10 and less 20,Q,30s,Slayter,Hilda Mary
-2,female,22.0,1,1,more 20 and less 40,S,20s,Caldwell,Albert Francis (Sylvia Mae Harbaugh)
-1,female,36.0,0,0,more 80,C,30s,Young,Marie Grice
-3,male,61.0,0,0,less 10,S,over 50s,Nysveen,Johan Hansen
-2,female,36.0,0,0,more 10 and less 20,S,30s,Ball,(Ada E Hall)
-3,female,31.0,1,1,more 20 and less 40,S,30s,Goldsmith,Frank John (Emily Alice Brown)
-1,female,16.0,0,1,more 40 and less 60,C,10s,Hippach,Jean Gertrude
-1,male,45.5,0,0,more 20 and less 40,S,40s,Partner,Austen
-1,male,38.0,0,1,more 80,S,30s,Graham,George Edward
-3,male,16.0,2,0,more 10 and less 20,S,10s,Vander Planke,Leo Edmondus
-1,male,29.0,1,0,more 60 and less 80,S,20s,Pears,Thomas Clinton
-1,female,41.0,0,0,more 80,C,40s,Burns,Elizabeth Margaret
-3,male,45.0,0,0,less 10,S,40s,Dahl,Karl Edwart
-1,male,45.0,0,0,more 20 and less 40,S,40s,Blackwell,Stephen Weart
-2,male,2.0,1,1,more 20 and less 40,S,under 10s,Navratil,Edmond Roger
-1,female,24.0,3,2,more 80,S,20s,Fortune,Alice Elizabeth
-2,male,28.0,0,0,more 10 and less 20,S,20s,Collander,Erik Gustaf
-2,male,25.0,0,0,more 10 and less 20,S,20s,Sedgwick,Charles Frederick Waddington
-2,male,36.0,0,0,more 10 and less 20,S,30s,Fox,Stanley Hubert
-2,female,24.0,0,0,more 10 and less 20,S,20s,Brown,Amelia Mildred
-2,female,40.0,0,0,more 10 and less 20,S,40s,Smith,Marion Elsie
-3,male,3.0,1,1,more 10 and less 20,S,under 10s,Coutts,William Loch William
-3,male,42.0,0,0,less 10,S,40s,Dimic,Jovan
-3,male,23.0,0,0,less 10,S,20s,Odahl,Nils Martin
-3,male,15.0,1,1,less 10,C,10s,Elias,Tannous
-3,male,25.0,1,0,more 10 and less 20,S,20s,Arnold-Franchi,Josef
-3,male,28.0,0,0,less 10,S,20s,Vanden Steen,Leo Peter
-1,female,22.0,0,1,more 40 and less 60,S,20s,Bowerman,Elsie Edith
-2,female,38.0,0,0,more 10 and less 20,S,30s,Funk,Annie Clemmer
-3,male,40.0,1,4,more 20 and less 40,S,40s,Skoog,Wilhelm
-2,male,29.0,1,0,more 20 and less 40,C,20s,del Carlo,Sebastiano
-3,female,45.0,0,1,more 10 and less 20,C,40s,Barbara,(Catherine David)
-3,male,35.0,0,0,less 10,S,30s,Asim,Adola
-3,male,30.0,0,0,less 10,S,30s,Adahl,Mauritz Nils Martin
-1,female,60.0,1,0,more 60 and less 80,C,over 50s,Warren,Frank Manley (Anna Sophia Atkinson)
-1,female,24.0,0,0,more 60 and less 80,C,20s,Aubart,Mme. Leontine Pauline
-1,male,25.0,1,0,more 40 and less 60,C,20s,Harder,George Achilles
-3,male,18.0,1,0,less 10,S,10s,Wiklund,Jakob Alfred
-3,male,19.0,0,0,less 10,S,10s,Beavan,William Thomas
-1,male,22.0,0,0,more 80,C,20s,Ringhini,Sante
-3,female,3.0,3,1,more 20 and less 40,S,under 10s,Palsson,Stina Viola
-3,female,22.0,0,0,less 10,S,20s,Landergren,Aurora Adelia
-1,male,27.0,0,2,more 80,C,20s,Widener,Harry Elkins
-3,male,20.0,0,0,less 10,C,20s,Betros,Tannous
-3,male,19.0,0,0,less 10,S,10s,Gustafsson,Karl Gideon
-1,female,42.0,0,0,more 80,C,40s,Bidois,Rosalie
-3,female,1.0,0,2,more 10 and less 20,C,under 10s,Nakid,Maria (Mary)
-3,male,32.0,0,0,less 10,S,30s,Tikkanen,Juho
-1,female,35.0,1,0,more 40 and less 60,S,30s,Holverson,Alexander Oskar (Mary Aline Towner)
-2,male,18.0,0,0,more 60 and less 80,S,10s,Davies,Charles Henry
-3,male,1.0,5,2,more 40 and less 60,S,under 10s,Goodwin,Sidney Leonard
-2,female,36.0,0,0,more 10 and less 20,S,30s,Buss,Kate
-2,female,17.0,0,0,more 10 and less 20,C,10s,Lehmann,Bertha
-1,male,36.0,1,2,more 80,S,30s,Carter,William Ernest
-3,male,21.0,0,0,less 10,S,20s,Jansson,Carl Olof
-3,male,28.0,2,0,less 10,S,20s,Gustafsson,Johan Birger
-1,female,23.0,1,0,more 80,C,20s,Newell,Marjorie
-3,female,24.0,0,2,more 10 and less 20,S,20s,Sandstrom,Hjalmar (Agnes Charlotta Bengtsson)
-3,male,22.0,0,0,less 10,S,20s,Johansson,Erik
-3,female,31.0,0,0,less 10,S,30s,Olsson,Elina
-2,male,46.0,0,0,more 20 and less 40,S,40s,McKane,Peter David
-2,male,23.0,0,0,more 10 and less 20,S,20s,Pain,Dr. Alfred
-2,female,28.0,0,0,more 10 and less 20,S,20s,Trout,William H (Jessie L)
-3,male,39.0,0,0,less 10,S,30s,Niskanen,Juha
-3,male,26.0,0,0,less 10,S,20s,Adams,John
-3,female,21.0,1,0,less 10,S,20s,Jussila,Mari Aina
-3,male,28.0,1,0,more 10 and less 20,S,20s,Hakkarainen,Pekka Pietari
-3,female,20.0,0,0,less 10,S,20s,Oreskovic,Marija
-2,male,34.0,1,0,more 20 and less 40,S,30s,Gale,Shadrach
-3,male,51.0,0,0,less 10,S,50s,Widegren,Carl/Charles Peter
-2,male,3.0,1,1,more 10 and less 20,S,under 10s,Richards,William Rowe
-3,male,21.0,0,0,less 10,S,20s,Birkeland,Hans Martin Monsen
-1,female,33.0,1,0,more 80,Q,30s,Minahan,Daisy E
-3,male,44.0,0,0,less 10,S,40s,Sundman,Johan Julian
-2,female,34.0,1,1,more 20 and less 40,S,30s,Drew,James Vivian (Lulu Thorne Christian)
-2,female,18.0,0,2,more 10 and less 20,S,10s,Silven,Lyyli Karoliina
-2,male,30.0,0,0,more 10 and less 20,S,30s,Matthews,William John
-3,female,10.0,0,2,more 20 and less 40,S,10s,Van Impe,Catharina
-3,male,21.0,0,0,less 10,Q,20s,Charters,David
-3,male,29.0,0,0,less 10,S,20s,Zimmerman,Leo
-3,female,28.0,1,1,more 10 and less 20,S,20s,Danbom,Ernst Gilbert (Anna Sigrid Maria Brogren)
-3,male,18.0,1,1,more 20 and less 40,S,10s,Rosblom,Viktor Richard
-2,female,28.0,1,0,more 20 and less 40,S,20s,Clarke,Charles V (Ada Maria Winfield)
-2,female,19.0,0,0,more 20 and less 40,S,10s,Phillips,Kate Florence (Mrs Kate Louise Phillips Marshall)
-3,male,32.0,0,0,less 10,S,30s,Pickard,Berk (Berk Trembisky)
-1,male,28.0,0,0,more 20 and less 40,S,20s,Bjornstrom-Steffansson,Mauritz Hakan
-2,female,42.0,1,0,more 20 and less 40,S,40s,Louch,Charles Alexander (Alice Adelaide Slow)
-3,male,17.0,0,0,less 10,S,10s,Kallio,Nikolai Erland
-1,male,50.0,1,0,more 40 and less 60,S,50s,Silvey,William Baird
-1,female,14.0,1,2,more 80,S,10s,Carter,Lucile Polk
-3,female,21.0,2,2,more 20 and less 40,S,20s,Ford,Doolina Margaret Daisy
-2,female,24.0,2,3,more 10 and less 20,S,20s,Richards,Sidney (Emily Hocking)
-1,male,64.0,1,4,more 80,S,over 50s,Fortune,Mark
-2,male,31.0,0,0,more 10 and less 20,S,30s,Kvillner,Johan Henrik Johannesson
-2,female,45.0,1,1,more 20 and less 40,S,40s,Hart,Benjamin (Esther Ada Bloomfield)
-3,male,20.0,0,0,less 10,S,20s,Hampe,Leon
-3,male,25.0,1,0,less 10,S,20s,Petterson,Johan Emil
-2,female,28.0,0,0,more 10 and less 20,S,20s,Reynaldo,Ms. Encarnacion
-1,male,4.0,0,2,more 80,S,under 10s,Dodge,Washington
-2,female,13.0,0,1,more 10 and less 20,S,10s,Mellinger,Madeleine Violet
-1,male,34.0,0,0,more 20 and less 40,S,30s,Seward,Frederic Kimber
-3,female,5.0,2,1,more 10 and less 20,C,under 10s,Baclini,Marie Catherine
-1,male,52.0,0,0,more 20 and less 40,S,50s,Peuchen,Major. Arthur Godfrey
-2,male,36.0,1,2,more 20 and less 40,S,30s,West,Edwy Arthur
-1,male,30.0,0,0,more 20 and less 40,C,30s,Foreman,Benjamin Laventall
-1,male,49.0,1,0,more 80,C,40s,Goldenberg,Samuel L
-3,male,29.0,0,0,less 10,C,20s,Jalsevac,Ivan
-1,male,65.0,0,0,more 20 and less 40,S,over 50s,Millet,Francis Davis
-2,female,50.0,0,0,more 10 and less 20,S,50s,Toomey,Ellen
-1,male,48.0,0,0,more 20 and less 40,S,40s,Anderson,Harry
-3,male,34.0,0,0,less 10,S,30s,Morley,William
-1,male,47.0,0,0,more 20 and less 40,S,40s,Gee,Arthur H
-2,male,48.0,0,0,more 10 and less 20,S,40s,Milling,Jacob Christian
-3,male,38.0,0,0,less 10,S,30s,Goncalves,Manuel Estanslas
-1,male,56.0,0,0,more 20 and less 40,S,50s,Smart,John Montgomery
-3,female,0.75,2,1,more 10 and less 20,C,under 10s,Baclini,Helene Barbara
-3,male,38.0,0,0,less 10,S,30s,Cacic,Luka
-2,female,33.0,1,2,more 20 and less 40,S,30s,West,Edwy Arthur (Ada Mary Worth)
-2,female,23.0,0,0,more 10 and less 20,C,20s,Jerwan,Amin S (Marie Marthe Thuillard)
-3,female,22.0,0,0,less 10,S,20s,Strandberg,Ida Sofia
-2,male,34.0,1,0,more 20 and less 40,S,30s,Renouf,Peter Henry
-3,male,29.0,1,0,less 10,S,20s,Braund,Lewis Richard
-3,male,22.0,0,0,less 10,S,20s,Karlsson,Nils August
-3,female,2.0,0,1,more 10 and less 20,S,under 10s,Hirvonen,Hildur E
-3,male,9.0,5,2,more 40 and less 60,S,under 10s,Goodwin,Harold Victor
-3,male,50.0,0,0,less 10,S,50s,Rouse,Richard Henry
-3,female,63.0,0,0,less 10,S,over 50s,Turkula,(Hedwig)
-1,male,25.0,1,0,more 80,C,20s,Bishop,Dickinson H
-1,female,35.0,1,0,more 80,S,30s,Hoyt,Frederick Maxfield (Jane Anne Forby)
-1,male,58.0,0,0,more 20 and less 40,C,50s,Kent,Edward Austin
-3,male,30.0,0,0,less 10,S,30s,Somerton,Francis William
-3,male,9.0,1,1,more 10 and less 20,S,under 10s,Coutts,Eden Leslie Neville
-3,male,21.0,0,0,less 10,S,20s,Windelov,Einar
-1,male,55.0,0,0,more 20 and less 40,S,50s,Molson,Harry Markland
-1,male,71.0,0,0,more 40 and less 60,C,over 50s,Artagaveytia,Ramon
-3,male,21.0,0,0,less 10,S,20s,Stanley,Edward Roland
-1,female,54.0,1,0,more 60 and less 80,C,50s,Eustis,Elizabeth Mussey
-1,female,25.0,1,2,more 80,S,20s,Allison,Hudson J C (Bessie Waldo Daniels)
-3,male,24.0,0,0,less 10,S,20s,Svensson,Olof
-3,male,17.0,0,0,less 10,S,10s,Calic,Petar
-3,female,21.0,0,0,less 10,Q,20s,Canavan,Mary
-3,female,37.0,0,0,less 10,S,30s,Laitinen,Kristina Sofia
-1,female,16.0,0,0,more 80,S,10s,Maioni,Roberta
-1,male,18.0,1,0,more 80,C,10s,Penasco y Castellana,Victor de Satode
-2,female,33.0,0,2,more 20 and less 40,S,30s,Quick,Frederick Charles (Jane Richards)
-3,male,28.0,0,0,more 20 and less 40,S,20s,Olsen,Henry Margido
-3,male,26.0,0,0,more 40 and less 60,S,20s,Lang,Fang
-3,male,29.0,0,0,less 10,Q,20s,Daly,Eugene Patrick
-1,male,36.0,0,0,more 20 and less 40,S,30s,McGough,James Robert
-1,female,54.0,1,0,more 40 and less 60,C,50s,Rothschild,Martin (Elizabeth L. Barrett)
-3,male,24.0,0,0,less 10,S,20s,Coleff,Satio
-1,male,47.0,0,0,more 20 and less 40,S,40s,Walker,William Anderson
-2,female,34.0,0,0,more 10 and less 20,S,30s,Lemore,(Amelia Milley)
-2,female,36.0,1,0,more 20 and less 40,S,30s,Angle,William A (Florence Mary Agnes Hughes)
-3,male,32.0,0,0,less 10,S,30s,Pavlovic,Stefo
-1,female,30.0,0,0,more 80,S,30s,Perreault,Anne
-3,male,22.0,0,0,less 10,S,20s,Vovk,Janko
-1,female,44.0,0,1,more 40 and less 60,C,40s,Hippach,Louis Albert (Ida Sophia Fischer)
-3,male,40.5,0,0,less 10,Q,40s,Farrell,James
-2,female,50.0,0,0,more 10 and less 20,S,50s,Ridsdale,Lucy
-3,male,39.0,0,0,less 10,S,30s,Salonen,Johan Werner
-2,male,23.0,2,1,more 10 and less 20,S,20s,Hocking,Richard George
-2,female,2.0,1,1,more 20 and less 40,S,under 10s,Quick,Phyllis May
-3,male,17.0,1,1,less 10,C,10s,Elias,Joseph Jr
-3,female,30.0,0,0,less 10,S,30s,Cacic,Marija
-2,female,7.0,0,2,more 20 and less 40,S,under 10s,Hart,Eva Miriam
-1,male,45.0,0,0,more 20 and less 40,S,40s,Butt,Major. Archibald Willingham
-1,female,30.0,0,0,more 80,C,30s,LeRoy,Bertha
-1,female,22.0,0,2,more 40 and less 60,C,20s,Frolicher,Hedwig Margaritha
-1,female,36.0,0,2,more 60 and less 80,S,30s,Crosby,Harriet R
-3,female,9.0,4,2,more 20 and less 40,S,under 10s,Andersson,Ingeborg Constanzia
-3,female,11.0,4,2,more 20 and less 40,S,10s,Andersson,Sigrid Elisabeth
-2,male,32.0,1,0,more 20 and less 40,S,30s,Beane,Edward
-1,male,50.0,1,0,more 80,C,50s,Douglas,Walter Donald
-1,male,64.0,0,0,more 20 and less 40,S,over 50s,Nicholson,Arthur Ernest
-2,female,19.0,1,0,more 20 and less 40,S,10s,Beane,Edward (Ethel Clarke)
-3,male,33.0,1,1,more 20 and less 40,S,30s,Goldsmith,Frank John
-2,male,8.0,1,1,more 20 and less 40,S,under 10s,Davies,John Morgan Jr
-1,male,17.0,0,2,more 80,C,10s,Thayer,John Borland Jr
-2,male,27.0,0,0,more 20 and less 40,S,20s,Sharp,Percival James R
-3,male,22.0,0,0,less 10,C,20s,Leeni,Fahim (Philip Zenni)
-3,female,22.0,0,0,less 10,S,20s,Ohman,Velin
-1,male,62.0,0,0,more 20 and less 40,S,over 50s,Wright,George
-1,female,48.0,1,0,more 20 and less 40,C,40s,Duff Gordon,Lady. (Lucille Christiana Sutherland) (Mrs Morgan)
-1,female,39.0,1,1,more 60 and less 80,S,30s,Taussig,Emil (Tillie Mandelbaum)
-3,female,36.0,1,0,more 10 and less 20,S,30s,de Messemaeker,Guillaume Joseph (Emma)
-3,male,40.0,0,0,less 10,S,40s,Sivic,Husein
-2,male,28.0,0,0,more 10 and less 20,S,20s,Norman,Robert Douglas
-3,male,24.0,2,0,more 20 and less 40,S,20s,Davies,Alfred J
-3,male,19.0,0,0,less 10,S,10s,Stoytcheff,Ilia
-3,female,29.0,0,4,more 20 and less 40,S,20s,Palsson,Nils (Alma Cornelia Berglund)
-3,male,32.0,0,0,less 10,S,30s,Jonsson,Carl
-2,male,62.0,0,0,more 10 and less 20,S,over 50s,Harris,George
-1,female,53.0,2,0,more 40 and less 60,S,50s,Appleton,Edward Dale (Charlotte Lamson)
-1,male,36.0,0,0,more 20 and less 40,S,30s,Flynn,John Irwin (Irving)
-3,male,16.0,0,0,less 10,S,10s,Rush,Alfred George John
-3,male,19.0,0,0,more 10 and less 20,S,10s,Patchett,George
-2,female,34.0,0,0,more 10 and less 20,S,30s,Garside,Ethel
-1,female,39.0,1,0,more 40 and less 60,S,30s,Silvey,William Baird (Alice Munger)
-3,male,32.0,0,0,less 10,S,30s,Jussila,Eiriik
-2,female,25.0,1,1,more 20 and less 40,S,20s,Christy,Julie Rachel
-1,female,39.0,1,1,more 80,C,30s,Thayer,John Borland (Marian Longstreth Morris)
-2,male,54.0,0,0,more 20 and less 40,S,50s,Downton,William James
-1,male,36.0,0,0,more 40 and less 60,C,30s,Ross,John Hugo
-1,female,18.0,0,2,more 60 and less 80,S,10s,Taussig,Ruth
-2,male,47.0,0,0,more 10 and less 20,S,40s,Jarvis,John Denzil
-1,male,60.0,1,1,more 60 and less 80,C,over 50s,Frolicher-Stehli,Maxmillian
-3,male,22.0,0,0,less 10,S,20s,Gilinski,Eliezer
-3,male,35.0,0,0,less 10,S,30s,Rintamaki,Matti
-1,female,52.0,1,0,more 60 and less 80,C,50s,Stephenson,Walter Bertram (Martha Eustis)
-3,male,47.0,0,0,less 10,S,40s,Elsbury,William James
-2,male,37.0,1,0,more 20 and less 40,S,30s,Chapman,John Henry
-3,male,36.0,1,1,more 20 and less 40,S,30s,Van Impe,Jean Baptiste
-3,male,49.0,0,0,less 10,S,40s,Johnson,Alfred
-1,male,49.0,1,0,more 40 and less 60,C,40s,Duff Gordon,Sir. Cosmo Edmund (Mr Morgan)
-2,female,24.0,2,1,more 20 and less 40,S,20s,Jacobsohn,Sidney Samuel (Amy Frances Christy)
-3,male,44.0,0,0,less 10,S,40s,Torber,Ernst William
-1,male,35.0,0,0,more 20 and less 40,C,30s,Homer,Harry (Mr E Haven)
-3,male,36.0,1,0,more 10 and less 20,S,30s,Lindell,Edvard Bengtsson
-3,male,30.0,0,0,less 10,S,30s,Karaic,Milan
-1,male,27.0,0,0,more 20 and less 40,S,20s,Daniel,Robert Williams
-2,female,22.0,1,2,more 40 and less 60,C,20s,Laroche,Joseph (Juliette Marie Louise Lafargue)
-1,female,40.0,0,0,more 80,S,40s,Shutes,Elizabeth W
-3,female,39.0,1,5,more 20 and less 40,S,30s,Andersson,Anders Johan (Alfrida Konstantia Brogren)
-3,male,35.0,0,0,less 10,S,30s,Brocklebank,William Alfred
-2,female,24.0,1,2,more 60 and less 80,S,20s,Herman,Alice
-3,male,34.0,1,1,more 10 and less 20,S,30s,Danbom,Ernst Gilbert
-3,female,26.0,1,0,more 10 and less 20,S,20s,Lobb,William Arthur (Cordelia K Stanlick)
-2,female,4.0,2,1,more 20 and less 40,S,under 10s,Becker,Marion Louise
-2,male,26.0,0,0,more 10 and less 20,S,20s,Gavey,Lawrence
-3,male,27.0,1,0,more 10 and less 20,C,20s,Yasbeck,Antoni
-1,male,42.0,1,0,more 40 and less 60,S,40s,Kimball,Edwin Nelson Jr
-3,male,20.0,1,1,more 10 and less 20,C,20s,Nakid,Sahid
-3,male,21.0,0,0,less 10,S,20s,Hansen,Henry Damsgaard
-3,male,21.0,0,0,more 10 and less 20,S,20s,Bowen,David John Dai
-1,male,61.0,0,0,more 20 and less 40,S,over 50s,Sutton,Frederick
-2,male,57.0,0,0,more 10 and less 20,Q,50s,Kirkland,Rev. Charles Leonard
-1,female,21.0,0,0,more 60 and less 80,S,20s,Longley,Gretchen Fiske
-3,male,26.0,0,0,less 10,S,20s,Bostandyeff,Guentcho
-1,male,80.0,0,0,more 20 and less 40,S,over 50s,Barkworth,Algernon Henry Wilson
-3,male,51.0,0,0,less 10,S,50s,Lundahl,Johan Svensson
-1,male,32.0,0,0,more 20 and less 40,C,30s,Stahelin-Maeglin,Dr. Max
-3,female,9.0,3,2,more 20 and less 40,S,under 10s,Skoog,Mabel
-2,female,28.0,0,0,more 10 and less 20,S,20s,Davis,Mary
-3,male,32.0,0,0,less 10,S,30s,Leinonen,Antti Gustaf
-2,male,31.0,1,1,more 20 and less 40,S,30s,Collyer,Harvey
-3,female,41.0,0,5,more 20 and less 40,S,40s,Panula,Juha (Maria Emilia Ojala)
-3,male,20.0,0,0,less 10,S,20s,Jensen,Hans Peder
-1,female,24.0,0,0,more 60 and less 80,C,20s,Sagesser,Mlle. Emma
-3,female,2.0,3,2,more 20 and less 40,S,under 10s,Skoog,Margit Elizabeth
-3,female,0.75,2,1,more 10 and less 20,C,under 10s,Baclini,Eugenie
-1,male,48.0,1,0,more 60 and less 80,C,40s,Harper,Henry Sleeper
-3,male,19.0,0,0,less 10,S,10s,Cor,Liudevit
-1,male,56.0,0,0,more 20 and less 40,C,50s,Simonius-Blumer,Col. Oberst Alfons
-3,female,23.0,0,0,less 10,S,20s,Stanley,Amy Zillah Elsie
-2,female,18.0,0,1,more 20 and less 40,S,10s,Doling,Elsie
-3,male,21.0,0,0,less 10,S,20s,Kalvik,Johannes Halvorsen
-3,female,18.0,0,0,less 10,Q,10s,Hegarty,Hanora Nora
-2,male,24.0,2,0,more 60 and less 80,S,20s,Hickman,Leonard Mark
-3,female,32.0,1,1,more 10 and less 20,Q,30s,Bourke,John (Catherine)
-2,male,23.0,0,0,more 10 and less 20,S,20s,Eitemiller,George Floyd
-1,male,58.0,0,2,more 80,C,50s,Newell,Arthur Webster
-1,male,50.0,2,0,more 80,S,50s,Frauenthal,Dr. Henry William
-3,male,40.0,0,0,less 10,C,40s,Badt,Mohamed
-1,male,47.0,0,0,more 20 and less 40,S,40s,Colley,Edward Pomeroy
-3,male,36.0,0,0,less 10,S,30s,Coleff,Peju
-3,male,20.0,1,0,less 10,S,20s,Lindqvist,Eino William
-2,male,32.0,2,0,more 60 and less 80,S,30s,Hickman,Lewis
-2,male,25.0,0,0,more 10 and less 20,S,20s,Butler,Reginald Fenton
-3,male,43.0,0,0,less 10,S,40s,Cook,Jacob
-2,female,40.0,1,1,more 20 and less 40,S,40s,Brown,Thomas William Solomon (Elizabeth Catherine Ford)
-1,male,31.0,1,0,more 40 and less 60,S,30s,Davidson,Thornton
-2,male,70.0,0,0,more 10 and less 20,S,over 50s,Mitchell,Henry Michael
-2,male,31.0,0,0,more 10 and less 20,S,30s,Wilhelms,Charles
-3,male,18.0,0,0,less 10,S,10s,Edvardsson,Gustaf Hjalmar
-3,male,24.5,0,0,less 10,S,20s,Sawyer,Frederick Charles
-3,female,18.0,0,0,less 10,S,10s,Turja,Anna Sofia
-3,female,43.0,1,6,more 40 and less 60,S,40s,Goodwin,Frederick (Augusta Tyler)
-1,male,36.0,0,1,more 80,C,30s,Cardeza,Thomas Drake Martinez
-1,male,27.0,0,0,more 60 and less 80,C,20s,Hassab,Hammad
-3,male,20.0,0,0,less 10,S,20s,Olsvigen,Thor Anderson
-3,male,14.0,5,2,more 40 and less 60,S,10s,Goodwin,Charles Edward
-2,male,60.0,1,1,more 20 and less 40,S,over 50s,Brown,Thomas William Solomon
-2,male,25.0,1,2,more 40 and less 60,C,20s,Laroche,Joseph Philippe Lemercier
-3,male,14.0,4,1,more 20 and less 40,S,10s,Panula,Jaako Arnold
-3,male,19.0,0,0,more 10 and less 20,S,10s,Dakic,Branko
-3,male,18.0,0,0,less 10,S,10s,Fischer,Eberhard Thelander
-1,female,15.0,0,1,more 80,S,10s,Madill,Georgette Alexandra
-1,male,31.0,1,0,more 40 and less 60,S,30s,Dick,Albert Adrian
-3,female,4.0,0,1,more 10 and less 20,C,under 10s,Karun,Manca
-3,male,25.0,0,0,less 10,C,20s,Saad,Khalil
-1,male,60.0,0,0,more 20 and less 40,S,over 50s,Weir,Col. John
-2,male,52.0,0,0,more 10 and less 20,S,50s,Chapman,Charles Henry
-3,male,44.0,0,0,less 10,S,40s,Kelly,James
-1,male,49.0,1,1,more 80,C,40s,Thayer,John Borland
-3,male,42.0,0,0,less 10,S,40s,Humblen,Adolf Mathias Nicolai Olsen
-1,female,18.0,1,0,more 80,C,10s,Astor,John Jacob (Madeleine Talmadge Force)
-1,male,35.0,0,0,more 20 and less 40,S,30s,Silverthorne,Spencer Victor
-3,female,18.0,0,1,more 10 and less 20,C,10s,Barbara,Saiide
-3,male,25.0,0,0,less 10,Q,20s,Gallagher,Martin
-3,male,26.0,1,0,less 10,S,20s,Hansen,Henrik Juul
-2,male,39.0,0,0,more 20 and less 40,S,30s,Morley,Henry Samuel (Mr Henry Marshall)
-2,female,45.0,0,0,more 10 and less 20,S,40s,Kelly,Florence Fannie
-1,male,42.0,0,0,more 20 and less 40,S,40s,Calderhead,Edward Pennington
-1,female,22.0,0,0,more 80,S,20s,Cleaver,Alice
-1,female,24.0,0,0,more 40 and less 60,C,20s,Mayne,Mlle. Berthe Antonine (Mrs de Villiers)
-1,male,48.0,1,0,more 40 and less 60,S,40s,Taylor,Elmer Zebley
-3,male,29.0,0,0,less 10,S,20s,Larsson,August Viktor
-2,male,52.0,0,0,more 10 and less 20,S,50s,Greenberg,Samuel
-3,male,19.0,0,0,less 10,S,10s,Soholt,Peter Andreas Lauritz Andersen
-1,female,38.0,0,0,more 80,C,30s,Endres,Caroline Louise
-2,female,27.0,0,0,more 10 and less 20,S,20s,Troutt,Edwina Celia Winnie
-3,male,33.0,0,0,less 10,S,30s,Johnson,Malkolm Joackim
-2,female,6.0,0,1,more 20 and less 40,S,under 10s,Harper,Annie Jessie Nina
-3,male,17.0,1,0,less 10,S,10s,Jensen,Svend Lauritz
-2,male,34.0,0,0,more 10 and less 20,S,30s,Gillespie,William Henry
-2,male,50.0,0,0,more 10 and less 20,S,50s,Hodges,Henry Price
-1,male,27.0,1,0,more 40 and less 60,S,20s,Chambers,Norman Campbell
-3,male,20.0,0,0,less 10,S,20s,Oreskovic,Luka
-2,female,30.0,3,0,more 20 and less 40,S,30s,Renouf,Peter Henry (Lillian Jefferys)
-2,male,25.0,1,0,more 20 and less 40,S,20s,Bryhl,Kurt Arnold Gottfrid
-3,female,25.0,1,0,less 10,S,20s,Ilmakangas,Pieta Sofia
-1,female,29.0,0,0,more 80,S,20s,Allen,Elisabeth Walton
-3,male,11.0,0,0,more 10 and less 20,C,10s,Hassan,Houssein G N
-2,male,23.0,0,0,more 10 and less 20,S,20s,Berriman,William John
-2,male,23.0,0,0,more 10 and less 20,S,20s,Troupiansky,Moses Aaron
-3,male,28.5,0,0,more 10 and less 20,S,20s,Williams,Leslie
-3,female,48.0,1,3,more 20 and less 40,S,40s,Ford,Edward (Margaret Ann Watson)
-1,male,35.0,0,0,more 80,C,30s,Lesurer,Gustave J
-1,male,36.0,1,0,more 60 and less 80,S,30s,Cavendish,Tyrell William
-1,female,21.0,2,2,more 80,C,20s,Ryerson,Susan Parker Suzette
-3,male,24.0,1,0,more 10 and less 20,S,20s,McNamee,Neal
-3,male,31.0,0,0,less 10,S,30s,Stranden,Juho
-1,male,70.0,1,1,more 60 and less 80,S,over 50s,Crosby,Capt. Edward Gifford
-3,male,16.0,1,1,more 20 and less 40,S,10s,Abbott,Rossmore Edward
-2,female,30.0,0,0,more 10 and less 20,S,30s,Sinkkonen,Anna
-1,male,19.0,1,0,more 40 and less 60,S,10s,Marvin,Daniel Warner
-3,male,31.0,0,0,less 10,Q,30s,Connaghton,Michael
-2,female,4.0,1,1,more 20 and less 40,S,under 10s,Wells,Joan
-3,male,6.0,0,1,more 10 and less 20,S,under 10s,Moor,Meier
-3,male,33.0,0,0,less 10,S,30s,Vande Velde,Johannes Joseph
-3,male,23.0,0,0,less 10,S,20s,Jonkoff,Lalio
-2,female,48.0,1,2,more 60 and less 80,S,40s,Herman,Samuel (Jane Laver)
-2,male,0.67,1,1,more 10 and less 20,S,under 10s,Hamalainen,Viljo
-3,male,28.0,0,0,less 10,S,20s,Carlsson,August Sigfrid
-2,male,18.0,0,0,more 10 and less 20,S,10s,Bailey,Percy Andrew
-3,male,34.0,0,0,less 10,S,30s,Theobald,Thomas Leonard
-1,female,33.0,0,0,more 80,S,30s,Rothes,the Countess. of (Lucy Noel Martha Dyer-Edwards)
-3,male,41.0,0,0,less 10,S,40s,Nirva,Iisakki Antino Aijo
-3,male,20.0,0,0,less 10,C,20s,Barah,Hanna Assi
-1,female,36.0,1,2,more 80,S,30s,Carter,William Ernest (Lucile Polk)
-3,male,16.0,0,0,less 10,S,10s,Eklund,Hans Linus
-1,female,51.0,1,0,more 60 and less 80,S,50s,Hogeboom,John C (Anna Andrews)
-3,female,30.5,0,0,less 10,Q,30s,Mangan,Mary
-3,male,32.0,0,0,less 10,S,30s,Gronnestad,Daniel Danielsen
-3,male,24.0,0,0,less 10,S,20s,Lievens,Rene Aime
-3,male,48.0,0,0,less 10,S,40s,Jensen,Niels Peder
-2,female,57.0,0,0,more 10 and less 20,S,50s,Mack,(Mary)
-2,female,54.0,1,3,more 20 and less 40,S,50s,Hocking,Elizabeth (Eliza Needs)
-3,male,18.0,0,0,less 10,S,10s,Myhrman,Pehr Fabian Oliver Malkolm
-3,female,5.0,0,0,more 10 and less 20,S,under 10s,Emanuel,Virginia Ethel
-1,female,43.0,0,1,more 80,S,40s,Robert,Edward Scott (Elisabeth Walton McMillan)
-3,female,13.0,0,0,less 10,C,10s,Ayoub,Banoura
-1,female,17.0,1,0,more 40 and less 60,S,10s,Dick,Albert Adrian (Vera Gillespie)
-1,male,29.0,0,0,more 20 and less 40,S,20s,Long,Milton Clyde
-3,male,25.0,0,0,less 10,S,20s,Ali,William
-3,male,25.0,0,0,less 10,S,20s,Harmer,Abraham (David Lishin)
-3,female,18.0,0,0,less 10,S,10s,Sjoblom,Anna Sofia
-3,male,8.0,4,1,more 20 and less 40,Q,under 10s,Rice,George Hugh
-3,male,1.0,1,2,more 20 and less 40,S,under 10s,Dean,Bertram Vere
-1,male,46.0,0,0,more 60 and less 80,C,40s,Guggenheim,Benjamin
-2,male,16.0,0,0,more 20 and less 40,S,10s,Gaskell,Alfred
-3,male,25.0,0,0,less 10,S,20s,Dantcheff,Ristiu
-2,male,39.0,0,0,more 10 and less 20,S,30s,Otter,Richard
-1,female,49.0,0,0,more 20 and less 40,S,40s,Leader,Dr. Alice (Farnham)
-3,female,31.0,0,0,less 10,S,30s,Osman,Mara
-3,male,30.0,0,0,less 10,C,30s,Ibrahim Shawah,Yousseff
-3,female,30.0,1,1,more 20 and less 40,S,30s,Van Impe,Jean Baptiste (Rosalie Paula Govaert)
-2,male,34.0,0,0,more 10 and less 20,S,30s,Ponesell,Martin
-2,female,31.0,1,1,more 20 and less 40,S,30s,Collyer,Harvey (Charlotte Annie Tate)
-1,male,11.0,1,2,more 80,S,10s,Carter,William Thornton II
-3,male,0.42,0,1,less 10,C,under 10s,Thomas,Assad Alexander
-3,male,27.0,0,0,less 10,S,20s,Hedman,Oskar Arvid
-3,male,31.0,0,0,less 10,S,30s,Johansson,Karl Johan
-1,male,39.0,0,0,less 10,S,30s,Andrews,Thomas Jr
-3,female,18.0,0,0,less 10,S,10s,Pettersson,Ellen Natalia
-2,male,39.0,0,0,more 10 and less 20,S,30s,Meyer,August
-1,female,33.0,1,0,more 40 and less 60,S,30s,Chambers,Norman Campbell (Bertha Griggs)
-3,male,26.0,0,0,less 10,S,20s,Alexander,William
-3,male,39.0,0,0,more 20 and less 40,S,30s,Lester,James
-2,male,35.0,0,0,more 10 and less 20,S,30s,Slemen,Richard James
-3,female,6.0,4,2,more 20 and less 40,S,under 10s,Andersson,Ebba Iris Alfrida
-3,male,30.5,0,0,less 10,S,30s,Tomlin,Ernest Portage
-3,female,23.0,0,0,less 10,S,20s,Heininen,Wendla Maria
-2,male,31.0,1,1,more 20 and less 40,C,30s,Mallet,Albert
-3,male,43.0,0,0,less 10,S,40s,Holm,John Fredrik Alexander
-3,male,10.0,3,2,more 20 and less 40,S,10s,Skoog,Karl Thorsten
-1,female,52.0,1,1,more 80,S,50s,Hays,Charles Melville (Clara Jennings Gregg)
-3,male,27.0,0,0,less 10,S,20s,Lulic,Nikola
-1,male,38.0,0,0,less 10,S,30s,Reuchlin,Jonkheer. John George
-3,female,27.0,0,1,more 10 and less 20,S,20s,Moor,(Beila)
-3,male,2.0,4,1,more 20 and less 40,S,under 10s,Panula,Urho Abraham
-2,male,1.0,0,2,more 20 and less 40,C,under 10s,Mallet,Andre
-3,female,15.0,1,0,more 10 and less 20,C,10s,Yasbeck,Antoni (Selini Alexander)
-2,male,0.83,1,1,more 10 and less 20,S,under 10s,Richards,George Sibley
-3,male,23.0,0,0,less 10,S,20s,Augustsson,Albert
-3,male,18.0,0,0,less 10,S,10s,Allum,Owen George
-1,female,39.0,1,1,more 80,C,30s,Compton,Sara Rebecca
-3,male,21.0,0,0,less 10,S,20s,Pasic,Jakob
-3,male,32.0,0,0,more 40 and less 60,S,30s,Chip,Chang
-3,male,20.0,0,0,less 10,S,20s,Alhomaki,Ilmari Rudolf
-2,male,16.0,0,0,more 10 and less 20,S,10s,Mudd,Thomas Charles
-1,female,30.0,0,0,more 20 and less 40,C,30s,Serepeca,Augusta
-3,male,34.5,0,0,less 10,C,30s,Lemberopolous,Peter L
-3,male,17.0,0,0,less 10,S,10s,Culumovic,Jeso
-3,male,42.0,0,0,less 10,S,40s,Abbing,Anthony
-3,male,35.0,0,0,less 10,C,30s,Markoff,Marin
-2,male,28.0,0,1,more 20 and less 40,S,20s,Harper,Rev. John
-3,male,4.0,4,2,more 20 and less 40,S,under 10s,Andersson,Sigvard Harald Elias
-3,male,74.0,0,0,less 10,S,over 50s,Svensson,Johan
-3,female,9.0,1,1,more 10 and less 20,C,under 10s,Boulos,Nourelain
-1,female,16.0,0,1,more 20 and less 40,S,10s,Lines,Mary Conover
-2,female,44.0,1,0,more 20 and less 40,S,40s,Carter,Ernest Courtenay (Lilian Hughes)
-3,female,18.0,0,1,less 10,S,10s,Aks,Sam (Leah Rosen)
-1,female,45.0,1,1,more 80,S,40s,Wick,George Dennick (Mary Hitchcock)
-1,male,51.0,0,0,more 20 and less 40,S,50s,Daly,Peter Denis
-3,female,24.0,0,3,more 10 and less 20,C,20s,Baclini,Solomon (Latifa Qurban)
-3,male,41.0,2,0,more 10 and less 20,S,40s,Hansen,Claus Peter
-2,male,21.0,1,0,more 10 and less 20,S,20s,Giles,Frederick Edward
-1,female,48.0,0,0,more 20 and less 40,S,40s,Swift,Frederick Joel (Margaret Welles Barron)
-2,male,24.0,0,0,more 10 and less 20,S,20s,Gill,John William
-2,female,42.0,0,0,more 10 and less 20,S,40s,Bystrom,(Karolina)
-2,female,27.0,1,0,more 10 and less 20,C,20s,Duran y More,Asuncion
-1,male,31.0,0,0,more 40 and less 60,S,30s,Roebling,Washington Augustus II
-3,male,4.0,1,1,more 10 and less 20,S,under 10s,Johnson,Harold Theodor
-3,male,26.0,0,0,less 10,S,20s,Balkic,Cerin
-1,female,47.0,1,1,more 40 and less 60,S,40s,Beckwith,Richard Leonard (Sallie Monypeny)
-1,male,33.0,0,0,less 10,S,30s,Carlsson,Frans Olof
-3,male,47.0,0,0,less 10,S,40s,Vander Cruyssen,Victor
-2,female,28.0,1,0,more 20 and less 40,C,20s,Abelson,Samuel (Hannah Wizosky)
-3,female,15.0,0,0,less 10,C,10s,Najib,Adele Kiamie Jane
-3,male,20.0,0,0,less 10,S,20s,Gustafsson,Alfred Ossian
-3,male,19.0,0,0,less 10,S,10s,Petroff,Nedelio
-1,female,56.0,0,1,more 80,C,50s,Potter,Thomas Jr (Lily Alexenia Wilson)
-2,female,25.0,0,1,more 20 and less 40,S,20s,Shelley,William (Imanita Parrish Hall)
-3,male,33.0,0,0,less 10,S,30s,Markun,Johann
-3,female,22.0,0,0,more 10 and less 20,S,20s,Dahlberg,Gerda Ulrika
-2,male,28.0,0,0,more 10 and less 20,S,20s,Banfield,Frederick James
-3,male,25.0,0,0,less 10,S,20s,Sutehall,Henry Jr
-3,female,39.0,0,5,more 20 and less 40,Q,30s,Rice,William (Margaret Norton)
-2,male,27.0,0,0,more 10 and less 20,S,20s,Montvila,Rev. Juozas
-1,female,19.0,0,0,more 20 and less 40,S,10s,Graham,Margaret Edith
-1,male,26.0,0,0,more 20 and less 40,C,20s,Behr,Karl Howell
-3,male,32.0,0,0,less 10,Q,30s,Dooley,Patrick
+3,male,22.0,1,0,7.25,S,20s,Braund,Owen Harris
+1,female,38.0,1,0,71.2833,C,30s,Cumings,John Bradley (Florence Briggs Thayer)
+3,female,26.0,0,0,7.925,S,20s,Heikkinen,Laina
+1,female,35.0,1,0,53.1,S,30s,Futrelle,Jacques Heath (Lily May Peel)
+3,male,35.0,0,0,8.05,S,30s,Allen,William Henry
+1,male,54.0,0,0,51.8625,S,50s,McCarthy,Timothy J
+3,male,2.0,3,1,21.075,S,under 10s,Palsson,Gosta Leonard
+3,female,27.0,0,2,11.1333,S,20s,Johnson,Oscar W (Elisabeth Vilhelmina Berg)
+2,female,14.0,1,0,30.0708,C,10s,Nasser,Nicholas (Adele Achem)
+3,female,4.0,1,1,16.7,S,under 10s,Sandstrom,Marguerite Rut
+1,female,58.0,0,0,26.55,S,50s,Bonnell,Elizabeth
+3,male,20.0,0,0,8.05,S,20s,Saundercock,William Henry
+3,male,39.0,1,5,31.275,S,30s,Andersson,Anders Johan
+3,female,14.0,0,0,7.8542,S,10s,Vestrom,Hulda Amanda Adolfina
+2,female,55.0,0,0,16.0,S,50s,Hewlett,(Mary D Kingcome)
+3,male,2.0,4,1,29.125,Q,under 10s,Rice,Eugene
+3,female,31.0,1,0,18.0,S,30s,Vander Planke,Julius (Emelia Maria Vandemoortele)
+2,male,35.0,0,0,26.0,S,30s,Fynney,Joseph J
+2,male,34.0,0,0,13.0,S,30s,Beesley,Lawrence
+3,female,15.0,0,0,8.0292,Q,10s,McGowan,Anna Annie
+1,male,28.0,0,0,35.5,S,20s,Sloper,William Thompson
+3,female,8.0,3,1,21.075,S,under 10s,Palsson,Torborg Danira
+3,female,38.0,1,5,31.3875,S,30s,Asplund,Carl Oscar (Selma Augusta Emilia Johansson)
+1,male,19.0,3,2,263.0,S,10s,Fortune,Charles Alexander
+1,male,40.0,0,0,27.7208,C,40s,Uruchurtu,Don. Manuel E
+2,male,66.0,0,0,10.5,S,over 50s,Wheadon,Edward H
+1,male,28.0,1,0,82.1708,C,20s,Meyer,Edgar Joseph
+1,male,42.0,1,0,52.0,S,40s,Holverson,Alexander Oskar
+3,male,21.0,0,0,8.05,S,20s,Cann,Ernest Charles
+3,female,18.0,2,0,18.0,S,10s,Vander Planke,Augusta Maria
+3,female,14.0,1,0,11.2417,C,10s,Nicola-Yarred,Jamila
+3,female,40.0,1,0,9.475,S,40s,Ahlin,Johan (Johanna Persdotter Larsson)
+2,female,27.0,1,0,21.0,S,20s,Turpin,William John Robert (Dorothy Ann Wonnacott)
+2,female,3.0,1,2,41.5792,C,under 10s,Laroche,Simonne Marie Anne Andree
+3,female,19.0,0,0,7.8792,Q,10s,Devaney,Margaret Delia
+3,female,18.0,1,0,17.8,S,10s,Arnold-Franchi,Josef (Josefine Franchi)
+3,male,7.0,4,1,39.6875,S,under 10s,Panula,Juha Niilo
+3,male,21.0,0,0,7.8,S,20s,Nosworthy,Richard Cater
+1,female,49.0,1,0,76.7292,C,40s,Harper,Henry Sleeper (Myna Haxtun)
+2,female,29.0,1,0,26.0,S,20s,Faunthorpe,Lizzie (Elizabeth Anne Wilkinson)
+1,male,65.0,0,1,61.9792,C,over 50s,Ostby,Engelhart Cornelius
+2,female,21.0,0,0,10.5,S,20s,Rugg,Emily
+3,male,28.5,0,0,7.2292,C,20s,Novel,Mansouer
+2,female,5.0,1,2,27.75,S,under 10s,West,Constance Mirium
+3,male,11.0,5,2,46.9,S,10s,Goodwin,William Frederick
+3,male,22.0,0,0,7.2292,C,20s,Sirayanian,Orsen
+1,male,45.0,1,0,83.475,S,40s,Harris,Henry Birkhardt
+3,male,4.0,3,2,27.9,S,under 10s,Skoog,Harald
+2,female,29.0,0,0,10.5,S,20s,Nye,(Elizabeth Ramell)
+3,male,19.0,0,0,8.1583,S,10s,Crease,Ernest James
+3,female,17.0,4,2,7.925,S,10s,Andersson,Erna Alexandra
+3,male,26.0,2,0,8.6625,S,20s,Kink,Vincenz
+2,male,32.0,0,0,10.5,S,30s,Jenkin,Stephen Curnow
+3,female,16.0,5,2,46.9,S,10s,Goodwin,Lillian Amy
+2,male,21.0,0,0,73.5,S,20s,Hood,Ambrose Jr
+3,male,26.0,1,0,14.4542,C,20s,Chronopoulos,Apostolos
+3,male,32.0,0,0,56.4958,S,30s,Bing,Lee
+3,male,25.0,0,0,7.65,S,20s,Moen,Sigurd Hansen
+2,male,0.83,0,2,29.0,S,under 10s,Caldwell,Alden Gates
+3,female,30.0,0,0,12.475,S,30s,Dowdell,Elizabeth
+3,male,22.0,0,0,9.0,S,20s,Waelens,Achille
+3,male,29.0,0,0,9.5,S,20s,Sheerlinck,Jan Baptist
+1,male,28.0,0,0,47.1,S,20s,Carrau,Francisco M
+2,female,17.0,0,0,10.5,S,10s,Ilett,Bertha
+3,female,33.0,3,0,15.85,S,30s,Backstrom,Karl Alfred (Maria Mathilda Gustafsson)
+3,male,16.0,1,3,34.375,S,10s,Ford,William Neal
+1,female,23.0,3,2,263.0,S,20s,Fortune,Mabel Helen
+3,male,24.0,0,0,8.05,S,20s,Celotti,Francesco
+3,male,29.0,0,0,8.05,S,20s,Christmann,Emil
+3,male,20.0,0,0,7.8542,S,20s,Andreasson,Paul Edvin
+1,male,46.0,1,0,61.175,S,40s,Chaffee,Herbert Fuller
+3,male,26.0,1,2,20.575,S,20s,Dean,Bertram Frank
+3,male,59.0,0,0,7.25,S,50s,Coxon,Daniel
+1,male,71.0,0,0,34.6542,C,over 50s,Goldschmidt,George B
+1,male,23.0,0,1,63.3583,C,20s,Greenfield,William Bertram
+2,female,34.0,0,1,23.0,S,30s,Doling,John T (Ada Julia Bone)
+2,male,34.0,1,0,26.0,S,30s,Kantor,Sinai
+3,female,28.0,0,0,7.8958,S,20s,Petranec,Matilda
+1,male,21.0,0,1,77.2875,S,20s,White,Richard Frasar
+3,male,33.0,0,0,8.6542,S,30s,Johansson,Gustaf Joel
+3,male,37.0,2,0,7.925,S,30s,Gustafsson,Anders Vilhelm
+3,male,28.0,0,0,7.8958,S,20s,Mionoff,Stoytcho
+3,female,21.0,0,0,7.65,S,20s,Salkjelsvik,Anna Kristine
+3,male,38.0,0,0,7.8958,S,30s,Rekic,Tido
+1,male,47.0,0,0,52.0,S,40s,Porter,Walter Chamberlain
+3,female,14.5,1,0,14.4542,C,10s,Zabour,Hileni
+3,male,22.0,0,0,8.05,S,20s,Barton,David John
+3,female,20.0,1,0,9.825,S,20s,Jussila,Katriina
+3,female,17.0,0,0,14.4583,C,10s,Attalah,Malake
+3,male,21.0,0,0,7.925,S,20s,Pekoniemi,Edvard
+3,male,70.5,0,0,7.75,Q,over 50s,Connors,Patrick
+2,male,29.0,1,0,21.0,S,20s,Turpin,William John Robert
+1,male,24.0,0,1,247.5208,C,20s,Baxter,Quigg Edmond
+3,female,2.0,4,2,31.275,S,under 10s,Andersson,Ellis Anna Maria
+2,male,21.0,2,0,73.5,S,20s,Hickman,Stanley George
+2,male,32.5,1,0,30.0708,C,30s,Nasser,Nicholas
+2,female,32.5,0,0,13.0,S,30s,Webber,Susan
+1,male,54.0,0,1,77.2875,S,50s,White,Percival Wayland
+3,male,12.0,1,0,11.2417,C,10s,Nicola-Yarred,Elias
+3,male,24.0,0,0,7.1417,S,20s,Madsen,Fridtjof Arne
+3,male,45.0,0,0,6.975,S,40s,Ekstrom,Johan
+3,male,33.0,0,0,7.8958,C,30s,Drazenoic,Jozef
+3,male,20.0,0,0,7.05,S,20s,Coelho,Domingos Fernandeo
+3,female,47.0,1,0,14.5,S,40s,Robins,Alexander A (Grace Charity Laury)
+2,female,29.0,1,0,26.0,S,20s,Weisz,Leopold (Mathilde Francoise Pede)
+2,male,25.0,0,0,13.0,S,20s,Sobey,Samuel James Hayden
+2,male,23.0,0,0,15.0458,C,20s,Richard,Emile
+1,female,19.0,0,2,26.2833,S,10s,Newsom,Helen Monypeny
+1,male,37.0,1,0,53.1,S,30s,Futrelle,Jacques Heath
+3,male,16.0,0,0,9.2167,S,10s,Osen,Olaf Elon
+1,male,24.0,0,0,79.2,C,20s,Giglio,Victor
+3,female,22.0,0,0,7.75,S,20s,Nysten,Anna Sofia
+3,female,24.0,1,0,15.85,S,20s,Hakkarainen,Pekka Pietari (Elin Matilda Dolck)
+3,male,19.0,0,0,6.75,Q,10s,Burke,Jeremiah
+2,male,18.0,0,0,11.5,S,10s,Andrew,Edgardo Samuel
+2,male,19.0,1,1,36.75,S,10s,Nicholls,Joseph Charles
+3,male,27.0,0,0,7.7958,S,20s,Andersson,August Edvard (Wennerstrom)
+3,female,9.0,2,2,34.375,S,under 10s,Ford,Robina Maggie Ruby
+2,male,36.5,0,2,26.0,S,30s,Navratil,Michel (Louis M Hoffman)
+2,male,42.0,0,0,13.0,S,40s,Byles,Rev. Thomas Roussel Davids
+2,male,51.0,0,0,12.525,S,50s,Bateman,Rev. Robert James
+1,female,22.0,1,0,66.6,S,20s,Pears,Thomas (Edith Wearne)
+3,male,55.5,0,0,8.05,S,50s,Meo,Alfonzo
+3,male,40.5,0,2,14.5,S,40s,van Billiard,Austin Blyler
+1,male,51.0,0,1,61.3792,C,50s,Williams,Charles Duane
+3,female,16.0,0,0,7.7333,Q,10s,Gilnagh,Katherine Katie
+3,male,30.0,0,0,8.05,S,30s,Corn,Harry
+3,male,44.0,0,1,16.1,S,40s,Cribb,John Hatfield
+2,female,40.0,0,0,15.75,S,40s,Watt,James (Elizabeth Bessie Inglis Milne)
+3,male,26.0,0,0,7.775,S,20s,Bengtsson,John Viktor
+3,male,17.0,0,0,8.6625,S,10s,Calic,Jovo
+3,male,1.0,4,1,39.6875,S,under 10s,Panula,Eino Viljami
+3,male,9.0,0,2,20.525,S,under 10s,Goldsmith,Frank John William Frankie
+3,female,45.0,1,4,27.9,S,40s,Skoog,William (Anna Bernhardina Karlsson)
+3,male,28.0,0,0,56.4958,S,20s,Ling,Lee
+1,male,61.0,0,0,33.5,S,over 50s,Van der hoef,Wyckoff
+3,male,4.0,4,1,29.125,Q,under 10s,Rice,Arthur
+3,female,1.0,1,1,11.1333,S,under 10s,Johnson,Eleanor Ileen
+3,male,21.0,0,0,7.925,S,20s,Sivola,Antti Wilhelm
+1,male,56.0,0,0,30.6958,C,50s,Smith,James Clinch
+3,male,18.0,1,1,7.8542,S,10s,Klasen,Klas Albin
+1,female,50.0,0,0,28.7125,C,50s,Isham,Ann Elizabeth
+2,male,30.0,0,0,13.0,S,30s,Hale,Reginald
+3,male,36.0,0,0,0.0,S,30s,Leonard,Lionel
+3,male,9.0,4,2,31.3875,S,under 10s,Asplund,Clarence Gustaf Hugo
+2,male,1.0,2,1,39.0,S,under 10s,Becker,Richard F
+3,female,4.0,0,2,22.025,S,under 10s,Kink-Heilmann,Luise Gretchen
+1,male,45.0,0,0,26.55,S,40s,Romaine,Charles Hallace (Mr C Rolmane)
+3,male,40.0,1,1,15.5,Q,40s,Bourke,John
+3,male,36.0,0,0,7.8958,S,30s,Turcin,Stjepan
+2,female,32.0,0,0,13.0,S,30s,Pinsky,(Rosa)
+2,male,19.0,0,0,13.0,S,10s,Carbines,William
+3,female,19.0,1,0,7.8542,S,10s,Andersen-Jensen,Carla Christine Nielsine
+2,male,3.0,1,1,26.0,S,under 10s,Navratil,Michel M
+1,female,44.0,0,0,27.7208,C,40s,Brown,James Joseph (Margaret Tobin)
+1,female,58.0,0,0,146.5208,C,50s,Lurette,Elise
+3,male,42.0,0,1,8.4042,S,40s,Olsen,Karl Siegwart Andreas
+2,female,24.0,0,0,13.0,S,20s,Yrois,Henriette (Mrs Harbeck)
+3,male,28.0,0,0,9.5,S,20s,Vande Walle,Nestor Cyriel
+3,male,34.0,0,0,6.4958,S,30s,Johanson,Jakob Alfred
+3,male,45.5,0,0,7.225,C,40s,Youseff,Gerious
+3,male,18.0,0,0,8.05,S,10s,Cohen,Gurshon Gus
+3,female,2.0,0,1,10.4625,S,under 10s,Strom,Telma Matilda
+3,male,32.0,1,0,15.85,S,30s,Backstrom,Karl Alfred
+3,male,26.0,0,0,18.7875,C,20s,Albimona,Nassef Cassem
+3,female,16.0,0,0,7.75,Q,10s,Carr,Helen Ellen
+1,male,40.0,0,0,31.0,C,40s,Blank,Henry
+3,male,24.0,0,0,7.05,S,20s,Ali,Ahmed
+2,female,35.0,0,0,21.0,S,30s,Cameron,Clear Annie
+3,male,22.0,0,0,7.25,S,20s,Perkin,John Henry
+2,male,30.0,0,0,13.0,S,30s,Givard,Hans Kristensen
+1,female,31.0,1,0,113.275,C,30s,Newell,Madeleine
+3,female,27.0,0,0,7.925,S,20s,Honkanen,Eliina
+2,male,42.0,1,0,27.0,S,40s,Jacobsohn,Sidney Samuel
+1,female,32.0,0,0,76.2917,C,30s,Bazzani,Albina
+2,male,30.0,0,0,10.5,S,30s,Harris,Walter
+3,male,16.0,0,0,8.05,S,10s,Sunderland,Victor Francis
+2,male,27.0,0,0,13.0,S,20s,Bracken,James H
+3,male,51.0,0,0,8.05,S,50s,Green,George Henry
+1,male,38.0,1,0,90.0,S,30s,Hoyt,Frederick Maxfield
+3,male,22.0,0,0,9.35,S,20s,Berglund,Karl Ivar Sven
+2,male,19.0,0,0,10.5,S,10s,Mellors,William John
+3,male,20.5,0,0,7.25,S,20s,Lovell,John Hall (Henry)
+2,male,18.0,0,0,13.0,S,10s,Fahlstrom,Arne Jonas
+1,female,35.0,1,0,83.475,S,30s,Harris,Henry Birkhardt (Irene Wallach)
+3,male,29.0,0,0,7.775,S,20s,Larsson,Bengt Edvin
+2,male,59.0,0,0,13.5,S,50s,Sjostedt,Ernst Adolf
+3,female,5.0,4,2,31.3875,S,under 10s,Asplund,Lillian Gertrud
+2,male,24.0,0,0,10.5,S,20s,Leyson,Robert William Norman
+2,male,44.0,1,0,26.0,S,40s,Hold,Stephen
+2,female,8.0,0,2,26.25,S,under 10s,Collyer,Marjorie Lottie
+2,male,19.0,0,0,10.5,S,10s,Pengelly,Frederick William
+2,male,33.0,0,0,12.275,S,30s,Hunt,George Henry
+2,male,29.0,0,0,10.5,S,20s,Coleridge,Reginald Charles
+3,male,22.0,0,0,7.125,S,20s,Maenpaa,Matti Alexanteri
+3,male,30.0,0,0,7.225,C,30s,Attalah,Sleiman
+1,male,44.0,2,0,90.0,Q,40s,Minahan,Dr. William Edward
+3,female,25.0,0,0,7.775,S,20s,Lindahl,Agda Thorilda Viktoria
+2,female,24.0,0,2,14.5,S,20s,Hamalainen,William (Anna)
+1,male,37.0,1,1,52.5542,S,30s,Beckwith,Richard Leonard
+2,male,54.0,1,0,26.0,S,50s,Carter,Rev. Ernest Courtenay
+3,female,29.0,1,1,10.4625,S,20s,Strom,Wilhelm (Elna Matilda Persson)
+1,male,62.0,0,0,26.55,S,over 50s,Stead,William Thomas
+3,male,30.0,1,0,16.1,S,30s,Lobb,William Arthur
+3,female,41.0,0,2,20.2125,S,40s,Rosblom,Viktor (Helena Wilhelmina)
+3,female,29.0,0,2,15.2458,C,20s,Touma,Darwis (Hanne Youssef Razi)
+1,female,30.0,0,0,86.5,S,30s,Cherry,Gladys
+1,female,35.0,0,0,512.3292,C,30s,Ward,Anna
+2,female,50.0,0,1,26.0,S,50s,Parrish,(Lutie Davis)
+3,male,3.0,4,2,31.3875,S,under 10s,Asplund,Edvin Rojj Felix
+1,male,52.0,1,1,79.65,S,50s,Taussig,Emil
+1,male,40.0,0,0,0.0,S,40s,Harrison,William
+2,male,36.0,0,0,10.5,S,30s,Reeves,David
+3,male,16.0,4,1,39.6875,S,10s,Panula,Ernesti Arvid
+3,male,25.0,1,0,7.775,S,20s,Persson,Ernst Ulrik
+1,female,58.0,0,1,153.4625,S,50s,Graham,William Thompson (Edith Junkins)
+1,female,35.0,0,0,135.6333,S,30s,Bissette,Amelia
+3,male,25.0,0,0,0.0,S,20s,Tornquist,William Henry
+2,female,41.0,0,1,19.5,S,40s,Mellinger,(Elizabeth Anne Maidment)
+1,male,37.0,0,1,29.7,C,30s,Natsch,Charles H
+1,female,63.0,1,0,77.9583,S,over 50s,Andrews,Kornelia Theodosia
+3,female,45.0,0,0,7.75,S,40s,Lindblom,Augusta Charlotta
+3,male,7.0,4,1,29.125,Q,under 10s,Rice,Eric
+3,female,35.0,1,1,20.25,S,30s,Abbott,Stanton (Rosa Hunt)
+3,male,65.0,0,0,7.75,Q,over 50s,Duane,Frank
+3,male,28.0,0,0,7.8542,S,20s,Olsson,Nils Johan Goransson
+3,male,16.0,0,0,9.5,S,10s,de Pelsmaeker,Alfons
+3,male,19.0,0,0,8.05,S,10s,Dorking,Edward Arthur
+3,male,33.0,0,0,8.6625,C,30s,Stankovic,Ivan
+3,male,30.0,0,0,9.5,S,30s,de Mulder,Theodore
+3,male,22.0,0,0,7.8958,S,20s,Naidenoff,Penko
+2,male,42.0,0,0,13.0,S,40s,Hosono,Masabumi
+3,female,22.0,0,0,7.75,Q,20s,Connolly,Kate
+1,female,26.0,0,0,78.85,S,20s,Barber,Ellen Nellie
+1,female,19.0,1,0,91.0792,C,10s,Bishop,Dickinson H (Helen Walton)
+2,male,36.0,0,0,12.875,C,30s,Levy,Rene Jacques
+3,female,24.0,0,0,8.85,S,20s,Haas,Aloisia
+3,male,24.0,0,0,7.8958,S,20s,Mineff,Ivan
+3,male,23.5,0,0,7.2292,C,20s,Hanna,Mansour
+1,female,2.0,1,2,151.55,S,under 10s,Allison,Helen Loraine
+1,female,50.0,0,1,247.5208,C,50s,Baxter,James (Helene DeLaudeniere Chaput)
+3,male,19.0,0,0,0.0,S,10s,Johnson,William Cahoone Jr
+1,male,0.92,1,2,151.55,S,under 10s,Allison,Hudson Trevor
+1,female,17.0,1,0,108.9,C,10s,Penasco y Castellana,Victor de Satode (Maria Josefa Perez de Soto y Vallejo)
+2,male,30.0,1,0,24.0,C,30s,Abelson,Samuel
+1,female,30.0,0,0,56.9292,C,30s,Francatelli,Laura Mabel
+1,female,24.0,0,0,83.1583,C,20s,Hays,Margaret Bechstein
+1,female,18.0,2,2,262.375,C,10s,Ryerson,Emily Borie
+2,female,26.0,1,1,26.0,S,20s,Lahtinen,William (Anna Sylfven)
+3,male,28.0,0,0,7.8958,S,20s,Hendekovic,Ignjac
+2,male,43.0,1,1,26.25,S,40s,Hart,Benjamin
+3,female,26.0,0,0,7.8542,S,20s,Nilsson,Helmina Josefina
+2,female,24.0,1,0,26.0,S,20s,Kantor,Sinai (Miriam Sternin)
+2,male,54.0,0,0,14.0,S,50s,Moraweck,Dr. Ernest
+1,female,31.0,0,2,164.8667,S,30s,Wick,Mary Natalie
+1,female,40.0,1,1,134.5,C,40s,Spedden,Frederic Oakley (Margaretta Corning Stone)
+3,male,22.0,0,0,7.25,S,20s,Dennis,Samuel
+3,male,27.0,0,0,7.8958,S,20s,Danoff,Yoto
+2,female,30.0,0,0,12.35,Q,30s,Slayter,Hilda Mary
+2,female,22.0,1,1,29.0,S,20s,Caldwell,Albert Francis (Sylvia Mae Harbaugh)
+1,female,36.0,0,0,135.6333,C,30s,Young,Marie Grice
+3,male,61.0,0,0,6.2375,S,over 50s,Nysveen,Johan Hansen
+2,female,36.0,0,0,13.0,S,30s,Ball,(Ada E Hall)
+3,female,31.0,1,1,20.525,S,30s,Goldsmith,Frank John (Emily Alice Brown)
+1,female,16.0,0,1,57.9792,C,10s,Hippach,Jean Gertrude
+1,male,45.5,0,0,28.5,S,40s,Partner,Austen
+1,male,38.0,0,1,153.4625,S,30s,Graham,George Edward
+3,male,16.0,2,0,18.0,S,10s,Vander Planke,Leo Edmondus
+1,male,29.0,1,0,66.6,S,20s,Pears,Thomas Clinton
+1,female,41.0,0,0,134.5,C,40s,Burns,Elizabeth Margaret
+3,male,45.0,0,0,8.05,S,40s,Dahl,Karl Edwart
+1,male,45.0,0,0,35.5,S,40s,Blackwell,Stephen Weart
+2,male,2.0,1,1,26.0,S,under 10s,Navratil,Edmond Roger
+1,female,24.0,3,2,263.0,S,20s,Fortune,Alice Elizabeth
+2,male,28.0,0,0,13.0,S,20s,Collander,Erik Gustaf
+2,male,25.0,0,0,13.0,S,20s,Sedgwick,Charles Frederick Waddington
+2,male,36.0,0,0,13.0,S,30s,Fox,Stanley Hubert
+2,female,24.0,0,0,13.0,S,20s,Brown,Amelia Mildred
+2,female,40.0,0,0,13.0,S,40s,Smith,Marion Elsie
+3,male,3.0,1,1,15.9,S,under 10s,Coutts,William Loch William
+3,male,42.0,0,0,8.6625,S,40s,Dimic,Jovan
+3,male,23.0,0,0,9.225,S,20s,Odahl,Nils Martin
+3,male,15.0,1,1,7.2292,C,10s,Elias,Tannous
+3,male,25.0,1,0,17.8,S,20s,Arnold-Franchi,Josef
+3,male,28.0,0,0,9.5,S,20s,Vanden Steen,Leo Peter
+1,female,22.0,0,1,55.0,S,20s,Bowerman,Elsie Edith
+2,female,38.0,0,0,13.0,S,30s,Funk,Annie Clemmer
+3,male,40.0,1,4,27.9,S,40s,Skoog,Wilhelm
+2,male,29.0,1,0,27.7208,C,20s,del Carlo,Sebastiano
+3,female,45.0,0,1,14.4542,C,40s,Barbara,(Catherine David)
+3,male,35.0,0,0,7.05,S,30s,Asim,Adola
+3,male,30.0,0,0,7.25,S,30s,Adahl,Mauritz Nils Martin
+1,female,60.0,1,0,75.25,C,over 50s,Warren,Frank Manley (Anna Sophia Atkinson)
+1,female,24.0,0,0,69.3,C,20s,Aubart,Mme. Leontine Pauline
+1,male,25.0,1,0,55.4417,C,20s,Harder,George Achilles
+3,male,18.0,1,0,6.4958,S,10s,Wiklund,Jakob Alfred
+3,male,19.0,0,0,8.05,S,10s,Beavan,William Thomas
+1,male,22.0,0,0,135.6333,C,20s,Ringhini,Sante
+3,female,3.0,3,1,21.075,S,under 10s,Palsson,Stina Viola
+3,female,22.0,0,0,7.25,S,20s,Landergren,Aurora Adelia
+1,male,27.0,0,2,211.5,C,20s,Widener,Harry Elkins
+3,male,20.0,0,0,4.0125,C,20s,Betros,Tannous
+3,male,19.0,0,0,7.775,S,10s,Gustafsson,Karl Gideon
+1,female,42.0,0,0,227.525,C,40s,Bidois,Rosalie
+3,female,1.0,0,2,15.7417,C,under 10s,Nakid,Maria (Mary)
+3,male,32.0,0,0,7.925,S,30s,Tikkanen,Juho
+1,female,35.0,1,0,52.0,S,30s,Holverson,Alexander Oskar (Mary Aline Towner)
+2,male,18.0,0,0,73.5,S,10s,Davies,Charles Henry
+3,male,1.0,5,2,46.9,S,under 10s,Goodwin,Sidney Leonard
+2,female,36.0,0,0,13.0,S,30s,Buss,Kate
+2,female,17.0,0,0,12.0,C,10s,Lehmann,Bertha
+1,male,36.0,1,2,120.0,S,30s,Carter,William Ernest
+3,male,21.0,0,0,7.7958,S,20s,Jansson,Carl Olof
+3,male,28.0,2,0,7.925,S,20s,Gustafsson,Johan Birger
+1,female,23.0,1,0,113.275,C,20s,Newell,Marjorie
+3,female,24.0,0,2,16.7,S,20s,Sandstrom,Hjalmar (Agnes Charlotta Bengtsson)
+3,male,22.0,0,0,7.7958,S,20s,Johansson,Erik
+3,female,31.0,0,0,7.8542,S,30s,Olsson,Elina
+2,male,46.0,0,0,26.0,S,40s,McKane,Peter David
+2,male,23.0,0,0,10.5,S,20s,Pain,Dr. Alfred
+2,female,28.0,0,0,12.65,S,20s,Trout,William H (Jessie L)
+3,male,39.0,0,0,7.925,S,30s,Niskanen,Juha
+3,male,26.0,0,0,8.05,S,20s,Adams,John
+3,female,21.0,1,0,9.825,S,20s,Jussila,Mari Aina
+3,male,28.0,1,0,15.85,S,20s,Hakkarainen,Pekka Pietari
+3,female,20.0,0,0,8.6625,S,20s,Oreskovic,Marija
+2,male,34.0,1,0,21.0,S,30s,Gale,Shadrach
+3,male,51.0,0,0,7.75,S,50s,Widegren,Carl/Charles Peter
+2,male,3.0,1,1,18.75,S,under 10s,Richards,William Rowe
+3,male,21.0,0,0,7.775,S,20s,Birkeland,Hans Martin Monsen
+1,female,33.0,1,0,90.0,Q,30s,Minahan,Daisy E
+3,male,44.0,0,0,7.925,S,40s,Sundman,Johan Julian
+2,female,34.0,1,1,32.5,S,30s,Drew,James Vivian (Lulu Thorne Christian)
+2,female,18.0,0,2,13.0,S,10s,Silven,Lyyli Karoliina
+2,male,30.0,0,0,13.0,S,30s,Matthews,William John
+3,female,10.0,0,2,24.15,S,10s,Van Impe,Catharina
+3,male,21.0,0,0,7.7333,Q,20s,Charters,David
+3,male,29.0,0,0,7.875,S,20s,Zimmerman,Leo
+3,female,28.0,1,1,14.4,S,20s,Danbom,Ernst Gilbert (Anna Sigrid Maria Brogren)
+3,male,18.0,1,1,20.2125,S,10s,Rosblom,Viktor Richard
+2,female,28.0,1,0,26.0,S,20s,Clarke,Charles V (Ada Maria Winfield)
+2,female,19.0,0,0,26.0,S,10s,Phillips,Kate Florence (Mrs Kate Louise Phillips Marshall)
+3,male,32.0,0,0,8.05,S,30s,Pickard,Berk (Berk Trembisky)
+1,male,28.0,0,0,26.55,S,20s,Bjornstrom-Steffansson,Mauritz Hakan
+2,female,42.0,1,0,26.0,S,40s,Louch,Charles Alexander (Alice Adelaide Slow)
+3,male,17.0,0,0,7.125,S,10s,Kallio,Nikolai Erland
+1,male,50.0,1,0,55.9,S,50s,Silvey,William Baird
+1,female,14.0,1,2,120.0,S,10s,Carter,Lucile Polk
+3,female,21.0,2,2,34.375,S,20s,Ford,Doolina Margaret Daisy
+2,female,24.0,2,3,18.75,S,20s,Richards,Sidney (Emily Hocking)
+1,male,64.0,1,4,263.0,S,over 50s,Fortune,Mark
+2,male,31.0,0,0,10.5,S,30s,Kvillner,Johan Henrik Johannesson
+2,female,45.0,1,1,26.25,S,40s,Hart,Benjamin (Esther Ada Bloomfield)
+3,male,20.0,0,0,9.5,S,20s,Hampe,Leon
+3,male,25.0,1,0,7.775,S,20s,Petterson,Johan Emil
+2,female,28.0,0,0,13.0,S,20s,Reynaldo,Ms. Encarnacion
+1,male,4.0,0,2,81.8583,S,under 10s,Dodge,Washington
+2,female,13.0,0,1,19.5,S,10s,Mellinger,Madeleine Violet
+1,male,34.0,0,0,26.55,S,30s,Seward,Frederic Kimber
+3,female,5.0,2,1,19.2583,C,under 10s,Baclini,Marie Catherine
+1,male,52.0,0,0,30.5,S,50s,Peuchen,Major. Arthur Godfrey
+2,male,36.0,1,2,27.75,S,30s,West,Edwy Arthur
+1,male,30.0,0,0,27.75,C,30s,Foreman,Benjamin Laventall
+1,male,49.0,1,0,89.1042,C,40s,Goldenberg,Samuel L
+3,male,29.0,0,0,7.8958,C,20s,Jalsevac,Ivan
+1,male,65.0,0,0,26.55,S,over 50s,Millet,Francis Davis
+2,female,50.0,0,0,10.5,S,50s,Toomey,Ellen
+1,male,48.0,0,0,26.55,S,40s,Anderson,Harry
+3,male,34.0,0,0,8.05,S,30s,Morley,William
+1,male,47.0,0,0,38.5,S,40s,Gee,Arthur H
+2,male,48.0,0,0,13.0,S,40s,Milling,Jacob Christian
+3,male,38.0,0,0,7.05,S,30s,Goncalves,Manuel Estanslas
+1,male,56.0,0,0,26.55,S,50s,Smart,John Montgomery
+3,female,0.75,2,1,19.2583,C,under 10s,Baclini,Helene Barbara
+3,male,38.0,0,0,8.6625,S,30s,Cacic,Luka
+2,female,33.0,1,2,27.75,S,30s,West,Edwy Arthur (Ada Mary Worth)
+2,female,23.0,0,0,13.7917,C,20s,Jerwan,Amin S (Marie Marthe Thuillard)
+3,female,22.0,0,0,9.8375,S,20s,Strandberg,Ida Sofia
+2,male,34.0,1,0,21.0,S,30s,Renouf,Peter Henry
+3,male,29.0,1,0,7.0458,S,20s,Braund,Lewis Richard
+3,male,22.0,0,0,7.5208,S,20s,Karlsson,Nils August
+3,female,2.0,0,1,12.2875,S,under 10s,Hirvonen,Hildur E
+3,male,9.0,5,2,46.9,S,under 10s,Goodwin,Harold Victor
+3,male,50.0,0,0,8.05,S,50s,Rouse,Richard Henry
+3,female,63.0,0,0,9.5875,S,over 50s,Turkula,(Hedwig)
+1,male,25.0,1,0,91.0792,C,20s,Bishop,Dickinson H
+1,female,35.0,1,0,90.0,S,30s,Hoyt,Frederick Maxfield (Jane Anne Forby)
+1,male,58.0,0,0,29.7,C,50s,Kent,Edward Austin
+3,male,30.0,0,0,8.05,S,30s,Somerton,Francis William
+3,male,9.0,1,1,15.9,S,under 10s,Coutts,Eden Leslie Neville
+3,male,21.0,0,0,7.25,S,20s,Windelov,Einar
+1,male,55.0,0,0,30.5,S,50s,Molson,Harry Markland
+1,male,71.0,0,0,49.5042,C,over 50s,Artagaveytia,Ramon
+3,male,21.0,0,0,8.05,S,20s,Stanley,Edward Roland
+1,female,54.0,1,0,78.2667,C,50s,Eustis,Elizabeth Mussey
+1,female,25.0,1,2,151.55,S,20s,Allison,Hudson J C (Bessie Waldo Daniels)
+3,male,24.0,0,0,7.7958,S,20s,Svensson,Olof
+3,male,17.0,0,0,8.6625,S,10s,Calic,Petar
+3,female,21.0,0,0,7.75,Q,20s,Canavan,Mary
+3,female,37.0,0,0,9.5875,S,30s,Laitinen,Kristina Sofia
+1,female,16.0,0,0,86.5,S,10s,Maioni,Roberta
+1,male,18.0,1,0,108.9,C,10s,Penasco y Castellana,Victor de Satode
+2,female,33.0,0,2,26.0,S,30s,Quick,Frederick Charles (Jane Richards)
+3,male,28.0,0,0,22.525,S,20s,Olsen,Henry Margido
+3,male,26.0,0,0,56.4958,S,20s,Lang,Fang
+3,male,29.0,0,0,7.75,Q,20s,Daly,Eugene Patrick
+1,male,36.0,0,0,26.2875,S,30s,McGough,James Robert
+1,female,54.0,1,0,59.4,C,50s,Rothschild,Martin (Elizabeth L. Barrett)
+3,male,24.0,0,0,7.4958,S,20s,Coleff,Satio
+1,male,47.0,0,0,34.0208,S,40s,Walker,William Anderson
+2,female,34.0,0,0,10.5,S,30s,Lemore,(Amelia Milley)
+2,female,36.0,1,0,26.0,S,30s,Angle,William A (Florence Mary Agnes Hughes)
+3,male,32.0,0,0,7.8958,S,30s,Pavlovic,Stefo
+1,female,30.0,0,0,93.5,S,30s,Perreault,Anne
+3,male,22.0,0,0,7.8958,S,20s,Vovk,Janko
+1,female,44.0,0,1,57.9792,C,40s,Hippach,Louis Albert (Ida Sophia Fischer)
+3,male,40.5,0,0,7.75,Q,40s,Farrell,James
+2,female,50.0,0,0,10.5,S,50s,Ridsdale,Lucy
+3,male,39.0,0,0,7.925,S,30s,Salonen,Johan Werner
+2,male,23.0,2,1,11.5,S,20s,Hocking,Richard George
+2,female,2.0,1,1,26.0,S,under 10s,Quick,Phyllis May
+3,male,17.0,1,1,7.2292,C,10s,Elias,Joseph Jr
+3,female,30.0,0,0,8.6625,S,30s,Cacic,Marija
+2,female,7.0,0,2,26.25,S,under 10s,Hart,Eva Miriam
+1,male,45.0,0,0,26.55,S,40s,Butt,Major. Archibald Willingham
+1,female,30.0,0,0,106.425,C,30s,LeRoy,Bertha
+1,female,22.0,0,2,49.5,C,20s,Frolicher,Hedwig Margaritha
+1,female,36.0,0,2,71.0,S,30s,Crosby,Harriet R
+3,female,9.0,4,2,31.275,S,under 10s,Andersson,Ingeborg Constanzia
+3,female,11.0,4,2,31.275,S,10s,Andersson,Sigrid Elisabeth
+2,male,32.0,1,0,26.0,S,30s,Beane,Edward
+1,male,50.0,1,0,106.425,C,50s,Douglas,Walter Donald
+1,male,64.0,0,0,26.0,S,over 50s,Nicholson,Arthur Ernest
+2,female,19.0,1,0,26.0,S,10s,Beane,Edward (Ethel Clarke)
+3,male,33.0,1,1,20.525,S,30s,Goldsmith,Frank John
+2,male,8.0,1,1,36.75,S,under 10s,Davies,John Morgan Jr
+1,male,17.0,0,2,110.8833,C,10s,Thayer,John Borland Jr
+2,male,27.0,0,0,26.0,S,20s,Sharp,Percival James R
+3,male,22.0,0,0,7.225,C,20s,Leeni,Fahim (Philip Zenni)
+3,female,22.0,0,0,7.775,S,20s,Ohman,Velin
+1,male,62.0,0,0,26.55,S,over 50s,Wright,George
+1,female,48.0,1,0,39.6,C,40s,Duff Gordon,Lady. (Lucille Christiana Sutherland) (Mrs Morgan)
+1,female,39.0,1,1,79.65,S,30s,Taussig,Emil (Tillie Mandelbaum)
+3,female,36.0,1,0,17.4,S,30s,de Messemaeker,Guillaume Joseph (Emma)
+3,male,40.0,0,0,7.8958,S,40s,Sivic,Husein
+2,male,28.0,0,0,13.5,S,20s,Norman,Robert Douglas
+3,male,24.0,2,0,24.15,S,20s,Davies,Alfred J
+3,male,19.0,0,0,7.8958,S,10s,Stoytcheff,Ilia
+3,female,29.0,0,4,21.075,S,20s,Palsson,Nils (Alma Cornelia Berglund)
+3,male,32.0,0,0,7.8542,S,30s,Jonsson,Carl
+2,male,62.0,0,0,10.5,S,over 50s,Harris,George
+1,female,53.0,2,0,51.4792,S,50s,Appleton,Edward Dale (Charlotte Lamson)
+1,male,36.0,0,0,26.3875,S,30s,Flynn,John Irwin (Irving)
+3,male,16.0,0,0,8.05,S,10s,Rush,Alfred George John
+3,male,19.0,0,0,14.5,S,10s,Patchett,George
+2,female,34.0,0,0,13.0,S,30s,Garside,Ethel
+1,female,39.0,1,0,55.9,S,30s,Silvey,William Baird (Alice Munger)
+3,male,32.0,0,0,7.925,S,30s,Jussila,Eiriik
+2,female,25.0,1,1,30.0,S,20s,Christy,Julie Rachel
+1,female,39.0,1,1,110.8833,C,30s,Thayer,John Borland (Marian Longstreth Morris)
+2,male,54.0,0,0,26.0,S,50s,Downton,William James
+1,male,36.0,0,0,40.125,C,30s,Ross,John Hugo
+1,female,18.0,0,2,79.65,S,10s,Taussig,Ruth
+2,male,47.0,0,0,15.0,S,40s,Jarvis,John Denzil
+1,male,60.0,1,1,79.2,C,over 50s,Frolicher-Stehli,Maxmillian
+3,male,22.0,0,0,8.05,S,20s,Gilinski,Eliezer
+3,male,35.0,0,0,7.125,S,30s,Rintamaki,Matti
+1,female,52.0,1,0,78.2667,C,50s,Stephenson,Walter Bertram (Martha Eustis)
+3,male,47.0,0,0,7.25,S,40s,Elsbury,William James
+2,male,37.0,1,0,26.0,S,30s,Chapman,John Henry
+3,male,36.0,1,1,24.15,S,30s,Van Impe,Jean Baptiste
+3,male,49.0,0,0,0.0,S,40s,Johnson,Alfred
+1,male,49.0,1,0,56.9292,C,40s,Duff Gordon,Sir. Cosmo Edmund (Mr Morgan)
+2,female,24.0,2,1,27.0,S,20s,Jacobsohn,Sidney Samuel (Amy Frances Christy)
+3,male,44.0,0,0,8.05,S,40s,Torber,Ernst William
+1,male,35.0,0,0,26.55,C,30s,Homer,Harry (Mr E Haven)
+3,male,36.0,1,0,15.55,S,30s,Lindell,Edvard Bengtsson
+3,male,30.0,0,0,7.8958,S,30s,Karaic,Milan
+1,male,27.0,0,0,30.5,S,20s,Daniel,Robert Williams
+2,female,22.0,1,2,41.5792,C,20s,Laroche,Joseph (Juliette Marie Louise Lafargue)
+1,female,40.0,0,0,153.4625,S,40s,Shutes,Elizabeth W
+3,female,39.0,1,5,31.275,S,30s,Andersson,Anders Johan (Alfrida Konstantia Brogren)
+3,male,35.0,0,0,8.05,S,30s,Brocklebank,William Alfred
+2,female,24.0,1,2,65.0,S,20s,Herman,Alice
+3,male,34.0,1,1,14.4,S,30s,Danbom,Ernst Gilbert
+3,female,26.0,1,0,16.1,S,20s,Lobb,William Arthur (Cordelia K Stanlick)
+2,female,4.0,2,1,39.0,S,under 10s,Becker,Marion Louise
+2,male,26.0,0,0,10.5,S,20s,Gavey,Lawrence
+3,male,27.0,1,0,14.4542,C,20s,Yasbeck,Antoni
+1,male,42.0,1,0,52.5542,S,40s,Kimball,Edwin Nelson Jr
+3,male,20.0,1,1,15.7417,C,20s,Nakid,Sahid
+3,male,21.0,0,0,7.8542,S,20s,Hansen,Henry Damsgaard
+3,male,21.0,0,0,16.1,S,20s,Bowen,David John Dai
+1,male,61.0,0,0,32.3208,S,over 50s,Sutton,Frederick
+2,male,57.0,0,0,12.35,Q,50s,Kirkland,Rev. Charles Leonard
+1,female,21.0,0,0,77.9583,S,20s,Longley,Gretchen Fiske
+3,male,26.0,0,0,7.8958,S,20s,Bostandyeff,Guentcho
+1,male,80.0,0,0,30.0,S,over 50s,Barkworth,Algernon Henry Wilson
+3,male,51.0,0,0,7.0542,S,50s,Lundahl,Johan Svensson
+1,male,32.0,0,0,30.5,C,30s,Stahelin-Maeglin,Dr. Max
+3,female,9.0,3,2,27.9,S,under 10s,Skoog,Mabel
+2,female,28.0,0,0,13.0,S,20s,Davis,Mary
+3,male,32.0,0,0,7.925,S,30s,Leinonen,Antti Gustaf
+2,male,31.0,1,1,26.25,S,30s,Collyer,Harvey
+3,female,41.0,0,5,39.6875,S,40s,Panula,Juha (Maria Emilia Ojala)
+3,male,20.0,0,0,7.8542,S,20s,Jensen,Hans Peder
+1,female,24.0,0,0,69.3,C,20s,Sagesser,Mlle. Emma
+3,female,2.0,3,2,27.9,S,under 10s,Skoog,Margit Elizabeth
+3,female,0.75,2,1,19.2583,C,under 10s,Baclini,Eugenie
+1,male,48.0,1,0,76.7292,C,40s,Harper,Henry Sleeper
+3,male,19.0,0,0,7.8958,S,10s,Cor,Liudevit
+1,male,56.0,0,0,35.5,C,50s,Simonius-Blumer,Col. Oberst Alfons
+3,female,23.0,0,0,7.55,S,20s,Stanley,Amy Zillah Elsie
+2,female,18.0,0,1,23.0,S,10s,Doling,Elsie
+3,male,21.0,0,0,8.4333,S,20s,Kalvik,Johannes Halvorsen
+3,female,18.0,0,0,6.75,Q,10s,Hegarty,Hanora Nora
+2,male,24.0,2,0,73.5,S,20s,Hickman,Leonard Mark
+3,female,32.0,1,1,15.5,Q,30s,Bourke,John (Catherine)
+2,male,23.0,0,0,13.0,S,20s,Eitemiller,George Floyd
+1,male,58.0,0,2,113.275,C,50s,Newell,Arthur Webster
+1,male,50.0,2,0,133.65,S,50s,Frauenthal,Dr. Henry William
+3,male,40.0,0,0,7.225,C,40s,Badt,Mohamed
+1,male,47.0,0,0,25.5875,S,40s,Colley,Edward Pomeroy
+3,male,36.0,0,0,7.4958,S,30s,Coleff,Peju
+3,male,20.0,1,0,7.925,S,20s,Lindqvist,Eino William
+2,male,32.0,2,0,73.5,S,30s,Hickman,Lewis
+2,male,25.0,0,0,13.0,S,20s,Butler,Reginald Fenton
+3,male,43.0,0,0,8.05,S,40s,Cook,Jacob
+2,female,40.0,1,1,39.0,S,40s,Brown,Thomas William Solomon (Elizabeth Catherine Ford)
+1,male,31.0,1,0,52.0,S,30s,Davidson,Thornton
+2,male,70.0,0,0,10.5,S,over 50s,Mitchell,Henry Michael
+2,male,31.0,0,0,13.0,S,30s,Wilhelms,Charles
+3,male,18.0,0,0,7.775,S,10s,Edvardsson,Gustaf Hjalmar
+3,male,24.5,0,0,8.05,S,20s,Sawyer,Frederick Charles
+3,female,18.0,0,0,9.8417,S,10s,Turja,Anna Sofia
+3,female,43.0,1,6,46.9,S,40s,Goodwin,Frederick (Augusta Tyler)
+1,male,36.0,0,1,512.3292,C,30s,Cardeza,Thomas Drake Martinez
+1,male,27.0,0,0,76.7292,C,20s,Hassab,Hammad
+3,male,20.0,0,0,9.225,S,20s,Olsvigen,Thor Anderson
+3,male,14.0,5,2,46.9,S,10s,Goodwin,Charles Edward
+2,male,60.0,1,1,39.0,S,over 50s,Brown,Thomas William Solomon
+2,male,25.0,1,2,41.5792,C,20s,Laroche,Joseph Philippe Lemercier
+3,male,14.0,4,1,39.6875,S,10s,Panula,Jaako Arnold
+3,male,19.0,0,0,10.1708,S,10s,Dakic,Branko
+3,male,18.0,0,0,7.7958,S,10s,Fischer,Eberhard Thelander
+1,female,15.0,0,1,211.3375,S,10s,Madill,Georgette Alexandra
+1,male,31.0,1,0,57.0,S,30s,Dick,Albert Adrian
+3,female,4.0,0,1,13.4167,C,under 10s,Karun,Manca
+3,male,25.0,0,0,7.225,C,20s,Saad,Khalil
+1,male,60.0,0,0,26.55,S,over 50s,Weir,Col. John
+2,male,52.0,0,0,13.5,S,50s,Chapman,Charles Henry
+3,male,44.0,0,0,8.05,S,40s,Kelly,James
+1,male,49.0,1,1,110.8833,C,40s,Thayer,John Borland
+3,male,42.0,0,0,7.65,S,40s,Humblen,Adolf Mathias Nicolai Olsen
+1,female,18.0,1,0,227.525,C,10s,Astor,John Jacob (Madeleine Talmadge Force)
+1,male,35.0,0,0,26.2875,S,30s,Silverthorne,Spencer Victor
+3,female,18.0,0,1,14.4542,C,10s,Barbara,Saiide
+3,male,25.0,0,0,7.7417,Q,20s,Gallagher,Martin
+3,male,26.0,1,0,7.8542,S,20s,Hansen,Henrik Juul
+2,male,39.0,0,0,26.0,S,30s,Morley,Henry Samuel (Mr Henry Marshall)
+2,female,45.0,0,0,13.5,S,40s,Kelly,Florence Fannie
+1,male,42.0,0,0,26.2875,S,40s,Calderhead,Edward Pennington
+1,female,22.0,0,0,151.55,S,20s,Cleaver,Alice
+1,female,24.0,0,0,49.5042,C,20s,Mayne,Mlle. Berthe Antonine (Mrs de Villiers)
+1,male,48.0,1,0,52.0,S,40s,Taylor,Elmer Zebley
+3,male,29.0,0,0,9.4833,S,20s,Larsson,August Viktor
+2,male,52.0,0,0,13.0,S,50s,Greenberg,Samuel
+3,male,19.0,0,0,7.65,S,10s,Soholt,Peter Andreas Lauritz Andersen
+1,female,38.0,0,0,227.525,C,30s,Endres,Caroline Louise
+2,female,27.0,0,0,10.5,S,20s,Troutt,Edwina Celia Winnie
+3,male,33.0,0,0,7.775,S,30s,Johnson,Malkolm Joackim
+2,female,6.0,0,1,33.0,S,under 10s,Harper,Annie Jessie Nina
+3,male,17.0,1,0,7.0542,S,10s,Jensen,Svend Lauritz
+2,male,34.0,0,0,13.0,S,30s,Gillespie,William Henry
+2,male,50.0,0,0,13.0,S,50s,Hodges,Henry Price
+1,male,27.0,1,0,53.1,S,20s,Chambers,Norman Campbell
+3,male,20.0,0,0,8.6625,S,20s,Oreskovic,Luka
+2,female,30.0,3,0,21.0,S,30s,Renouf,Peter Henry (Lillian Jefferys)
+2,male,25.0,1,0,26.0,S,20s,Bryhl,Kurt Arnold Gottfrid
+3,female,25.0,1,0,7.925,S,20s,Ilmakangas,Pieta Sofia
+1,female,29.0,0,0,211.3375,S,20s,Allen,Elisabeth Walton
+3,male,11.0,0,0,18.7875,C,10s,Hassan,Houssein G N
+2,male,23.0,0,0,13.0,S,20s,Berriman,William John
+2,male,23.0,0,0,13.0,S,20s,Troupiansky,Moses Aaron
+3,male,28.5,0,0,16.1,S,20s,Williams,Leslie
+3,female,48.0,1,3,34.375,S,40s,Ford,Edward (Margaret Ann Watson)
+1,male,35.0,0,0,512.3292,C,30s,Lesurer,Gustave J
+1,male,36.0,1,0,78.85,S,30s,Cavendish,Tyrell William
+1,female,21.0,2,2,262.375,C,20s,Ryerson,Susan Parker Suzette
+3,male,24.0,1,0,16.1,S,20s,McNamee,Neal
+3,male,31.0,0,0,7.925,S,30s,Stranden,Juho
+1,male,70.0,1,1,71.0,S,over 50s,Crosby,Capt. Edward Gifford
+3,male,16.0,1,1,20.25,S,10s,Abbott,Rossmore Edward
+2,female,30.0,0,0,13.0,S,30s,Sinkkonen,Anna
+1,male,19.0,1,0,53.1,S,10s,Marvin,Daniel Warner
+3,male,31.0,0,0,7.75,Q,30s,Connaghton,Michael
+2,female,4.0,1,1,23.0,S,under 10s,Wells,Joan
+3,male,6.0,0,1,12.475,S,under 10s,Moor,Meier
+3,male,33.0,0,0,9.5,S,30s,Vande Velde,Johannes Joseph
+3,male,23.0,0,0,7.8958,S,20s,Jonkoff,Lalio
+2,female,48.0,1,2,65.0,S,40s,Herman,Samuel (Jane Laver)
+2,male,0.67,1,1,14.5,S,under 10s,Hamalainen,Viljo
+3,male,28.0,0,0,7.7958,S,20s,Carlsson,August Sigfrid
+2,male,18.0,0,0,11.5,S,10s,Bailey,Percy Andrew
+3,male,34.0,0,0,8.05,S,30s,Theobald,Thomas Leonard
+1,female,33.0,0,0,86.5,S,30s,Rothes,the Countess. of (Lucy Noel Martha Dyer-Edwards)
+3,male,41.0,0,0,7.125,S,40s,Nirva,Iisakki Antino Aijo
+3,male,20.0,0,0,7.2292,C,20s,Barah,Hanna Assi
+1,female,36.0,1,2,120.0,S,30s,Carter,William Ernest (Lucile Polk)
+3,male,16.0,0,0,7.775,S,10s,Eklund,Hans Linus
+1,female,51.0,1,0,77.9583,S,50s,Hogeboom,John C (Anna Andrews)
+3,female,30.5,0,0,7.75,Q,30s,Mangan,Mary
+3,male,32.0,0,0,8.3625,S,30s,Gronnestad,Daniel Danielsen
+3,male,24.0,0,0,9.5,S,20s,Lievens,Rene Aime
+3,male,48.0,0,0,7.8542,S,40s,Jensen,Niels Peder
+2,female,57.0,0,0,10.5,S,50s,Mack,(Mary)
+2,female,54.0,1,3,23.0,S,50s,Hocking,Elizabeth (Eliza Needs)
+3,male,18.0,0,0,7.75,S,10s,Myhrman,Pehr Fabian Oliver Malkolm
+3,female,5.0,0,0,12.475,S,under 10s,Emanuel,Virginia Ethel
+1,female,43.0,0,1,211.3375,S,40s,Robert,Edward Scott (Elisabeth Walton McMillan)
+3,female,13.0,0,0,7.2292,C,10s,Ayoub,Banoura
+1,female,17.0,1,0,57.0,S,10s,Dick,Albert Adrian (Vera Gillespie)
+1,male,29.0,0,0,30.0,S,20s,Long,Milton Clyde
+3,male,25.0,0,0,7.05,S,20s,Ali,William
+3,male,25.0,0,0,7.25,S,20s,Harmer,Abraham (David Lishin)
+3,female,18.0,0,0,7.4958,S,10s,Sjoblom,Anna Sofia
+3,male,8.0,4,1,29.125,Q,under 10s,Rice,George Hugh
+3,male,1.0,1,2,20.575,S,under 10s,Dean,Bertram Vere
+1,male,46.0,0,0,79.2,C,40s,Guggenheim,Benjamin
+2,male,16.0,0,0,26.0,S,10s,Gaskell,Alfred
+3,male,25.0,0,0,7.8958,S,20s,Dantcheff,Ristiu
+2,male,39.0,0,0,13.0,S,30s,Otter,Richard
+1,female,49.0,0,0,25.9292,S,40s,Leader,Dr. Alice (Farnham)
+3,female,31.0,0,0,8.6833,S,30s,Osman,Mara
+3,male,30.0,0,0,7.2292,C,30s,Ibrahim Shawah,Yousseff
+3,female,30.0,1,1,24.15,S,30s,Van Impe,Jean Baptiste (Rosalie Paula Govaert)
+2,male,34.0,0,0,13.0,S,30s,Ponesell,Martin
+2,female,31.0,1,1,26.25,S,30s,Collyer,Harvey (Charlotte Annie Tate)
+1,male,11.0,1,2,120.0,S,10s,Carter,William Thornton II
+3,male,0.42,0,1,8.5167,C,under 10s,Thomas,Assad Alexander
+3,male,27.0,0,0,6.975,S,20s,Hedman,Oskar Arvid
+3,male,31.0,0,0,7.775,S,30s,Johansson,Karl Johan
+1,male,39.0,0,0,0.0,S,30s,Andrews,Thomas Jr
+3,female,18.0,0,0,7.775,S,10s,Pettersson,Ellen Natalia
+2,male,39.0,0,0,13.0,S,30s,Meyer,August
+1,female,33.0,1,0,53.1,S,30s,Chambers,Norman Campbell (Bertha Griggs)
+3,male,26.0,0,0,7.8875,S,20s,Alexander,William
+3,male,39.0,0,0,24.15,S,30s,Lester,James
+2,male,35.0,0,0,10.5,S,30s,Slemen,Richard James
+3,female,6.0,4,2,31.275,S,under 10s,Andersson,Ebba Iris Alfrida
+3,male,30.5,0,0,8.05,S,30s,Tomlin,Ernest Portage
+3,female,23.0,0,0,7.925,S,20s,Heininen,Wendla Maria
+2,male,31.0,1,1,37.0042,C,30s,Mallet,Albert
+3,male,43.0,0,0,6.45,S,40s,Holm,John Fredrik Alexander
+3,male,10.0,3,2,27.9,S,10s,Skoog,Karl Thorsten
+1,female,52.0,1,1,93.5,S,50s,Hays,Charles Melville (Clara Jennings Gregg)
+3,male,27.0,0,0,8.6625,S,20s,Lulic,Nikola
+1,male,38.0,0,0,0.0,S,30s,Reuchlin,Jonkheer. John George
+3,female,27.0,0,1,12.475,S,20s,Moor,(Beila)
+3,male,2.0,4,1,39.6875,S,under 10s,Panula,Urho Abraham
+2,male,1.0,0,2,37.0042,C,under 10s,Mallet,Andre
+3,female,15.0,1,0,14.4542,C,10s,Yasbeck,Antoni (Selini Alexander)
+2,male,0.83,1,1,18.75,S,under 10s,Richards,George Sibley
+3,male,23.0,0,0,7.8542,S,20s,Augustsson,Albert
+3,male,18.0,0,0,8.3,S,10s,Allum,Owen George
+1,female,39.0,1,1,83.1583,C,30s,Compton,Sara Rebecca
+3,male,21.0,0,0,8.6625,S,20s,Pasic,Jakob
+3,male,32.0,0,0,56.4958,S,30s,Chip,Chang
+3,male,20.0,0,0,7.925,S,20s,Alhomaki,Ilmari Rudolf
+2,male,16.0,0,0,10.5,S,10s,Mudd,Thomas Charles
+1,female,30.0,0,0,31.0,C,30s,Serepeca,Augusta
+3,male,34.5,0,0,6.4375,C,30s,Lemberopolous,Peter L
+3,male,17.0,0,0,8.6625,S,10s,Culumovic,Jeso
+3,male,42.0,0,0,7.55,S,40s,Abbing,Anthony
+3,male,35.0,0,0,7.8958,C,30s,Markoff,Marin
+2,male,28.0,0,1,33.0,S,20s,Harper,Rev. John
+3,male,4.0,4,2,31.275,S,under 10s,Andersson,Sigvard Harald Elias
+3,male,74.0,0,0,7.775,S,over 50s,Svensson,Johan
+3,female,9.0,1,1,15.2458,C,under 10s,Boulos,Nourelain
+1,female,16.0,0,1,39.4,S,10s,Lines,Mary Conover
+2,female,44.0,1,0,26.0,S,40s,Carter,Ernest Courtenay (Lilian Hughes)
+3,female,18.0,0,1,9.35,S,10s,Aks,Sam (Leah Rosen)
+1,female,45.0,1,1,164.8667,S,40s,Wick,George Dennick (Mary Hitchcock)
+1,male,51.0,0,0,26.55,S,50s,Daly,Peter Denis
+3,female,24.0,0,3,19.2583,C,20s,Baclini,Solomon (Latifa Qurban)
+3,male,41.0,2,0,14.1083,S,40s,Hansen,Claus Peter
+2,male,21.0,1,0,11.5,S,20s,Giles,Frederick Edward
+1,female,48.0,0,0,25.9292,S,40s,Swift,Frederick Joel (Margaret Welles Barron)
+2,male,24.0,0,0,13.0,S,20s,Gill,John William
+2,female,42.0,0,0,13.0,S,40s,Bystrom,(Karolina)
+2,female,27.0,1,0,13.8583,C,20s,Duran y More,Asuncion
+1,male,31.0,0,0,50.4958,S,30s,Roebling,Washington Augustus II
+3,male,4.0,1,1,11.1333,S,under 10s,Johnson,Harold Theodor
+3,male,26.0,0,0,7.8958,S,20s,Balkic,Cerin
+1,female,47.0,1,1,52.5542,S,40s,Beckwith,Richard Leonard (Sallie Monypeny)
+1,male,33.0,0,0,5.0,S,30s,Carlsson,Frans Olof
+3,male,47.0,0,0,9.0,S,40s,Vander Cruyssen,Victor
+2,female,28.0,1,0,24.0,C,20s,Abelson,Samuel (Hannah Wizosky)
+3,female,15.0,0,0,7.225,C,10s,Najib,Adele Kiamie Jane
+3,male,20.0,0,0,9.8458,S,20s,Gustafsson,Alfred Ossian
+3,male,19.0,0,0,7.8958,S,10s,Petroff,Nedelio
+1,female,56.0,0,1,83.1583,C,50s,Potter,Thomas Jr (Lily Alexenia Wilson)
+2,female,25.0,0,1,26.0,S,20s,Shelley,William (Imanita Parrish Hall)
+3,male,33.0,0,0,7.8958,S,30s,Markun,Johann
+3,female,22.0,0,0,10.5167,S,20s,Dahlberg,Gerda Ulrika
+2,male,28.0,0,0,10.5,S,20s,Banfield,Frederick James
+3,male,25.0,0,0,7.05,S,20s,Sutehall,Henry Jr
+3,female,39.0,0,5,29.125,Q,30s,Rice,William (Margaret Norton)
+2,male,27.0,0,0,13.0,S,20s,Montvila,Rev. Juozas
+1,female,19.0,0,0,30.0,S,10s,Graham,Margaret Edith
+1,male,26.0,0,0,30.0,C,20s,Behr,Karl Howell
+3,male,32.0,0,0,7.75,Q,30s,Dooley,Patrick

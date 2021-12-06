@@ -30,20 +30,6 @@ def age_label(age):
     else:
         return 'under 10s'
 
-def fare(fare):
-    if fare >= 80:
-        return 'more 80'
-    elif fare >=60 :
-        return 'more 60 and less 80'
-    elif fare >= 40:
-        return 'more 40 and less 60'
-    elif fare >= 20:
-        return 'more 20 and less 40'
-    elif fare >= 10:
-        return 'more 10 and less 20'
-    else:
-        return 'less 10'
-
 
 def firstName(first):
     if 'Mr.' in first:
@@ -64,7 +50,6 @@ def firstName(first):
 
 # 새 컬럼을 만들 때는 .으로 못 만들고 [] 안에 넣어서 만들어야함. 
 df['Age_Label'] = df.Age.apply(age_label)
-df.Fare = df.Fare.apply(fare)
 
 
 # Name 컬럼을 Last Name과 First Name으로 나누기
